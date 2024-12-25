@@ -1,0 +1,24 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "attachmentFolderPath": "",
+  "showLineNumber": false,
+  "showIndentGuide": false,
+  "showUnsupportedFiles": true,
+  "showRibbon": true,
+  "showInlineTitle": true,
+  "newFileLocation": "current",
+  "foldHeading": true,
+  "readableLineLength": true,
+  "propertiesInDocument": "visible",
+  "strictLineBreaks": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

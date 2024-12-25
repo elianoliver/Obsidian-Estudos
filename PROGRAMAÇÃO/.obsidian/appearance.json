@@ -1,0 +1,19 @@
+{
+  "accentColor": "#440057",
+  "theme": "moonstone",
+  "cssTheme": "AnuPpuccin",
+  "translucency": false,
+  "nativeMenus": true,
+  "showViewHeader": false,
+  "enabledCssSnippets": [
+    "teste",
+    "image-rounded",
+    "custom-style",
+    "image-center",
+    "justify",
+    "Colored Sidebar Items",
+    "rounded-images"
+  ],
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font"
+}

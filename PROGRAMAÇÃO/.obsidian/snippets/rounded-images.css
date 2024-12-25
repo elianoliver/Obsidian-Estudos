@@ -1,0 +1,22 @@
+/* Aplicar arredondamento no modo de visualização */
+.markdown-preview-view img {
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* Opcional: sombra */
+}
+
+/* Aplicar arredondamento no modo de edição ao vivo (Live Preview) */
+.markdown-source-view.mod-cm6 img,
+/* Editor de código Markdown */
+.markdown-source-view.mod-cm6 .cm-preview-markdown img {
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+    /* Opcional: sombra */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

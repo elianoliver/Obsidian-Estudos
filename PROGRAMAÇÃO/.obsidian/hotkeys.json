@@ -1,0 +1,20 @@
+{
+  "obsidian-admonition:insert-admonition": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ";"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "markdown:add-metadata-property": [],
+  "editor:open-link-in-new-window": []
+}

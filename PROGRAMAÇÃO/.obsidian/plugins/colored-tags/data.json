@@ -1,0 +1,28 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "Sócrates": 1,
+    "Céfalo": 2,
+    "Polemarco": 3,
+    "Trasímaco": 4,
+    "Adimanto": 5,
+    "Glauco": 6,
+    "Platão": 7,
+    "Capítulo_0": 8,
+    "Capítulo_1": 9,
+    "Capítulo_2": 10,
+    "ReZero": 11,
+    "ARepublica": 12,
+    "EntendendoAlgoritmos": 13
+  },
+  "_version": 3
+}

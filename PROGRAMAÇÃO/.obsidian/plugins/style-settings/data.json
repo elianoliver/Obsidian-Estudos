@@ -1,0 +1,92 @@
+{
+  "obsidian-prism-theme@@color-schemes-lt": "pt-color-scheme-latte-lt",
+  "obsidian-prism-theme@@accent-style-lt": "pt-accent-style-filled-lt",
+  "obsidian-prism-theme@@light-accent-color-preset": "pt-accent-color-blue-lt",
+  "obsidian-prism-theme@@highlight-text-accent-lt": "pt-highlight-text-accent-lt",
+  "obsidian-prism-theme@@light-mark-highlight-style": "pt-highlight-style-filled-lt",
+  "obsidian-prism-theme@@pt-fade-inactive-tabs": false,
+  "obsidian-prism-theme@@pt-disable-blur": false,
+  "obsidian-prism-theme@@pt-collapsed-pinned-tab": false,
+  "obsidian-prism-theme@@radius-s": 4,
+  "obsidian-prism-theme@@radius-m": 8,
+  "obsidian-prism-theme@@pt-icons-accent": false,
+  "catppuccin-icon-styles@@ctp-icon-hide": true,
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-mocha",
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-rosewater",
+  "catppuccin-interface-styles@@ctp-bold-folder-title": false,
+  "image-customization": {
+    "name": "Image Customization",
+    "id": "image-customization",
+    "settings": [
+      {
+        "id": "image-settings-title",
+        "title": "Image Settings",
+        "type": "heading",
+        "level": 3
+      },
+      {
+        "id": "image-rounded-corners",
+        "title": "Rounded Corners",
+        "description": "Enable rounded corners for images",
+        "type": "class-toggle",
+        "default": false
+      },
+      {
+        "id": "image-border-radius",
+        "title": "Corner Radius",
+        "description": "Adjust the border radius of images",
+        "type": "variable-number",
+        "format": "px",
+        "default": 15,
+        "min": 0,
+        "max": 50
+      },
+      {
+        "id": "image-shadow",
+        "title": "Drop Shadow",
+        "description": "Enable drop shadow for images",
+        "type": "class-toggle",
+        "default": false
+      },
+      {
+        "id": "image-shadow-intensity",
+        "title": "Shadow Intensity",
+        "description": "Adjust the shadow intensity",
+        "type": "variable-number-slider",
+        "default": 0.2,
+        "min": 0,
+        "max": 1,
+        "step": 0.1
+      },
+      {
+        "id": "image-center",
+        "title": "Center Images",
+        "description": "Automatically center all images",
+        "type": "class-toggle",
+        "default": true
+      }
+    ]
+  },
+  "name": "Rounded Images",
+  "id": "rounded-images",
+  "settings": [
+    {
+      "id": "rounded-images-toggle",
+      "title": "Enable Rounded Images",
+      "description": "Adds rounded corners to images",
+      "type": "class-toggle",
+      "default": false
+    },
+    {
+      "id": "rounded-radius",
+      "title": "Corner Radius",
+      "description": "How rounded the corners should be",
+      "type": "variable-number-slider",
+      "default": 15,
+      "min": 0,
+      "max": 50,
+      "step": 1,
+      "format": "px"
+    }
+  ]
+}

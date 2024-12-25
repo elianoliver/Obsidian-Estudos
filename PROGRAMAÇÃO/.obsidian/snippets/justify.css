@@ -1,0 +1,22 @@
+/* Justificar texto no modo de visualização (Preview), mas excluir títulos */
+.markdown-preview-view p {
+    text-align: justify;
+}
+
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+    text-align: left; /* Ou centralize, se preferir */
+}
+
+/* Justificar texto no modo de edição ao vivo (Live Preview), mas excluir títulos */
+.markdown-source-view.mod-cm6 .cm-line:not(.cm-header) {
+    text-align: justify;
+}
+
+.markdown-source-view.mod-cm6 .cm-header {
+    text-align: left; /* Ou qualquer outro valor padrão */
+}

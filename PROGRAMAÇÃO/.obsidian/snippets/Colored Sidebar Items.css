@@ -1,0 +1,368 @@
+/*------------------------------------------------------------------------------
+               Obsidian Colored Sidebar Items by CyanVoxel v2.0.0
+
+                   A colored sidebar CSS snippet inspired by
+                   the "Coloured Folders" snippet by Lithou.
+
+This snippet targets folders beginning with numbered prefixes, and applies full
+color formatting based on the root colors listed below. The prefixes are both
+customizable and extensible; feel free to change, add, and remove them based on
+your own titles and vault structure! By default I have a range of 8+1 colors,
+however I've provided some other common colors as a starting point for your own
+customization. Just swap out the color variable names in the prefix groups.
+
+------------------------------------------------------------------------------*/
+
+:root {
+    /* ================================ Colors ================================ */
+    --red: #d14350;
+    /* Suavizado do vermelho original */
+    --red-orange: #d15a5f;
+    /* Tons mais suaves */
+    --orange: #d67d5c;
+    /* Laranja mais neutro */
+    --amber: #dba76f;
+    /* Âmbar menos saturado */
+    --yellow: #d8ba6d;
+    /* Amarelo mais suave */
+    --lime: #8ac277;
+    /* Verde limão mais pastel */
+    --mint: #6ad3a4;
+    /* Menta mais suave */
+    --cyan: #5ec7ce;
+    /* Ciano menos brilhante */
+    --cool-cyan: #5ab8ce;
+    /* Ciano frio mais suave */
+    --light-blue: #609dc2;
+    /* Azul claro mais neutro */
+    --blue: #5b7bc2;
+    /* Azul mais suave */
+    --blue-violet: #7a6cc2;
+    /* Violeta azulado mais pastel */
+    --violet: #9470c2;
+    /* Violeta mais suave */
+    --purple: #b47abc;
+    /* Roxo mais pastel */
+    --magenta: #c66f94;
+    /* Magenta menos saturado */
+    --hot-red: #c25a6f;
+    /* Vermelho quente mais suave */
+    --cool-gray: #6d7280;
+    /* Cinza frio ligeiramente mais claro */
+
+    --default-text-color: #d0d0d0;
+    --highlight: #fff;
+    --shadow: #0b0c2c;
+
+    --nav-item-weight-hover: bold;
+}
+
+/* Light Theme Specific Properties */
+.theme-light {
+    --contrast-color: var(--shadow);
+    --default-text-color: var(--shadow);
+    --bg-contrast-amount: 60%;
+    /* Reduzido de 70% */
+    --fg-contrast-amount: 25%;
+    /* Reduzido de 30% */
+    --medium-contrast-amount: 50%;
+    /* Reduzido de 60% */
+    --active-contrast-amount: 25%;
+    /* Reduzido de 30% */
+
+    /* Versões mais suaves para o tema claro */
+    --yellow: color-mix(in srgb, #d8ba6d 85%, var(--shadow));
+    --lime: color-mix(in srgb, #8ac277 85%, var(--shadow));
+    --mint: color-mix(in srgb, #6ad3a4 80%, var(--shadow));
+    --cyan: color-mix(in srgb, #5ec7ce 80%, var(--shadow));
+    --cool-cyan: color-mix(in srgb, #5ab8ce 80%, var(--shadow));
+    --light-blue: color-mix(in srgb, #609dc2 85%, var(--shadow));
+}
+
+/* Dark Theme Specific Properties */
+.theme-dark {
+    --contrast-color: var(--highlight);
+    --bg-contrast-amount: 15%;
+    --fg-contrast-amount: 40%;
+    --medium-contrast-amount: 20%;
+    --active-contrast-amount: 10%;
+}
+
+/* All Folder Titles */
+.nav-folder-title {
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+/* Narrower Padding on Desktop*/
+@media only screen and (min-width: 768px) {
+
+    .nav-file-title,
+    .nav-folder-title {
+        /* padding: 3px 5px 2px 4px !important; */
+        padding-top: 3px !important;
+        padding-right: 5px !important;
+        padding-bottom: 2px !important;
+        padding-left: 15px;
+    }
+}
+
+/*
+============================ Folder Title Prefixes =============================
+The following groups of prefixes are divided by the numbering prefix that they
+target. For example, prefix '00' targets any folder titles beginning with '00',
+such as '00 - Maps of Content'. The only other piece of information that changes
+between the prefix groups are the color variables. Change or expand on any of
+these to suit your own folder structure and vault theme!
+*/
+
+/* ------------------------------- Base -------------------------------- */
+.nav-folder-title {
+    color: var(--color);
+    --nav-item-color-hover: color-mix(in srgb,
+            var(--color) var(--fg-contrast-amount),
+            var(--contrast-color));
+    --nav-item-background-hover: color-mix(in srgb,
+            var(--color) var(--bg-contrast-amount),
+            transparent);
+    --background-modifier-border-focus: color-mix(in srgb,
+            var(--color) 40%,
+            transparent);
+    --nav-collapse-icon-color: color-mix(in srgb, var(--color) 60%, transparent);
+}
+
+.nav-folder-title:hover {
+    --nav-collapse-icon-color: color-mix(in srgb,
+            var(--color) 60%,
+            var(--contrast-color));
+}
+
+.tree-item-children .nav-folder:has(.nav-folder-title) {
+    --nav-indentation-guide-color: color-mix(in srgb,
+            var(--color) var(--medium-contrast-amount),
+            transparent);
+}
+
+.tree-item-children .nav-folder:has(.nav-folder-title) .nav-file-title {
+    color: color-mix(in srgb,
+            var(--color) var(--medium-contrast-amount),
+            var(--default-text-color));
+    --nav-item-background-hover: color-mix(in srgb,
+            color-mix(in srgb, var(--color) 50%, var(--highlight)) var(--bg-contrast-amount),
+            transparent);
+    --background-modifier-border-focus: color-mix(in srgb,
+            var(--color) 40%,
+            transparent);
+    --nav-item-background-active: color-mix(in srgb,
+            var(--color) var(--active-contrast-amount),
+            transparent);
+}
+
+/* ------------------------------- 00 Prefix -------------------------------- */
+.nav-folder-title[data-path^="00"] {
+    --color: var(--mint);
+}
+
+/* ------------------------------- 01 Prefix -------------------------------- */
+.nav-folder-title[data-path^="01"] {
+    --color: var(--cyan);
+}
+
+/* ------------------------------- 02 Prefix -------------------------------- */
+.nav-folder-title[data-path^="02"] {
+    --color: var(--light-blue);
+}
+
+/* ------------------------------- 03 Prefix -------------------------------- */
+.nav-folder-title[data-path^="03"] {
+    --color: var(--blue);
+}
+
+/* ------------------------------- 04 Prefix -------------------------------- */
+.nav-folder-title[data-path^="04"] {
+    --color: var(--violet);
+}
+
+/* ------------------------------- 05 Prefix -------------------------------- */
+.nav-folder-title[data-path^="05"] {
+    --color: var(--purple);
+}
+
+/* ------------------------------- 06 Prefix -------------------------------- */
+.nav-folder-title[data-path^="06"] {
+    --color: var(--magenta);
+}
+
+/* ------------------------------- 07 Prefix -------------------------------- */
+.nav-folder-title[data-path^="07"] {
+    --color: var(--hot-red);
+}
+
+/* ------------------------------- 99 Prefix -------------------------------- */
+.nav-folder-title[data-path^="99"] {
+    --color: var(--cool-gray);
+}
+
+/* Additions by christh */
+
+/* Define specific colors for each prefix */
+:root {
+    --prefix-00: var(--mint);
+    --prefix-01: var(--cyan);
+    --prefix-02: var(--light-blue);
+    --prefix-03: var(--blue);
+    --prefix-04: var(--violet);
+    --prefix-05: var(--purple);
+    --prefix-06: var(--magenta);
+    --prefix-07: var(--hot-red);
+}
+
+/* Folders: Base color rules for each prefix */
+.nav-folder-title[data-path^="00"] {
+    color: var(--prefix-00);
+}
+
+.nav-folder-title[data-path^="01"] {
+    color: var(--prefix-01);
+}
+
+.nav-folder-title[data-path^="02"] {
+    color: var(--prefix-02);
+}
+
+.nav-folder-title[data-path^="03"] {
+    color: var(--prefix-03);
+}
+
+.nav-folder-title[data-path^="04"] {
+    color: var(--prefix-04);
+}
+
+.nav-folder-title[data-path^="05"] {
+    color: var(--prefix-05);
+}
+
+.nav-folder-title[data-path^="06"] {
+    color: var(--prefix-06);
+}
+
+.nav-folder-title[data-path^="07"] {
+    color: var(--prefix-07);
+}
+
+/* Folders: More specific rules for nested paths */
+.tree-item-children .nav-folder-title[data-path*="/00"] {
+    color: var(--prefix-00) !important;
+}
+
+.tree-item-children .nav-folder-title[data-path*="/01"] {
+    color: var(--prefix-01) !important;
+}
+
+.tree-item-children .nav-folder-title[data-path*="/02"] {
+    color: var(--prefix-02) !important;
+}
+
+.tree-item-children .nav-folder-title[data-path*="/03"] {
+    color: var(--prefix-03) !important;
+}
+
+.tree-item-children .nav-folder-title[data-path*="/04"] {
+    color: var(--prefix-04) !important;
+}
+
+.tree-item-children .nav-folder-title[data-path*="/05"] {
+    color: var(--prefix-05) !important;
+}
+
+.tree-item-children .nav-folder-title[data-path*="/06"] {
+    color: var(--prefix-06) !important;
+}
+
+.tree-item-children .nav-folder-title[data-path*="/07"] {
+    color: var(--prefix-07) !important;
+}
+
+
+/* Files: Base color rules for each prefix */
+.nav-file-title[data-path^="00"] {
+    color: color-mix(in srgb,
+            var(--prefix-00) var(--medium-contrast-amount),
+            var(--default-text-color));
+}
+
+.nav-file-title[data-path^="01"] {
+    color: var(--prefix-01);
+    color: color-mix(in srgb,
+            var(--prefix-01) var(--medium-contrast-amount),
+            var(--default-text-color));
+}
+
+.nav-file-title[data-path^="02"] {
+    color: color-mix(in srgb,
+            var(--prefix-02) var(--medium-contrast-amount),
+            var(--default-text-color));
+}
+
+.nav-file-title[data-path^="03"] {
+    color: color-mix(in srgb,
+            var(--prefix-03) var(--medium-contrast-amount),
+            var(--default-text-color));
+}
+
+.nav-file-title[data-path^="04"] {
+    color: color-mix(in srgb,
+            var(--prefix-04) var(--medium-contrast-amount),
+            var(--default-text-color));
+}
+
+.nav-file-title[data-path^="05"] {
+    color: color-mix(in srgb,
+            var(--prefix-05) var(--medium-contrast-amount),
+            var(--default-text-color));
+}
+
+.nav-file-title[data-path^="06"] {
+    color: color-mix(in srgb,
+            var(--prefix-06) var(--medium-contrast-amount),
+            var(--default-text-color));
+}
+
+.nav-file-title[data-path^="07"] {
+    color: color-mix(in srgb,
+            var(--prefix-07) var(--medium-contrast-amount),
+            var(--default-text-color));
+}
+
+/* Files: More specific rules for nested paths */
+.tree-item-children .nav-file-title[data-path*="/00"] {
+    color: var(--prefix-00) !important;
+}
+
+.tree-item-children .nav-file-title[data-path*="/01"] {
+    color: var(--prefix-01) !important;
+}
+
+.tree-item-children .nav-file-title[data-path*="/02"] {
+    color: var(--prefix-02) !important;
+}
+
+.tree-item-children .nav-file-title[data-path*="/03"] {
+    color: var(--prefix-03) !important;
+}
+
+.tree-item-children .nav-file-title[data-path*="/04"] {
+    color: var(--prefix-04) !important;
+}
+
+.tree-item-children .nav-file-title[data-path*="/05"] {
+    color: var(--prefix-05) !important;
+}
+
+.tree-item-children .nav-file-title[data-path*="/06"] {
+    color: var(--prefix-06) !important;
+}
+
+.tree-item-children .nav-file-title[data-path*="/07"] {
+    color: var(--prefix-07) !important;
+}
