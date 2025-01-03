@@ -47,15 +47,11 @@
   "GOVERNANÇA/Entregues": "FasCircleCheck",
   "GERNÊNCIA DE REDES/Documentos": "FasFolder",
   "GERNÊNCIA DE REDES/Entregues": "FasCircleCheck",
-  "00 GESTÃO E INOVAÇÃO/Entregues": "FasCircleCheck",
-  "01 GOVERNANÇA/Documentos": "FasFolder",
-  "01 GOVERNANÇA/Entregues": "FasCircleCheck",
-  "02 GERÊNCIA DE REDES/Entregues": "FasCircleCheck",
-  "02 GERÊNCIA DE REDES/Documentos": "FasFolder",
   "00 Anotacoes": "FasPen",
   "00 Anotacoes/Entendendo Algoritmos": "FasCircleCheck",
   "00 Anotacoes/Platão - A República": "FarCircleXmark",
   "00 Anotacoes/ReZero": "FarCircleXmark",
   "01 Pessoal": "FasWineGlass",
-  "02 Estudo": "FasBook"
+  "02 Estudo": "FasBook",
+  "00 Anotacoes/Amor Líquido": "FarCircleXmark"
 }

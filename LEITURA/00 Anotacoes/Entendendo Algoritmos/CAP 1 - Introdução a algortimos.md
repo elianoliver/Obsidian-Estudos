@@ -10,7 +10,6 @@ tags:
 # Introdução
 Um algoritmo é um conjunto de instruções que realizam uma tarefa.
 O livro contém diferentes tipos de algoritmos e seus casos de aplicabilidade para maior desempenho.
-
 # Pesquisa Binária
 A pesquisa binária é um algoritmo eficiente para encontrar um item em uma lista ordenada. Ela funciona dividindo repetidamente a lista ao meio e descartando a metade que não contém o item procurado. A eficiência desse processo está diretamente relacionada ao **logaritmo de base 2** (log₂).
 

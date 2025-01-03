@@ -1,0 +1,152 @@
+{
+	"nodes":[
+		{
+			"id":"28058e03be0ad713",
+			"type":"group",
+			"styleAttributes":{},
+			"x":-1640,
+			"y":-80,
+			"width":840,
+			"height":1194,
+			"label":"BONDADES QUE PARECEM MÁS"
+		},
+		{
+			"id":"d74f4f32bef55df6",
+			"type":"group",
+			"styleAttributes":{},
+			"x":-584,
+			"y":-80,
+			"width":764,
+			"height":1194,
+			"label":"INIMIGO -> COMPREENSÃO, INTIMIDADE PSÍQUICA"
+		},
+		{
+			"id":"d74b801a28df1bc1",
+			"type":"file",
+			"file":"03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/A Dor Necessária - Quando a Crueldade é Compaixão.md",
+			"styleAttributes":{},
+			"x":-1600,
+			"y":-36,
+			"width":760,
+			"height":251
+		},
+		{
+			"id":"2e3891a33189bb53",
+			"type":"text",
+			"text":"  \nAcusado(a) pelos próprios parceiros de estar sendo manipulado(a) pelo inimigo.",
+			"styleAttributes":{},
+			"x":560,
+			"y":-95,
+			"width":415,
+			"height":108
+		},
+		{
+			"id":"944ed70efeee5fc0",
+			"type":"file",
+			"file":"03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/Antagonista Protetor.md",
+			"styleAttributes":{},
+			"x":-1600,
+			"y":260,
+			"width":760,
+			"height":251
+		},
+		{
+			"id":"85495438660c2416",
+			"type":"file",
+			"file":"03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/O Carrasco Compassivo - A Dor de Punir.md",
+			"styleAttributes":{},
+			"x":-1600,
+			"y":540,
+			"width":760,
+			"height":251
+		},
+		{
+			"id":"7fc95eb7bd401eb9",
+			"type":"file",
+			"file":"03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/Sacrificando Cavalo Lesionado.md",
+			"styleAttributes":{},
+			"x":-1600,
+			"y":840,
+			"width":760,
+			"height":251
+		},
+		{
+			"id":"c98961bbe1f75856",
+			"type":"text",
+			"text":"VENDO O INIMIGO POR OUTRO LADO",
+			"styleAttributes":{},
+			"x":-380,
+			"y":-660,
+			"width":360,
+			"height":60
+		},
+		{
+			"id":"fc867b4669b4e664",
+			"type":"file",
+			"file":"03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo também sofre/Empatia Inesperada com o Inimigo.md",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-564,
+			"y":-41,
+			"width":724,
+			"height":154
+		},
+		{
+			"id":"3690e9b726f1beb4",
+			"type":"file",
+			"file":"03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Identificando-se com o Inimigo.md",
+			"styleAttributes":{},
+			"x":-564,
+			"y":152,
+			"width":724,
+			"height":154
+		},
+		{
+			"id":"3172d4c3bce61730",
+			"type":"file",
+			"file":"03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo também sofre/O Peso das Decisões do Comandante.md",
+			"styleAttributes":{},
+			"x":-564,
+			"y":340,
+			"width":724,
+			"height":154
+		},
+		{
+			"id":"86370c5792b4c2e4",
+			"type":"file",
+			"file":"03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo é humano/O Toque Revelador.md",
+			"styleAttributes":{},
+			"x":-564,
+			"y":540,
+			"width":724,
+			"height":154
+		},
+		{
+			"id":"d768dad460fd1180",
+			"type":"file",
+			"file":"03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo é humano/Percebendo que o inimigo é humano.md",
+			"styleAttributes":{},
+			"x":-564,
+			"y":740,
+			"width":724,
+			"height":154
+		},
+		{
+			"id":"55148ca245230e1c",
+			"type":"file",
+			"file":"03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo também sofre/Vulnerabilidade Disfarçada do Inimigo.md",
+			"styleAttributes":{},
+			"x":-564,
+			"y":940,
+			"width":724,
+			"height":154
+		}
+	],
+	"edges":[
+		{"id":"6d4071d4a4c953d0","fromNode":"c98961bbe1f75856","fromSide":"bottom","toNode":"2e3891a33189bb53","toSide":"top"},
+		{"id":"511153b38acb8e29","fromNode":"c98961bbe1f75856","fromSide":"bottom","toNode":"28058e03be0ad713","toSide":"top"},
+		{"id":"9fcf79dc5ba377ab","fromNode":"c98961bbe1f75856","fromSide":"bottom","toNode":"fc867b4669b4e664","toSide":"top"}
+	],
+	"metadata":{}
+}

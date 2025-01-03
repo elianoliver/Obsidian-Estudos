@@ -5,18 +5,33 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Bondades_que_parecem_mas  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#Inimigo_compreensao_intimidade_psiquica  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0.2,
-  "nodeSizeMultiplier": 1.36328125,
-  "lineSizeMultiplier": 1.03151041666667,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 1.91197916666667,
+  "lineSizeMultiplier": 1.5546875,
   "collapse-forces": false,
-  "centerStrength": 0.466145833333333,
-  "repelStrength": 9.42708333333333,
+  "centerStrength": 0.333333333333333,
+  "repelStrength": 18.6458333333333,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.21665068293470463,
-  "close": true
+  "linkDistance": 360,
+  "scale": 0.30374055226597174,
+  "close": false
 }

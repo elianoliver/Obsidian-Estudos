@@ -7,8 +7,10 @@
   "calendar",
   "code-emitter",
   "colored-tags",
-  "highlightr-plugin",
   "editing-toolbar",
   "obsidian-list-callouts",
-  "awesome-reader"
+  "awesome-reader",
+  "obsidian-importer",
+  "fast-text-color",
+  "canvas-mindmap"
 ]

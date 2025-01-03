@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d91b57e340be13b3",
+        "id": "7555e06272adac9c",
         "type": "tabs",
         "children": [
           {
-            "id": "5d4c5896cfa01adf",
+            "id": "7c5ea3fbc445d8fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Anotacoes/ReZero/ReZero - 19/CAP 1 - Início do Ataque ao Avareza.md",
+                "file": "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo é humano/Percebendo que o inimigo é humano.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CAP 1 - Início do Ataque ao Avareza"
+              "title": "Percebendo que o inimigo é humano"
             }
           }
         ]
@@ -54,10 +54,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ReZero",
+                "query": "tag:Bondades_que_parecem_mas",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 455.5
   },
   "right": {
     "id": "9cbc89da39f34f0a",
@@ -114,10 +114,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Anotacoes/Platão - A República/CAPÍTULOS/LIVRO II.md"
+                "file": "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo é humano/Percebendo que o inimigo é humano.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de LIVRO II"
+              "title": "Sumário de Percebendo que o inimigo é humano"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Anotacoes/ReZero/CAP 0 - Cidade de Combates Desorganizados.md",
+                "file": "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo é humano/Percebendo que o inimigo é humano.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,15 +185,28 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para CAP 0 - Cidade de Combates Desorganizados"
+              "title": "Links inversos para Percebendo que o inimigo é humano"
+            }
+          },
+          {
+            "id": "ba58e15cad895cf6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo é humano/Percebendo que o inimigo é humano.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Percebendo que o inimigo é humano"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 338.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,14 +216,43 @@
       "command-palette:Abrir paleta de comandos": false,
       "canvas:Criar novo canvas": false,
       "obsidian-kanban:Criar um novo quadro": false,
+      "obsidian-importer:Open Importer": false,
       "darlal-switcher-plus:Open in Headings Mode": true,
       "darlal-switcher-plus:Open Symbols for the active editor": true
     }
   },
-  "active": "5d4c5896cfa01adf",
+  "active": "7c5ea3fbc445d8fe",
   "lastOpenFiles": [
-    "00 Anotacoes/ReZero/ReZero - 19/CAP 2 - Canção da Cidade em Chamas.md",
+    "OVERVIEW.canvas",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo é humano/Percebendo que o inimigo é humano.md",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo é humano/O Toque Revelador.md",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/Sacrificando Cavalo Lesionado.md",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/Antagonista Protetor.md",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/A Dor Necessária - Quando a Crueldade é Compaixão.md",
+    "Entre Inimigos.md",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/Sem título.md",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Identificando-se com o Inimigo.md",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo também sofre/Vulnerabilidade Disfarçada do Inimigo.md",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo também sofre/O Peso das Decisões do Comandante.md",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo também sofre/Empatia Inesperada com o Inimigo.md",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/O Carrasco Compassivo - A Dor de Punir.md",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/03 Acusado(a) pelos próprios parceiros de estar sendo manipulado(a) pelo inimigo/Discutindo Sobre o Inimigo Com Seus Parceiros",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/03 Acusado(a) pelos próprios parceiros de estar sendo manipulado(a) pelo inimigo",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo também sofre",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo é humano",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado",
+    "00 GESTÃO E INOVAÇÃO/Diagnóstico da Inovação (baseado no método NGT-Sebrae.pdf",
+    "03 ENTRE INIMIGOS",
+    "00 Anotacoes/Amor Líquido/CAP 1 - Apaixonar-se e desapaixonar-se.md",
+    "01 Pessoal/Amor Líquido.pdf",
+    "00 Anotacoes/Entendendo Algoritmos/CAP 1 - Introdução a algortimos.md",
+    "01 Pessoal/Lidos/Carmilla (J. Sheridan Le Fanu [Le Fanu, J. Sheridan]) (z-lib.org).md",
+    "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/01.jpg",
+    "00 Anotacoes/Entendendo Algoritmos/CAP 2 - Ordenação por seleção.md",
     "00 Anotacoes/ReZero/ReZero - 19/CAP 1 - Início do Ataque ao Avareza.md",
+    "00 Anotacoes/ReZero/ReZero - 19/CAP 2 - Canção da Cidade em Chamas.md",
     "00 Anotacoes/ReZero/ReZero - 19/CAP 0 - Cidade de Combates Desorganizados.md",
     "00 Anotacoes/Platão - A República/CAPÍTULOS/LIVRO I.md",
     "00 Anotacoes/ReZero/1 Personagens/Ricardo.md",
@@ -218,47 +260,18 @@
     "00 Anotacoes/ReZero/1 Personagens/Subaru.md",
     "00 Anotacoes/ReZero/1 Personagens/Sirius Romanée-Conti.md",
     "00 Anotacoes/ReZero/1 Personagens/Santíssima Espadachim.md",
-    "00 Anotacoes/ReZero/1 Personagens/Roy Alphard.md",
-    "00 Anotacoes/ReZero/1 Personagens/Reinhard.md",
-    "00 Anotacoes/ReZero/1 Personagens/Regulus.md",
-    "00 Anotacoes/ReZero/1 Personagens/Ray Batenkaitos.md",
-    "00 Anotacoes/ReZero/1 Personagens/Priscilla Barielle.md",
-    "00 Anotacoes/ReZero/1 Personagens/Otto Swen.md",
-    "00 Anotacoes/ReZero/1 Personagens/Liliana Masquerade - A barda.md",
-    "00 Anotacoes/ReZero/1 Personagens/Kurgan dos Oito Braços.md",
-    "00 Anotacoes/ReZero/1 Personagens/Julius.md",
-    "00 Anotacoes/ReZero/1 Personagens/Gaston.md",
-    "00 Anotacoes/ReZero/1 Personagens/Garfiel.md",
-    "00 Anotacoes/ReZero/1 Personagens/Felt.md",
-    "00 Anotacoes/ReZero/1 Personagens/Escama do Dragão Branco.md",
-    "00 Anotacoes/ReZero/1 Personagens/Emília.md",
-    "00 Anotacoes/ReZero/1 Personagens/Al.md",
-    "00 Anotacoes/ReZero/1 Personagens/Anastasia.md",
     "00 Anotacoes/ReZero/0 Imagens/Wilhelm.png",
     "00 Anotacoes/ReZero/0 Imagens/Al.png",
     "00 Anotacoes/ReZero/0 Imagens/Liliana.png",
     "00 Anotacoes/ReZero/0 Imagens/Felt.png",
-    "00 Anotacoes/ReZero/ReZero - 19",
-    "01 Pessoal/A República - Platão.pdf",
-    "01 Pessoal/Manga/Vagabond Vol 1 (Takehiko inoue) (Z-Library).pdf",
-    "00 Anotacoes/Platão - A República/CAPÍTULOS/LIVRO II.md",
-    "02 Estudo/JavaScript/Primeiros Passos com React Construindo Aplicações web (Stoyan Stefanov) (Z-Library).pdf",
-    "02 Estudo/JavaScript/NodeJSNotesForProfessionals.pdf",
-    "02 Estudo/JavaScript/JavaScriptNotesForProfessionals.pdf",
-    "02 Estudo/JavaScript/David Flanagan - JavaScript_ O guia definitivo-Bookman (2013).pdf",
-    "02 Estudo/JavaScript/Guia Prático de TypeScript.pdf",
-    "01 Pessoal/AMOR LIQUIDO SOBRE A FRAGILIDADE DOS LAÇOS HUMANOS (ZYGMUNT BAUMAN, CARLOS ALBERTO MEDEIROS) (Z-Library).pdf",
-    "02 Estudo/Comunicação de Dados e Redes de Computadores (Forouzan, Behrouz A.) (Z-Library).pdf",
     "00 - ASSETS/images/dom.png",
     "00 - ASSETS/images/async defer.png",
     "00 Anotacoes/ReZero/0 Imagens/Ray.png",
     "00 Anotacoes/ReZero/0 Imagens/Otto.png",
     "00 Anotacoes/ReZero/0 Imagens/Anastasia.png",
-    "00 Anotacoes/ReZero/0 Imagens/Sirius.png",
     "01 Anotacoes/ReZero/CANVAS.canvas",
     "01 - Anotações/ReZero/CANVAS.canvas",
     "NODE/MVC-Salete.canvas",
-    "05 - NODE/MVC.canvas",
-    "Sem título.canvas"
+    "05 - NODE/MVC.canvas"
   ]
 }
