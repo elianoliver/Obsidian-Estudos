@@ -1,5 +1,5 @@
 ---
-Livro: "[[A República - Platão.pdf]]"
+Livro: "[[Platão - A República.pdf]]"
 tags:
   - "#ARepublica"
 ---

@@ -1,6 +1,6 @@
 {
-  "accentColor": "#440057",
-  "theme": "moonstone",
+  "accentColor": "#29008a",
+  "theme": "obsidian",
   "cssTheme": "AnuPpuccin",
   "translucency": false,
   "nativeMenus": true,
@@ -10,9 +10,11 @@
     "image-rounded",
     "custom-style",
     "image-center",
-    "Colored Sidebar Items",
     "rounded-images"
   ],
   "interfaceFontFamily": "JetBrainsMono Nerd Font",
-  "textFontFamily": "JetBrainsMono Nerd Font"
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "showRibbon": false,
+  "baseFontSize": 16,
+  "baseFontSizeAction": true
 }

@@ -1,16 +1,10 @@
 [
   "obsidian-admonition",
   "obsidian-icon-folder",
-  "obsidian-kanban",
-  "darlal-switcher-plus",
-  "OA-file-hider",
   "calendar",
   "code-emitter",
-  "colored-tags",
-  "editing-toolbar",
   "obsidian-list-callouts",
-  "awesome-reader",
-  "obsidian-importer",
-  "fast-text-color",
-  "canvas-mindmap"
+  "editing-toolbar",
+  "obsidian-style-settings",
+  "awesome-reader"
 ]

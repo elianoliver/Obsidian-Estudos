@@ -1,6 +1,6 @@
 ## CSS Inline
 
-A abordagem **CSS inline** envolve a aplicação direta de estilos em um elemento HTML específico, usando o atributo `style`. Aqui está um exemplo:
+A abordagem **CSS inline** envolve a aplicação direta de estilos em um elemento HTML específico dentro do body, usando o atributo `style`. Aqui está um exemplo:
 
 ```html
 <p style="color: blue; font-size: 16px;">Este é um parágrafo estilizado inline.</p>

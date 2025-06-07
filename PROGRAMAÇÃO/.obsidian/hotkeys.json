@@ -16,5 +16,13 @@
     }
   ],
   "markdown:add-metadata-property": [],
-  "editor:open-link-in-new-window": []
+  "editor:open-link-in-new-window": [],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "End"
+    }
+  ]
 }

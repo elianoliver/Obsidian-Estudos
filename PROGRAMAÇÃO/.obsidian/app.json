@@ -1,5 +1,5 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "alwaysUpdateLinks": true,
   "livePreview": true,
   "defaultViewMode": "preview",
@@ -7,7 +7,6 @@
   "showLineNumber": false,
   "showIndentGuide": false,
   "showUnsupportedFiles": true,
-  "showRibbon": true,
   "showInlineTitle": true,
   "newFileLocation": "current",
   "foldHeading": true,

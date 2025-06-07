@@ -1,5 +1,5 @@
 ---
-Livro: "[[A República - Platão.pdf]]"
+Livro: "[[Platão - A República.pdf]]"
 tags:
   - "#ARepublica"
 ---
@@ -11,7 +11,7 @@ Conversa entre Céfalo e Sócrates:
 
 > Quanto mais amortizados estão em mim os prazeres do corpo, mais crescem os desejos e satisfações da conversação
 
-[[A República - Platão.pdf#page=11&selection=47,33,48,71|A República - Platão, page 11]]
+[[Platão - A República.pdf#page=11&selection=47,33,48,71|A República - Platão, page 11]]
 
 Logo após, a definição de justiça é colocada em discussão, e Céfalo acredita que a justiça consiste em dizer a verdade e devolver o que se deve a alguém. Porém, Sócrates critica essa visão simplista e argumenta que, em algumas situações, devolver o que é devido pode ser injusto.
 
