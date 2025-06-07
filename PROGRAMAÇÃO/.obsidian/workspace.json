@@ -11,15 +11,10 @@
             "id": "88df2377b7f1911b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - GIT E GITHUB/06 - GITIGNORE.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "06 - GITIGNORE"
+              "title": "Nova aba"
             }
           }
         ]
@@ -182,11 +177,13 @@
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "88df2377b7f1911b",
   "lastOpenFiles": [
+    "01 - GIT E GITHUB/06 - GITIGNORE.md",
     "01 - GIT E GITHUB/05 - LISTA DE COMANDOS.md",
     "01 - GIT E GITHUB/04 - GIT COM TOKEN.md",
     "01 - GIT E GITHUB/03 - GIT COM SSH.md",
@@ -195,7 +192,6 @@
     "01 - GIT E GITHUB/00 - INTRODUÇÃO.md",
     "04 - JAVASCRIPT/02 - COMEÇANDO COM JS.md",
     "04 - JAVASCRIPT/02 - LOCAIS PARA JS.md",
-    "01 - GIT E GITHUB/06 - GITIGNORE.md",
     "JOURNAL/2025-05-04.md",
     "02 Estudo/Implantando a Governança de TI (2014, m3) - libgen.li.pdf",
     "02 Estudo/Engenharia De Software Moderna (Marco Tulio Valente) (Z-Library).epub",

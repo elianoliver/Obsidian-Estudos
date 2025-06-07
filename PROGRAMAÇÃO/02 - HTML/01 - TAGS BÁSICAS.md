@@ -22,7 +22,7 @@
 </html>
 ```
 
-- **Explicação:** A estrutura básica de um documento HTML contém as tags `<html>`, `<head>` e `<body>`. A tag `<html>` envolve todo o conteúdo, enquanto `<head>` contém metadados do documento, e `<body>` contém o conteúdo visível.
+- **Explicação:** A estrutura básica de um documento HTML contém as tags `<html>`, `<head>` e `<body>`. A tag `<html>` envolve todo o conteúdo, enquanto `<head>` contém metadados do documento, e `<body>` contém o conteúdo visível. 
 
 ## Títulos e Parágrafos
 
