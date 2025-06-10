@@ -11,15 +11,12 @@
             "id": "88df2377b7f1911b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "epub",
               "state": {
-                "file": "00 Anotacoes/ReZero/ReZero - 21/Arco 6 - Cap 4.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "file": "01 Pessoal/Lidos/Ruinas de Gorlan -- Flanagan, John -- Rangers - Ordem dos Arqueiros #1, 2012 -- Fundamento -- 668c4c8e3480f6209814e4c394c3c074 -- Anna’s Archive.epub"
               },
               "icon": "lucide-file",
-              "title": "Arco 6 - Cap 4"
+              "title": "Ruinas de Gorlan -- Flanagan, John -- Rangers - Ordem dos Arqueiros #1, 2012 -- Fundamento -- 668c4c8e3480f6209814e4c394c3c074 -- Anna’s Archive"
             }
           }
         ]
@@ -186,8 +183,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88df2377b7f1911b",
+  "active": "271a702203f418c9",
   "lastOpenFiles": [
+    "01 Pessoal/Lidos/Ruinas de Gorlan -- Flanagan, John -- Rangers - Ordem dos Arqueiros #1, 2012 -- Fundamento -- 668c4c8e3480f6209814e4c394c3c074 -- Anna’s Archive.epub",
+    "00 Anotacoes/ReZero/ReZero - 21/Arco 6 - Cap 4.md",
     "00 Anotacoes/ReZero/ReZero - 19/CAP 2 - Canção da Cidade em Chamas.md",
     "00 Anotacoes/ReZero/ReZero - 19/CAP 1 - Início do Ataque ao Avareza.md",
     "00 Anotacoes/ReZero/ReZero - 19/CAP 0 - Cidade de Combates Desorganizados.md",
@@ -196,7 +195,6 @@
     "00 Anotacoes/Entendendo Algoritmos/CAP 3 - Recursão.md",
     "00 Anotacoes/Entendendo Algoritmos/CAP 2 - Ordenação por seleção.md",
     "00 Anotacoes/Entendendo Algoritmos/CAP 1 - Introdução a algortimos.md",
-    "01 Pessoal/Ruinas de Gorlan -- Flanagan, John -- Rangers - Ordem dos Arqueiros #1, 2012 -- Fundamento -- 668c4c8e3480f6209814e4c394c3c074 -- Anna’s Archive.epub",
     "01 Pessoal/Natália Sulman - A poética de Platão.pdf",
     "01 Pessoal/Natália Sulman - A poética de Platão.pdf.crdownload",
     "01 - GIT E GITHUB/06 - GITIGNORE.md",
@@ -220,9 +218,7 @@
     "01 Pessoal/Platão - A República.pdf",
     "01 Pessoal/Lidos/J. Sheridan Le Fanu - Carmilla.epub",
     "01 Pessoal/Manga/Vagabond Vol 1 (Takehiko inoue) (Z-Library).pdf",
-    "00 Anotacoes/ReZero/ReZero - 21/Arco 6 - Cap 4.md",
     "00 Anotacoes/ReZero/1 Personagens/Wilhelm Van Astrea.md",
-    "00 Anotacoes/ReZero/1 Personagens/Subaru.md",
     "00 Anotacoes/ReZero/0 Imagens/Wilhelm.png",
     "00 Anotacoes/ReZero/0 Imagens/Sirius.png",
     "00 Anotacoes/ReZero/0 Imagens/Ray.png",
