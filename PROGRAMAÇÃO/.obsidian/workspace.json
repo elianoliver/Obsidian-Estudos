@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "38e5ec9f8981e2f6",
+        "id": "0c5f65dedffa117e",
         "type": "tabs",
         "children": [
           {
-            "id": "88df2377b7f1911b",
+            "id": "8566021487efc257",
             "type": "leaf",
             "state": {
-              "type": "epub",
-              "state": {
-                "file": "01 Pessoal/Lidos/Ruinas de Gorlan -- Flanagan, John -- Rangers - Ordem dos Arqueiros #1, 2012 -- Fundamento -- 668c4c8e3480f6209814e4c394c3c074 -- Anna’s Archive.epub"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Ruinas de Gorlan -- Flanagan, John -- Rangers - Ordem dos Arqueiros #1, 2012 -- Fundamento -- 668c4c8e3480f6209814e4c394c3c074 -- Anna’s Archive"
+              "title": "Nova aba"
             }
           }
         ]
