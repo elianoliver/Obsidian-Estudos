@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasCircleCheck",
       "FarFilePdf",
       "FasFilePdf",
       "FasFaceAngry",
-      "FarPenToSquare",
-      "FasNewspaper"
+      "FarPenToSquare"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -55,5 +55,8 @@
   "02 Estudo": "FasBook",
   "00 Anotacoes/Amor Líquido": "FarCircleXmark",
   "04 Concurso": "FasFaceAngry",
-  "JOURNAL": "FarPenToSquare"
+  "JOURNAL": "FarPenToSquare",
+  "01 Pessoal/Lidos/J. Sheridan Le Fanu - Carmilla.epub": "FasCircleCheck",
+  "01 Pessoal/Lidos/John Flanagan - Rangers Ordem dos Arqueiros - Ruinas de Gorlan.epub": "FasCircleCheck",
+  "02 Estudo/Bhargava - Entendendo Algoritmos.pdf": "FasCircleCheck"
 }

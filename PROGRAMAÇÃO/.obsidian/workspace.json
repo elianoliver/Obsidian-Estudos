@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bc072fae8e127919",
+        "id": "d1d164813fe6335f",
         "type": "tabs",
         "children": [
           {
-            "id": "b1664aa2d89b6599",
+            "id": "5d49d6e74c3d0a27",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "pdf",
+              "state": {
+                "file": "02 Estudo/JavaScript/OReilly - Primeiros Passos com React Construindo Aplicações web.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "OReilly - Primeiros Passos com React Construindo Aplicações web"
             }
           }
         ]
@@ -74,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 295.5
   },
   "right": {
     "id": "9cbc89da39f34f0a",
@@ -90,12 +92,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02 Estudo/JavaScript/OReilly - Primeiros Passos com React Construindo Aplicações web.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de OReilly - Primeiros Passos com React Construindo Aplicações web"
             }
           },
           {
@@ -167,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 338.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +185,17 @@
   },
   "active": "271a702203f418c9",
   "lastOpenFiles": [
-    "01 Pessoal/Lidos/John Flanagan - Rangers Ordem dos Arqueiros - Ruinas de Gorlan.epub",
+    "02 Estudo/JavaScript/CDC - Guia Prático de TypeScript.pdf",
+    "02 Estudo/JavaScript/NodeJSNotesForProfessionals.pdf",
+    "02 Estudo/JavaScript/JavaScriptNotesForProfessionals.pdf",
+    "02 Estudo/JavaScript/OReilly - JavaScript O guia definitivo.pdf",
+    "02 Estudo/Bhargava - Entendendo Algoritmos.pdf",
+    "02 Estudo/iuricode/eFront+Plus+(v1.8).pdf",
+    "02 Estudo/iuricode/Frontend+descomplicado.pdf",
+    "02 Estudo/iuricode/eFront+-+Estudando+frontend+do+zero+(v4.3).pdf",
+    "02 Estudo/Tanenbaum - Sistemas Distribuídos Princípios e Paradigmas.pdf",
+    "02 Estudo/JavaScript/Mateus Silva - React Hooks Handbook.pdf",
+    "02 Estudo/progit.pdf",
     "11 - REGEX/04 - LOOKAROUNDS.md",
     "11 - REGEX/03 - AGRUPAMENTO.md",
     "11 - REGEX/02 - REPETIÇÕES.md",
@@ -198,9 +212,6 @@
     "00 - ASSETS/regex/Pasted image 20250610000254.png",
     "00 - ASSETS/regex/Pasted image 20250610001520.png",
     "00 - ASSETS/regex/Pasted image 20250610000952.png",
-    "Sem título",
-    "00 - ASSETS/regex",
-    "11 - REGEX",
     "00 Anotacoes/ReZero/ReZero - 21/Arco 6 - Cap 4.md",
     "00 Anotacoes/ReZero/ReZero - 19/CAP 2 - Canção da Cidade em Chamas.md",
     "00 Anotacoes/ReZero/ReZero - 19/CAP 1 - Início do Ataque ao Avareza.md",
@@ -210,8 +221,6 @@
     "00 Anotacoes/Entendendo Algoritmos/CAP 3 - Recursão.md",
     "00 Anotacoes/Entendendo Algoritmos/CAP 2 - Ordenação por seleção.md",
     "00 Anotacoes/Entendendo Algoritmos/CAP 1 - Introdução a algortimos.md",
-    "01 Pessoal/Natália Sulman - A poética de Platão.pdf",
-    "01 Pessoal/Natália Sulman - A poética de Platão.pdf.crdownload",
     "01 - GIT E GITHUB/06 - GITIGNORE.md",
     "01 - GIT E GITHUB/05 - LISTA DE COMANDOS.md",
     "01 - GIT E GITHUB/04 - GIT COM TOKEN.md",
@@ -222,10 +231,6 @@
     "04 - JAVASCRIPT/02 - COMEÇANDO COM JS.md",
     "04 - JAVASCRIPT/02 - LOCAIS PARA JS.md",
     "JOURNAL/2025-05-04.md",
-    "02 Estudo/Implantando a Governança de TI (2014, m3) - libgen.li.pdf",
-    "02 Estudo/Engenharia De Software Moderna (Marco Tulio Valente) (Z-Library).epub",
-    "01 Pessoal/Charles Bukowski - Mulheres.pdf",
-    "01 Pessoal/Platão - A República.pdf",
     "OVERVIEW.canvas",
     "01 Anotacoes/ReZero/CANVAS.canvas",
     "01 - Anotações/ReZero/CANVAS.canvas",

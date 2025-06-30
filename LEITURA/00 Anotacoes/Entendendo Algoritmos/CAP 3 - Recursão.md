@@ -1,5 +1,5 @@
 ---
-Livro: "[[Entendendo Algoritmos.pdf]]"
+Livro: "[[Bhargava - Entendendo Algoritmos.pdf]]"
 cssclasses:
   - rounded-images
 tags:

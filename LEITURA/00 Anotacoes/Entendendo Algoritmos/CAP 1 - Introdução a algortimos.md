@@ -1,5 +1,5 @@
 ---
-Livro: "[[Entendendo Algoritmos.pdf]]"
+Livro: "[[Bhargava - Entendendo Algoritmos.pdf]]"
 Youtube: https://www.youtube.com/watch?v=zyj5vOPA1vA&list=PLx4x_zx8csUir5pbqRDgFbVS-2SG7JiOu
 cssclasses:
   - rounded-images
