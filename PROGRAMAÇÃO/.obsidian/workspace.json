@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - JAVASCRIPT/09 - MANIPULAÇÃO DE STRINGS.md",
+                "file": "04 - JAVASCRIPT/08 - ESTRUTURAS DE DADOS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "09 - MANIPULAÇÃO DE STRINGS"
+              "title": "08 - ESTRUTURAS DE DADOS"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "audio",
+                "query": "funções",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 287.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cbc89da39f34f0a",
@@ -95,13 +96,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/09 - MANIPULAÇÃO DE STRINGS.md",
+                "file": "04 - JAVASCRIPT/08 - ESTRUTURAS DE DADOS.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 09 - MANIPULAÇÃO DE STRINGS"
+              "title": "Sumário de 08 - ESTRUTURAS DE DADOS"
             }
           },
           {
@@ -173,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5,
-    "collapsed": true
+    "width": 338.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,11 +188,15 @@
   },
   "active": "899c05a4d1965340",
   "lastOpenFiles": [
-    "04 - JAVASCRIPT/07 - ESTRUTURAS DE REPETIÇÃO.md",
+    "04 - JAVASCRIPT/11 - EVENT HANDLER.md",
+    "04 - JAVASCRIPT/10 - FUNÇÕES.md",
     "04 - JAVASCRIPT/09 - MANIPULAÇÃO DE STRINGS.md",
+    "08 - TYPESCRIPT/00 - TYPE ANNOTATIONS.md",
+    "04 - JAVASCRIPT/08 - ESTRUTURAS DE DADOS.md",
+    "04 - JAVASCRIPT/06 - ESTRUTURAS DE SELEÇÃO.md",
+    "04 - JAVASCRIPT/07 - ESTRUTURAS DE REPETIÇÃO.md",
     "04 - JAVASCRIPT/13 - CONSOLE.md",
     "04 - JAVASCRIPT/02 - COMEÇANDO COM JS.md",
-    "04 - JAVASCRIPT/10 - FUNÇÕES.md",
     "13 - DESIGN RESPONSIVO/06 - MOBILE FIRST.md",
     "13 - DESIGN RESPONSIVO/05 - MEDIA QUERIES.md",
     "13 - DESIGN RESPONSIVO/04 - FORMATOS DE IMAGENS.md",
@@ -204,16 +208,12 @@
     "01 - GIT E GITHUB/06 - GITIGNORE.md",
     "01 - GIT E GITHUB/05 - LISTA DE COMANDOS.md",
     "02 - HTML/6.2 - TIPOS DE INPUTS.md",
-    "04 - JAVASCRIPT/06 - ESTRUTURAS DE SELEÇÃO.md",
     "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
     "04 - JAVASCRIPT/03 - GRAMÁTICA E TIPOS.md",
     "04 - JAVASCRIPT/02 - LOCAIS PARA JS.md",
     "04 - JAVASCRIPT/01 - INTRODUÇÃO.md",
     "02 - HTML/04 - TAGS AUDIO VISUAIS.md",
     "02 - HTML/6.1 - ELEMENTOS DO FORM.md",
-    "02 - HTML/07 - TABLES.md",
-    "02 - HTML/05 - IFRAME.md",
-    "02 - HTML/06 - FORMULARIOS.md",
     "02 Estudo/JavaScript/JavaScriptNotesForProfessionals.pdf",
     "02 Estudo/JavaScript/ReactJSNotesForProfessionals.pdf",
     "02 Estudo/JavaScript/Não confirmado 656954.crdownload",
