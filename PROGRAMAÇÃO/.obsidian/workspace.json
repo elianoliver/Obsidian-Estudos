@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - GIT E GITHUB/06 - GITIGNORE.md",
-                "mode": "preview",
+                "file": "04 - JAVASCRIPT/10 - FUNÇÕES.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "06 - GITIGNORE"
+              "title": "10 - FUNÇÕES"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 287.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cbc89da39f34f0a",
@@ -95,13 +96,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - GIT E GITHUB/06 - GITIGNORE.md",
+                "file": "04 - JAVASCRIPT/10 - FUNÇÕES.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 06 - GITIGNORE"
+              "title": "Sumário de 10 - FUNÇÕES"
             }
           },
           {
@@ -173,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 338.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,8 +189,16 @@
   },
   "active": "899c05a4d1965340",
   "lastOpenFiles": [
-    "01 - GIT E GITHUB/05 - LISTA DE COMANDOS.md",
+    "13 - DESIGN RESPONSIVO/06 - MOBILE FIRST.md",
+    "13 - DESIGN RESPONSIVO/05 - MEDIA QUERIES.md",
+    "13 - DESIGN RESPONSIVO/04 - FORMATOS DE IMAGENS.md",
+    "13 - DESIGN RESPONSIVO/03 - IMAGENS E VÍDEOS RESPONSIVOS.md",
+    "13 - DESIGN RESPONSIVO/02 - METATAG VIEWPORT.md",
+    "13 - DESIGN RESPONSIVO/01 - MEDIDAS.md",
+    "13 - DESIGN RESPONSIVO/00 - INTRODUCAO.md",
+    "04 - JAVASCRIPT/05 - DOM.md",
     "01 - GIT E GITHUB/06 - GITIGNORE.md",
+    "01 - GIT E GITHUB/05 - LISTA DE COMANDOS.md",
     "02 - HTML/6.2 - TIPOS DE INPUTS.md",
     "04 - JAVASCRIPT/07 - ESTRUTURAS DE REPETIÇÃO.md",
     "04 - JAVASCRIPT/06 - ESTRUTURAS DE SELEÇÃO.md",
@@ -205,22 +215,14 @@
     "02 - HTML/06 - FORMULARIOS.md",
     "02 - HTML/02 - TAGS BODY.md",
     "02 - HTML/01 - TAGS BÁSICAS.md",
-    "13 - DESIGN RESPONSIVO/03 - IMAGENS E VÍDEOS RESPONSIVOS.md",
-    "03 - CSS/08 - LINKS NO CSS.md",
-    "03 - CSS/09 - LISTAS NO CSS.md",
-    "13 - DESIGN RESPONSIVO/02 - METATAG VIEWPORT.md",
     "02 Estudo/JavaScript/JavaScriptNotesForProfessionals.pdf",
     "02 Estudo/JavaScript/ReactJSNotesForProfessionals.pdf",
     "02 Estudo/JavaScript/Não confirmado 656954.crdownload",
     "02 Estudo/00 Lidos/CDC - Web Design Responsivo.pdf",
     "02 Estudo/00 Lidos/Bhargava - Entendendo Algoritmos.pdf",
     "02 Estudo/00 Lidos",
-    "13 - DESIGN RESPONSIVO/01 - MEDIDAS.md",
     "Pasted image 20250714170029.png",
-    "13 - DESIGN RESPONSIVO/00 - INTRODUCAO.md",
-    "11 - REGEX/00 - INTRODUÇÃO.md",
     "13 - DESIGN RESPONSIVO",
-    "12 - EDICAO DE VIDEO/00 - COMEÇANDO.md",
     "02 Estudo/Não confirmado 674322.crdownload",
     "01 Pessoal/John Flanagan - Rangers Ordem dos Arqueiros - Terra do Gelo 3.pdf",
     "02 Estudo/Edicao de Video",
