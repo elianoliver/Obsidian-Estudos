@@ -9,13 +9,14 @@
 ## Estrutura Básica
 ```html
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="icon" type="image/x-icon" href="../000-Exercícios/assets/rocket.gif">
 </head>
+
 <body>
     <!-- Seu conteúdo HTML aqui -->
 </body>
@@ -23,6 +24,19 @@
 ```
 
 - **Explicação:** A estrutura básica de um documento HTML contém as tags `<html>`, `<head>` e `<body>`. A tag `<html>` envolve todo o conteúdo, enquanto `<head>` contém metadados do documento, e `<body>` contém o conteúdo visível. 
+
+### Um Pouco Mais sobre MetaTags
+
+Qual é o papel do elemento meta description e como ele afeta o SEO?
+
+```html
+<meta
+  name="description"
+  content="Discover expert tips and techniques for gardening in small spaces, choosing the right plants, and maintaining a thriving garden."
+/>
+```
+
+SEO, ou Otimização para Mecanismos de Busca, é uma prática que otimiza páginas da web para que elas se tornem mais visíveis e tenham uma classificação mais alta nos mecanismos de busca. Uma maneira de melhorar o SEO do seu site é fornecer uma breve descrição para a página usando o elemento meta. Aqui está um exemplo de uso do elemento meta para definir a descrição de uma página para um site de jardinagem:
 
 ## Títulos e Parágrafos
 
@@ -118,6 +132,7 @@ Os caminhos relativos são usados para referenciar arquivos ou pastas em relaç�
      ```
 
 ### Caminhos Absolutos
+
 Caminhos absolutos especificam o caminho completo para um arquivo a partir da raiz do sistema de arquivos ou da raiz do servidor. Eles começam com uma barra (ou URL completa):
 - **Caminho Absoluto para um Site Online**:
   ```html
@@ -129,6 +144,7 @@ Caminhos absolutos especificam o caminho completo para um arquivo a partir da ra
   ```
 
 ### Links para Recursos Externos
+
 Para vincular recursos externos, como imagens, folhas de estilo ou scripts, use caminhos relativos ou absolutos da mesma maneira:
 - **Caminho Relativo para uma Imagem**:
   ```html

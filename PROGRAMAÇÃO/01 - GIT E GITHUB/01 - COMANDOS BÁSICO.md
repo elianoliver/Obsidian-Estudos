@@ -1,6 +1,6 @@
 ---
 Documentação: https://git-scm.com/docs; https://github.com/git-guides/
-Testar: https://learngitbranching.js.org/?locale=pt_BR
+Praticar: https://learngitbranching.js.org/?locale=pt_BR
 Livro: obsidian://open?vault=LEITURA&file=02%20Estudo%2Fprogit.pdf
 ---
 ---

@@ -1,5 +1,7 @@
 As estruturas de seleção em JavaScript são utilizadas para controlar o fluxo do programa, permitindo a execução de diferentes blocos de código com base em condições específicas. 
 
+## If e Else
+
 **Estrutura de Seleção Simples:**
 ```javascript
 var idade = 18;
@@ -51,45 +53,37 @@ Nesse caso, estamos usando múltiplos blocos `if else` aninhados para testar vá
 Aqui, usamos uma estrutura mais limpa para a seleção encadeada, que é mais legível do que aninhar vários blocos `if-else`.
 
 ```javascript
-if (menu == 0) {
-    console.log("Opção 0 selecionada");
-} else if (menu == 1) {
-    console.log("Opção 1 selecionada");
-} else if (menu == 2) {
-    console.log("Opção 2 selecionada");
-} else if (menu == 3) {
-    console.log("Opção 3 selecionada");
-} else {
-    console.log("Opção Inválida");
-}
+let menu = 0
+
+if (menu == 0) { console.log("Opção 0 selecionada");}
+else if (menu == 1) { console.log("Opção 1 selecionada");}
+else if (menu == 2) { console.log("Opção 2 selecionada");}
+else if (menu == 3) { console.log("Opção 3 selecionada");}
+else { console.log("Opção Inválida");}
 ```
 
-**Switch-Case:**
+## Switch-Case
+
 ```javascript
+let menu = 0
+
 switch (menu) {
-    case 0:
-        console.log("Opção 0 selecionada");
-        break;
-    case 1:
-        console.log("Opção 1 selecionada");
-        break;
-    case 2:
-        console.log("Opção 2 selecionada");
-        break;
-    case 3:
-        console.log("Opção 3 selecionada");
-        break;
-    default:
-        console.log("Opção Inválida");
-        break;
+    case 0: console.log("Opção 0 selecionada"); break;
+    case 1: console.log("Opção 1 selecionada"); break;
+    case 2: console.log("Opção 2 selecionada"); break;
+    case 3: console.log("Opção 3 selecionada"); break;
+    default: console.log("Opção Inválida"); break;
 }
 ```
 
 O `switch` é uma estrutura que permite comparar um valor a vários casos. Quando o valor se encaixa em um dos casos, o código desse caso é executado. O `default` é executado se nenhum caso for correspondido.
 
-**Operador Ternário:**
+## Operador Ternário
+
 ```javascript
-var opcao = (menu == 0) ? "ternário verdadeiro" : "ternário falso";
+let menu = 0
+
+let opcao = (menu === 0) ? "ternário verdadeiro" : "ternário falso";
 console.log(opcao);
 ```
 

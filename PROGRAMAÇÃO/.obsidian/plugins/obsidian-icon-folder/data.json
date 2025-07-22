@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasCircleCheck",
-      "FarFilePdf",
-      "FasFilePdf",
-      "FasFaceAngry",
-      "FarPenToSquare"
+      "FasCircleNotch",
+      "FasCircleDot",
+      "FarCircle",
+      "FasHourglassEnd",
+      "FasCircleCheck"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -55,8 +55,10 @@
   "02 Estudo": "FasBook",
   "00 Anotacoes/Amor Líquido": "FarCircleXmark",
   "04 Concurso": "FasFaceAngry",
-  "JOURNAL": "FarPenToSquare",
-  "01 Pessoal/Lidos/J. Sheridan Le Fanu - Carmilla.epub": "FasCircleCheck",
-  "01 Pessoal/Lidos/John Flanagan - Rangers Ordem dos Arqueiros - Ruinas de Gorlan.epub": "FasCircleCheck",
-  "02 Estudo/Bhargava - Entendendo Algoritmos.pdf": "FasCircleCheck"
+  "01 Pessoal/John Flanagan - Rangers Ordem dos Arqueiros - Terra do Gelo 3.pdf": "FasCircleNotch",
+  "02 Estudo/00 Lidos/Bhargava - Entendendo Algoritmos.pdf": "FasCircleCheck",
+  "02 Estudo/00 Lidos/CDC - Web Design Responsivo.pdf": "FasCircleCheck",
+  "01 Pessoal/00 Lidos/J. Sheridan Le Fanu - Carmilla.epub": "FasCircleCheck",
+  "01 Pessoal/00 Lidos/John Flanagan - Rangers Ordem Dos Arqueiros - Ponte Em Chamas 2.epub": "FasCircleCheck",
+  "01 Pessoal/00 Lidos/John Flanagan - Rangers Ordem dos Arqueiros - Ruinas de Gorlan 1.epub": "FasCircleCheck"
 }

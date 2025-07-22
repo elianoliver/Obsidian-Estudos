@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d1d164813fe6335f",
+        "id": "61ad5104b009dd0e",
         "type": "tabs",
         "children": [
           {
-            "id": "5d49d6e74c3d0a27",
+            "id": "899c05a4d1965340",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "02 Estudo/JavaScript/OReilly - Primeiros Passos com React Construindo Aplicações web.pdf"
+                "file": "01 - GIT E GITHUB/06 - GITIGNORE.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "OReilly - Primeiros Passos com React Construindo Aplicações web"
+              "icon": "lucide-file",
+              "title": "06 - GITIGNORE"
             }
           }
         ]
@@ -51,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "audio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 287.5
   },
   "right": {
     "id": "9cbc89da39f34f0a",
@@ -92,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Estudo/JavaScript/OReilly - Primeiros Passos com React Construindo Aplicações web.pdf",
+                "file": "01 - GIT E GITHUB/06 - GITIGNORE.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de OReilly - Primeiros Passos com React Construindo Aplicações web"
+              "title": "Sumário de 06 - GITIGNORE"
             }
           },
           {
@@ -170,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5,
-    "collapsed": true
+    "width": 338.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,54 +185,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "271a702203f418c9",
+  "active": "899c05a4d1965340",
   "lastOpenFiles": [
-    "02 Estudo/JavaScript/CDC - Guia Prático de TypeScript.pdf",
-    "02 Estudo/JavaScript/NodeJSNotesForProfessionals.pdf",
+    "01 - GIT E GITHUB/05 - LISTA DE COMANDOS.md",
+    "01 - GIT E GITHUB/06 - GITIGNORE.md",
+    "02 - HTML/6.2 - TIPOS DE INPUTS.md",
+    "04 - JAVASCRIPT/07 - ESTRUTURAS DE REPETIÇÃO.md",
+    "04 - JAVASCRIPT/06 - ESTRUTURAS DE SELEÇÃO.md",
+    "04 - JAVASCRIPT/09 - MANIPULAÇÃO DE STRINGS.md",
+    "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
+    "04 - JAVASCRIPT/03 - GRAMÁTICA E TIPOS.md",
+    "04 - JAVASCRIPT/02 - LOCAIS PARA JS.md",
+    "04 - JAVASCRIPT/02 - COMEÇANDO COM JS.md",
+    "04 - JAVASCRIPT/01 - INTRODUÇÃO.md",
+    "02 - HTML/04 - TAGS AUDIO VISUAIS.md",
+    "02 - HTML/6.1 - ELEMENTOS DO FORM.md",
+    "02 - HTML/07 - TABLES.md",
+    "02 - HTML/05 - IFRAME.md",
+    "02 - HTML/06 - FORMULARIOS.md",
+    "02 - HTML/02 - TAGS BODY.md",
+    "02 - HTML/01 - TAGS BÁSICAS.md",
+    "13 - DESIGN RESPONSIVO/03 - IMAGENS E VÍDEOS RESPONSIVOS.md",
+    "03 - CSS/08 - LINKS NO CSS.md",
+    "03 - CSS/09 - LISTAS NO CSS.md",
+    "13 - DESIGN RESPONSIVO/02 - METATAG VIEWPORT.md",
     "02 Estudo/JavaScript/JavaScriptNotesForProfessionals.pdf",
-    "02 Estudo/JavaScript/OReilly - JavaScript O guia definitivo.pdf",
-    "02 Estudo/Bhargava - Entendendo Algoritmos.pdf",
-    "02 Estudo/iuricode/eFront+Plus+(v1.8).pdf",
-    "02 Estudo/iuricode/Frontend+descomplicado.pdf",
-    "02 Estudo/iuricode/eFront+-+Estudando+frontend+do+zero+(v4.3).pdf",
-    "02 Estudo/Tanenbaum - Sistemas Distribuídos Princípios e Paradigmas.pdf",
-    "02 Estudo/JavaScript/Mateus Silva - React Hooks Handbook.pdf",
-    "02 Estudo/progit.pdf",
-    "11 - REGEX/04 - LOOKAROUNDS.md",
-    "11 - REGEX/03 - AGRUPAMENTO.md",
-    "11 - REGEX/02 - REPETIÇÕES.md",
-    "11 - REGEX/01 - MATCHES BÁSICOS.md",
+    "02 Estudo/JavaScript/ReactJSNotesForProfessionals.pdf",
+    "02 Estudo/JavaScript/Não confirmado 656954.crdownload",
+    "02 Estudo/00 Lidos/CDC - Web Design Responsivo.pdf",
+    "02 Estudo/00 Lidos/Bhargava - Entendendo Algoritmos.pdf",
+    "02 Estudo/00 Lidos",
+    "13 - DESIGN RESPONSIVO/01 - MEDIDAS.md",
+    "Pasted image 20250714170029.png",
+    "13 - DESIGN RESPONSIVO/00 - INTRODUCAO.md",
+    "11 - REGEX/00 - INTRODUÇÃO.md",
+    "13 - DESIGN RESPONSIVO",
+    "12 - EDICAO DE VIDEO/00 - COMEÇANDO.md",
+    "02 Estudo/Não confirmado 674322.crdownload",
+    "01 Pessoal/John Flanagan - Rangers Ordem dos Arqueiros - Terra do Gelo 3.pdf",
+    "02 Estudo/Edicao de Video",
+    "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
     "00 - ASSETS/images/Pasted image 20240224154121.png",
     "00 - ASSETS/regex/Pasted image 20250610002421.png",
-    "11 - REGEX/00 - INTRODUÇÃO.md",
     "00 - ASSETS/regex/Pasted image 20250610002555.png",
-    "11 - REGEX/05 - FLAGS.md",
     "00 - ASSETS/regex/Pasted image 20250610001813.png",
     "00 - ASSETS/regex/Pasted image 20250610002205.png",
     "00 - ASSETS/regex/Pasted image 20250610002103.png",
     "00 - ASSETS/regex/Pasted image 20250610002028.png",
     "00 - ASSETS/regex/Pasted image 20250610000254.png",
-    "00 - ASSETS/regex/Pasted image 20250610001520.png",
-    "00 - ASSETS/regex/Pasted image 20250610000952.png",
-    "00 Anotacoes/ReZero/ReZero - 21/Arco 6 - Cap 4.md",
-    "00 Anotacoes/ReZero/ReZero - 19/CAP 2 - Canção da Cidade em Chamas.md",
-    "00 Anotacoes/ReZero/ReZero - 19/CAP 1 - Início do Ataque ao Avareza.md",
-    "00 Anotacoes/ReZero/ReZero - 19/CAP 0 - Cidade de Combates Desorganizados.md",
-    "00 Anotacoes/Entendendo Algoritmos/CAP 5 - Tabelas Hash.md",
-    "00 Anotacoes/Entendendo Algoritmos/CAP 4 - Quicksort.md",
-    "00 Anotacoes/Entendendo Algoritmos/CAP 3 - Recursão.md",
-    "00 Anotacoes/Entendendo Algoritmos/CAP 2 - Ordenação por seleção.md",
-    "00 Anotacoes/Entendendo Algoritmos/CAP 1 - Introdução a algortimos.md",
-    "01 - GIT E GITHUB/06 - GITIGNORE.md",
-    "01 - GIT E GITHUB/05 - LISTA DE COMANDOS.md",
-    "01 - GIT E GITHUB/04 - GIT COM TOKEN.md",
-    "01 - GIT E GITHUB/03 - GIT COM SSH.md",
-    "01 - GIT E GITHUB/02 - GIT COM GITHUB.md",
-    "01 - GIT E GITHUB/01 - COMANDOS BÁSICO.md",
-    "01 - GIT E GITHUB/00 - INTRODUÇÃO.md",
-    "04 - JAVASCRIPT/02 - COMEÇANDO COM JS.md",
-    "04 - JAVASCRIPT/02 - LOCAIS PARA JS.md",
-    "JOURNAL/2025-05-04.md",
     "OVERVIEW.canvas",
     "01 Anotacoes/ReZero/CANVAS.canvas",
     "01 - Anotações/ReZero/CANVAS.canvas",

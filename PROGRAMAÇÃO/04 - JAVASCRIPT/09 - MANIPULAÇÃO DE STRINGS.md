@@ -133,7 +133,7 @@ A função `charAt()` é usada para retornar o caractere em um índice específi
 Exemplo:
 ```javascript
 const texto = "Exemplo";
-const caracterNoIndice2 = texto.charAt(2); // Retorna 'e', que é o caractere no índice 2.
+console.log(texto.charAt(2)); // Retorna 'e', que é o caractere no índice 2.
 ```
 
 #### Função `charCodeAt()`
@@ -142,7 +142,7 @@ A função `charCodeAt()` retorna o valor Unicode do caractere em um índice esp
 Exemplo:
 ```javascript
 const texto = "Exemplo";
-const valorUnicodeNoIndice2 = texto.charCodeAt(2); // Retorna 101, que é o valor Unicode do caractere 'e'.
+console.log(texto.charCodeAt(2)); // Retorna 101, que é o valor Unicode do caractere 'e'.
 ```
 
 #### Função `concat()`
@@ -152,7 +152,7 @@ Exemplo:
 ```javascript
 const str1 = "Hello, ";
 const str2 = "world!";
-const novaString = str1.concat(str2); // Cria a nova string "Hello, world!".
+console.log(str1.concat(str2)); // Cria a nova string "Hello, world!".
 ```
 
 #### Função `endsWith()`
@@ -161,7 +161,8 @@ A função `endsWith()` verifica se uma string termina com a sequência especifi
 Exemplo:
 ```javascript
 const texto = "Isso é um exemplo.";
-const terminaComExemplo = texto.endsWith("exemplo."); // Retorna true, pois a string termina com "exemplo.".
+console.log(texto.endsWith("exemplo.")); 
+// Retorna true, pois a string termina com "exemplo.".
 ```
 
 #### Função `includes()`
@@ -170,18 +171,18 @@ A função `includes()` verifica se uma string contém a sequência especificada
 Exemplo:
 ```javascript
 const texto = "Este é um exemplo de texto.";
-const contemExemplo = texto.includes("exemplo"); // Retorna true, pois a sequência "exemplo" está presente na string.
+console.log(texto.includes("exemplo")); 
+// Retorna true, pois a sequência "exemplo" está presente na string.
 ```
 
-Peço desculpas pela omissão anterior. Aqui estão as explicações e exemplos para as funções `slice()`, `substring()`, `substr()`, `replace()`, `padStart()`, e `split()`:
-
 #### Função `slice()`
-A função `slice()` é usada para extrair uma parte de uma string, começando a partir de um índice inicial (incluído) até um índice final (excluído). Isso permite que você crie uma nova string que contenha uma parte específica da string original.
+A função `slice()` é usada para extrair uma parte de uma string, começando a partir de um índice inicial (incluído) até um índice final (excluído). Isso permite que você crie uma nova string que contenha uma parte específica da string original. Aceita índices positivos e negativos (negativos contam do final para o começo)
 
 Exemplo:
 ```javascript
 const texto = "Exemplo de slice";
-const parte = texto.slice(8, 12); // Retorna "slid", que é a parte entre os índices 8 (incluído) e 12 (excluído).
+console.log(texto.slice(8, 12)); 
+// Retorna "de s", que é a parte entre os índices 8 (incluído) e 12 (excluído).
 ```
 
 #### Função `substring()`
@@ -190,7 +191,7 @@ A função `substring()` é semelhante ao `slice()`, mas, ao contrário do `slic
 Exemplo:
 ```javascript
 const texto = "Exemplo de substring";
-const parte = texto.substring(8, 16); // Retorna "de subst", que é a parte entre os índices 8 (incluído) e 16 (excluído).
+console.log(texto.substring(8, 16)); // Retorna "de subst", que é a parte entre os índices 8 (incluído) e 16 (excluído).
 ```
 
 #### Função `substr()`
