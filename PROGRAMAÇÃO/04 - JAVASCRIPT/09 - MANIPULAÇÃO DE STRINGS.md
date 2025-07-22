@@ -200,7 +200,8 @@ A função `substr()` é usada para extrair uma parte de uma string a partir de 
 Exemplo:
 ```javascript
 const texto = "Exemplo de substring";
-const parte = texto.substr(8, 16); // Retorna "de substring", que começa no índice 8 e tem um comprimento de 4 caracteres.
+console.log(texto.substr(8, 16)); 
+// Retorna "de substring", que começa no índice 8 e tem um comprimento de 4 caracteres.
 ```
 
 #### Função `replace()`

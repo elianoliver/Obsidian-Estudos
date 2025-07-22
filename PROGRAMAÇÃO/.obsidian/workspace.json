@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - JAVASCRIPT/10 - FUNÇÕES.md",
+                "file": "04 - JAVASCRIPT/09 - MANIPULAÇÃO DE STRINGS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "10 - FUNÇÕES"
+              "title": "09 - MANIPULAÇÃO DE STRINGS"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "right": {
     "id": "9cbc89da39f34f0a",
@@ -96,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/10 - FUNÇÕES.md",
+                "file": "04 - JAVASCRIPT/09 - MANIPULAÇÃO DE STRINGS.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 10 - FUNÇÕES"
+              "title": "Sumário de 09 - MANIPULAÇÃO DE STRINGS"
             }
           },
           {
@@ -189,6 +188,11 @@
   },
   "active": "899c05a4d1965340",
   "lastOpenFiles": [
+    "04 - JAVASCRIPT/07 - ESTRUTURAS DE REPETIÇÃO.md",
+    "04 - JAVASCRIPT/09 - MANIPULAÇÃO DE STRINGS.md",
+    "04 - JAVASCRIPT/13 - CONSOLE.md",
+    "04 - JAVASCRIPT/02 - COMEÇANDO COM JS.md",
+    "04 - JAVASCRIPT/10 - FUNÇÕES.md",
     "13 - DESIGN RESPONSIVO/06 - MOBILE FIRST.md",
     "13 - DESIGN RESPONSIVO/05 - MEDIA QUERIES.md",
     "13 - DESIGN RESPONSIVO/04 - FORMATOS DE IMAGENS.md",
@@ -200,21 +204,16 @@
     "01 - GIT E GITHUB/06 - GITIGNORE.md",
     "01 - GIT E GITHUB/05 - LISTA DE COMANDOS.md",
     "02 - HTML/6.2 - TIPOS DE INPUTS.md",
-    "04 - JAVASCRIPT/07 - ESTRUTURAS DE REPETIÇÃO.md",
     "04 - JAVASCRIPT/06 - ESTRUTURAS DE SELEÇÃO.md",
-    "04 - JAVASCRIPT/09 - MANIPULAÇÃO DE STRINGS.md",
     "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
     "04 - JAVASCRIPT/03 - GRAMÁTICA E TIPOS.md",
     "04 - JAVASCRIPT/02 - LOCAIS PARA JS.md",
-    "04 - JAVASCRIPT/02 - COMEÇANDO COM JS.md",
     "04 - JAVASCRIPT/01 - INTRODUÇÃO.md",
     "02 - HTML/04 - TAGS AUDIO VISUAIS.md",
     "02 - HTML/6.1 - ELEMENTOS DO FORM.md",
     "02 - HTML/07 - TABLES.md",
     "02 - HTML/05 - IFRAME.md",
     "02 - HTML/06 - FORMULARIOS.md",
-    "02 - HTML/02 - TAGS BODY.md",
-    "02 - HTML/01 - TAGS BÁSICAS.md",
     "02 Estudo/JavaScript/JavaScriptNotesForProfessionals.pdf",
     "02 Estudo/JavaScript/ReactJSNotesForProfessionals.pdf",
     "02 Estudo/JavaScript/Não confirmado 656954.crdownload",
