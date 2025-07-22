@@ -1,3 +1,5 @@
 *.pdf
-*.epub 
+*.epub
 *.mobi
+*.exe
+Calibre Portable/
