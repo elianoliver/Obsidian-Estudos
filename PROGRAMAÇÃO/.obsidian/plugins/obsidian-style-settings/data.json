@@ -45,5 +45,15 @@
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-lavender",
   "anuppuccin-theme-settings@@anp-layout-select": "none",
   "anuppuccin-theme-settings@@anp-hide-borders": false,
-  "anuppuccin-theme-settings@@anp-bg-fix": true
+  "anuppuccin-theme-settings@@anp-bg-fix": true,
+  "anuppuccin-theme-settings@@anp-header-color-toggle": false,
+  "anuppuccin-theme-settings@@anp-header-margin-toggle": false,
+  "anuppuccin-theme-settings@@anp-header-divider-color-toggle": false,
+  "anuppuccin-theme-settings@@anp-h1-divider": true,
+  "anuppuccin-theme-settings@@anp-h2-divider": true,
+  "anuppuccin-theme-settings@@anp-h3-divider": false,
+  "anuppuccin-theme-settings@@anp-h4-divider": false,
+  "anuppuccin-theme-settings@@anp-h5-divider": false,
+  "anuppuccin-theme-settings@@anp-h6-divider": false,
+  "anuppuccin-theme-settings@@anp-decoration-toggle": false
 }
