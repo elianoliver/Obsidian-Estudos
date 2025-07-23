@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "funções",
+                "query": "pop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,8 +204,9 @@
   },
   "active": "8a22ddd15bc23eb7",
   "lastOpenFiles": [
-    "04 - JAVASCRIPT/09 - OBJETOS.md",
+    "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
     "04 - JAVASCRIPT/08 - ARRAYS.md",
+    "04 - JAVASCRIPT/09 - OBJETOS.md",
     "04 - JAVASCRIPT/11 - EVENT HANDLER.md",
     "04 - JAVASCRIPT/10 - FUNÇÕES.md",
     "04 - JAVASCRIPT/09 - MANIPULAÇÃO DE STRINGS.md",
@@ -224,7 +226,6 @@
     "01 - GIT E GITHUB/06 - GITIGNORE.md",
     "01 - GIT E GITHUB/05 - LISTA DE COMANDOS.md",
     "02 - HTML/6.2 - TIPOS DE INPUTS.md",
-    "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
     "04 - JAVASCRIPT/03 - GRAMÁTICA E TIPOS.md",
     "04 - JAVASCRIPT/02 - LOCAIS PARA JS.md",
     "04 - JAVASCRIPT/01 - INTRODUÇÃO.md",
