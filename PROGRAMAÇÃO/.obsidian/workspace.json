@@ -26,15 +26,10 @@
             "id": "8a22ddd15bc23eb7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - JAVASCRIPT/08 - ARRAYS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "08 - ARRAYS"
+              "title": "Nova aba"
             }
           }
         ],
@@ -112,13 +107,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/08 - ARRAYS.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 08 - ARRAYS"
+              "title": "Sumário"
             }
           },
           {
