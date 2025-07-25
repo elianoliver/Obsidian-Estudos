@@ -10,7 +10,9 @@
     "image-rounded",
     "custom-style",
     "image-center",
-    "rounded-images"
+    "rounded-images",
+    "floating-search-bar",
+    "floating-status-bar"
   ],
   "interfaceFontFamily": "JetBrainsMono Nerd Font",
   "textFontFamily": "JetBrainsMono Nerd Font",
