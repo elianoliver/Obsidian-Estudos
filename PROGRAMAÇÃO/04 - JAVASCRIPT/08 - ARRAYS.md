@@ -362,3 +362,135 @@ console.log(reversedString); // "álos"
 ```
 
 É importante notar que strings em JavaScript são **imutáveis**, o que significa que você não pode modificá-las diretamente. Por isso, é necessário convertê-las em um array, inverter o array e depois transformá-lo de volta em uma string.
+
+## Pegando o índice de um elemento do array com `indexOf()`
+
+O método `indexOf()` em JavaScript serve para **encontrar a posição (índice)** de um elemento dentro de um array. Ele **retorna o índice da primeira ocorrência** do valor procurado. Caso o valor **não esteja presente no array**, ele retorna -1.
+
+### Sintaxe básica:
+
+```js
+array.indexOf(elemento, índiceInicial)
+```
+
+- `elemento`: o valor que você quer encontrar.
+- `índiceInicial` (opcional): a posição do array onde a busca deve começar. Se não for informado, a busca começa do início (`índice 0`).
+
+### Exemplo – Encontrando um elemento:
+
+```js
+// Encontrando um elemento
+// Neste exemplo, "banana" aparece pela primeira vez no índice 1, e é isso que `indexOf()` retorna.
+let frutas = ["maçã", "banana", "laranja", "banana"];
+let indice = frutas.indexOf("banana");
+console.log(indice); // 1
+
+// Elemento não encontrado
+// Como "uva" não está no array, indexOf() retorna -1
+frutas = ["maçã", "banana", "laranja"];
+indice = frutas.indexOf("uva");
+console.log(indice); // -1
+
+// Usando o índice inicial
+// Aqui, a busca por "verde" começa a partir do índice 3 (ou seja, depois do primeiro "verde"). O método então encontra a próxima ocorrência no índice 4
+let cores = ["vermelho", "verde", "azul", "amarelo", "verde"];
+indice = cores.indexOf("verde", 3);
+console.log(indice); // 4
+```
+### Resumo:
+
+- `indexOf()` retorna o **índice da primeira ocorrência** de um valor.
+- Retorna `-1` se o valor **não existir**.
+- Pode começar a busca de um **índice específico em diante**.
+
+## Manipulando Arrays com `splice()`
+
+O método `splice()` do JavaScript é uma ferramenta **versátil e poderosa** para **adicionar ou remover elementos de qualquer posição em um array**, inclusive do meio.
+
+Ele **muda o array original** diretamente, em vez de criar um novo. Fique atento a isso ao usá-lo!
+
+O método `splice()` **retorna um novo array contendo os elementos que foram removidos**. Se nada foi removido, ele retorna um array vazio.
+
+### Sintaxe
+
+```js
+array.splice(startIndex, itemsToRemove, item1, item2, ...)
+```
+
+- startIndex:
+	O índice onde a modificação começa.
+	
+- itemsToRemove (opcional): 
+	Quantos elementos serão removidos a partir do `startIndex`. Se você não informar, ele remove tudo dali até o final do array.
+	
+- item1, item2, ...(opcional):
+	Os novos elementos que você quer adicionar no array, a partir do `startIndex`.
+
+### Remover elementos
+
+```js
+let frutas = ["maçã", "banana", "laranja", "manga", "kiwi"];
+let removidas = frutas.splice(2, 2); // Começa no índice 2, remove 2 elementos ("laranja", "manga")
+
+console.log(frutas);   // ["maçã", "banana", "kiwi"]
+console.log(removidas); // ["laranja", "manga"]
+```
+### Adicionar elementos
+
+```js
+let cores = ["vermelho", "verde", "azul"];
+cores.splice(1, 0, "amarelo", "roxo"); // Começa no índice 1, não remove nada (0), adiciona "amarelo" e "roxo"
+
+console.log(cores); // ["vermelho", "amarelo", "roxo", "verde", "azul"]
+```
+### Remover e adicionar ao mesmo tempo
+    
+```js
+let numeros = [1, 2, 3, 4, 5];
+numeros.splice(1, 2, 6, 7, 8); // Começa no índice 1, remove 2 elementos (2, 3), adiciona 6, 7, 8
+
+console.log(numeros); // [1, 6, 7, 8, 4, 5]
+```
+### Remover um elemento específico (sabendo o índice)
+    
+```js
+let frutas = ["maçã", "banana", "laranja", "manga"];
+let indiceParaRemover = frutas.indexOf("laranja"); // Encontra o índice de "laranja"
+
+if (indiceParaRemover !== -1) { // Verifica se o elemento existe
+	frutas.splice(indiceParaRemover, 1); // Remove 1 elemento a partir desse índice
+}
+
+console.log(frutas); // ["maçã", "banana", "manga"]
+```
+### Limpar um array
+    
+```js
+let array = [1, 2, 3, 4, 5];
+array.splice(0); // Remove todos os elementos a partir do índice 0
+
+console.log(array); // []
+```
+
+```ad-caution
+title: Cuidado com a mutação do array original!
+
+Como o `splice()` modifica o array original, se você precisar **manter o array original intacto**, crie uma **cópia** dele antes de usar `splice()`. Você pode usar o **operador `spread` (`...`)** para isso:
+```
+
+```js
+let original = [1, 2, 3, 4, 5];
+let copia = [...original]; // Cria uma cópia rasa do array original
+copia.splice(2, 1, 6); // Modifica apenas a cópia
+
+console.log(original); // [1, 2, 3, 4, 5] (original permanece inalterado)
+console.log(copia);   // [1, 2, 6, 4, 5]
+```
+
+### Quando usar e quando não usar?
+
+O `splice()` é excelente para um controle preciso sobre a modificação de arrays. No entanto, para arrays muito grandes, **pode ser menos eficiente**, especialmente se você estiver adicionando ou removendo elementos no início do array, pois ele precisa "reorganizar" todos os elementos subsequentes.
+
+Para adicionar ou remover apenas do final do array, métodos como `push()` (adicionar ao final) e `pop()` (remover do final) são mais eficientes. Para o início, `unshift()` (adicionar ao início) e `shift()` (remover do início) são as melhores opções.
+
+Em resumo, o `splice()` é uma ferramenta fundamental para manipular arrays em JavaScript, oferecendo flexibilidade para adicionar ou remover elementos em qualquer posição.
