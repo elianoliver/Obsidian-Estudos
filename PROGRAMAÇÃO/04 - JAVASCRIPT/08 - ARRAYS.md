@@ -405,11 +405,10 @@ console.log(indice); // 4
 
 ## Manipulando Arrays com `splice()`
 
-O método `splice()` do JavaScript é uma ferramenta **versátil e poderosa** para **adicionar ou remover elementos de qualquer posição em um array**, inclusive do meio.
+O método `splice()` do JavaScript é uma ferramenta **versátil e poderosa** para adicionar e ou remover elementos de qualquer posição em um array, inclusive do meio. 
 
-Ele **muda o array original** diretamente, em vez de criar um novo. Fique atento a isso ao usá-lo!
-
-O método `splice()` **retorna um novo array contendo os elementos que foram removidos**. Se nada foi removido, ele retorna um array vazio.
+- Muda o array original diretamente, em vez de criar um novo. Fique atento a isso ao usá-lo!
+- Retorna um novo array contendo os elementos que foram removidos**. Se nada foi removido, ele retorna um array vazio.
 
 ### Sintaxe
 
@@ -494,3 +493,103 @@ O `splice()` é excelente para um controle preciso sobre a modificação de arra
 Para adicionar ou remover apenas do final do array, métodos como `push()` (adicionar ao final) e `pop()` (remover do final) são mais eficientes. Para o início, `unshift()` (adicionar ao início) e `shift()` (remover do início) são as melhores opções.
 
 Em resumo, o `splice()` é uma ferramenta fundamental para manipular arrays em JavaScript, oferecendo flexibilidade para adicionar ou remover elementos em qualquer posição.
+
+## Verificando se um array tem um determinado valor com `includes()`
+
+É um método de array em JavaScript que **verifica se um valor existe dentro do array**. Ele retorna:
+
+- `true` - se o valor for encontrado 
+- `false` - se o valor não estiver no array
+    
+### Sintaxe
+
+```javascript
+let frutas = ["maçã", "banana", "laranja"];
+console.log(frutas.includes("banana")); // true
+console.log(frutas.includes("uva"));    // false
+```
+
+### Case-sensitive
+
+```javascript
+console.log(frutas.includes("banana")); // true
+console.log(frutas.includes("Banana")); // false
+```
+
+### Começar a busca em um índice específico
+
+Você pode passar um segundo argumento para dizer a partir de qual posição o JavaScript deve começar a procurar:
+
+```javascript
+let numeros = [10, 20, 30, 40, 30];
+console.log(numeros.includes(30, 3)); // true (pois há um 30 depois do índice 3)
+```
+
+### Comparação estrita (`===`)
+
+O `includes()` **diferencia tipos**:
+
+```javascript
+let misto = [1, "2", 3];
+console.log(misto.includes(2));   // false (número)
+console.log(misto.includes("2")); // true  (string)
+```
+
+## O que é uma shallow copy?
+
+Uma **shallow copy** é uma nova array que **copia os elementos do array original**, mas **não copia objetos ou arrays aninhados** — apenas suas referências.
+
+Ou seja: os elementos primitivos (números, strings, booleanos) são copiados, mas objetos internos **ainda apontam para os mesmos dados**.
+
+### **Por que usar?**
+
+Quando você quer **fazer alterações sem modificar o array original**, uma cópia rasa permite isso — mas **sem duplicar objetos internos**.
+
+### **3 formas comuns de criar uma shallow copy**
+
+1. Usando `concat()`: Você concatena um array vazio com o original, criando um novo array.
+
+```javascript
+let original = [1, 2, 3];
+let copia = [].concat(original);
+
+console.log(copia);              // [1, 2, 3]
+console.log(copia === original); // false
+```
+
+
+2. Usando `slice()`: Sem argumentos, `slice()` retorna uma cópia do array inteiro.
+
+```javascript
+let original = [1, 2, 3];
+let copia = original.slice();
+
+console.log(copia);              // [1, 2, 3]
+console.log(copia === original); // false
+```
+
+3. Usando o spread operator `...`: O spread "espalha" os elementos do array original em um novo array.
+
+```javascript
+let original = [1, 2, 3];
+let copia = [...original];
+
+console.log(copia);              // [1, 2, 3]
+console.log(copia === original); // false
+```
+
+### Atenção com objetos dentro do array
+
+Mesmo com shallow copy, **objetos internos continuam sendo os mesmos** — a alteração se reflete nos dois arrays.
+
+```javascript
+let original = [{ nome: "Elian" }];
+let copia = [...original];
+
+copia[0].nome = "Outro nome";
+
+console.log(copia[0].nome); // Copia - "Outro nome"
+console.log(original[0].nome); // Original - "Outro nome"
+```
+
+Use shallow copies para duplicar arrays de forma simples e rápida, mas cuidado com dados complexos. Para cópias profundas, outras técnicas são necessárias (como `structuredClone()` ou `JSON.parse(JSON.stringify())`, com limitações).
