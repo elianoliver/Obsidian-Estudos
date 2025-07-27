@@ -376,7 +376,7 @@ array.indexOf(elemento, índiceInicial)
 - `elemento`: o valor que você quer encontrar.
 - `índiceInicial` (opcional): a posição do array onde a busca deve começar. Se não for informado, a busca começa do início (`índice 0`).
 
-### Exemplo – Encontrando um elemento:
+### Encontrando um elemento:
 
 ```js
 // Encontrando um elemento

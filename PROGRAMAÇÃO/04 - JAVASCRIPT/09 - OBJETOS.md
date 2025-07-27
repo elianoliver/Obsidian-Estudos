@@ -381,3 +381,158 @@ const vazio = Object(null);
 console.log(vazio); // {}
 ```
 
+
+## O que é o operador de encadeamento opcional `?.`?
+
+O operador `?.`, chamado de **encadeamento opcional (optional chaining)**, permite **acessar propriedades ou métodos de objetos sem causar erro** se uma parte do caminho não existir.
+
+### Para que serve?
+
+Serve para evitar erros como:
+```javascript
+console.log(person.address.street); // Erro se "address" for undefined
+```
+
+Com `?.`, isso é tratado de forma segura:
+```javascript
+console.log(person.address?.street); // Retorna undefined, sem erro
+```
+
+### Como funciona?
+
+O JavaScript **só continua a acessar** a próxima propriedade se a anterior **não for `null` nem `undefined`**.
+
+```javascript
+const user = {
+  name: "João",
+  profile: {
+    email: "joao@email.com"
+  }
+};
+
+console.log(user.profile?.email);       // "joao@email.com"
+console.log(user.profile?.phone?.ddd);  // undefined (sem erro!)
+```
+
+### Benefícios
+
+- Evita erros em propriedades **profundamente aninhadas**
+- Torna o código **mais limpo e seguro**
+- Evita necessidade de várias checagens `if` ou `&&`
+### Cuidado
+
+- Só interrompe se o valor for `null` ou `undefined`
+- Não impede erros de **tipos incorretos** (por exemplo, se tentar acessar `.length` de um número)
+
+## O que é JSON?
+
+**JSON** (JavaScript Object Notation) é um **formato leve de troca de dados**, baseado em texto. Ele é:
+
+- Fácil de **ler e escrever por humanos**
+- Fácil de **entender e processar por máquinas**
+- **Independente de linguagem**, ou seja, pode ser usado em JavaScript, Python, Java, C#, etc.
+
+### Estrutura do JSON
+
+Um objeto JSON é formado por **pares chave-valor**, como:
+```json
+{
+  "name": "Alice",
+  "age": 30,
+  "isStudent": false,
+  "list of courses": ["Mathematics", "Physics", "Computer Science"]
+}
+```
+
+- As **chaves (keys)** são sempre strings entre aspas duplas
+- Os **valores** podem ser: número, string, booleano, `null`, array ou outro objeto
+
+### Como acessar valores do JSON?
+
+#### Notação de ponto `.`
+Use quando a chave for **uma palavra só**, sem espaços:
+
+```javascript
+console.log(data.age);        // 30
+console.log(data.name);       // "Alice"
+```
+
+#### Notação de colchetes `[]`
+
+Use quando a chave **tiver espaços, números ou caracteres especiais**:
+```javascript
+console.log(data["list of courses"]);  // ["Mathematics", "Physics", "Computer Science"]
+```
+
+### Exemplo prático de uso
+
+```javascript
+import data from "./example.json" assert { type: "json" };
+
+console.log(data.name);                   // "Alice"
+console.log(data["list of courses"]);     // ["Mathematics", "Physics", "Computer Science"]
+```
+
+JSON é uma forma eficiente de organizar e transportar dados. Saber como acessar suas informações com `.` e `[]` é essencial para trabalhar com APIs e bancos de dados modernos.
+
+## O que são `JSON.stringify()` e `JSON.parse()` e como funcionam?
+
+Esses dois métodos do JavaScript são usados para converter dados entre **objetos JavaScript** e **strings JSON**, que são úteis para **armazenar** ou **transmitir informações**, como quando salvamos dados em um arquivo ou enviamos para uma API.
+
+### `JSON.stringify()` – De **objeto** para **string**
+
+- **Função**: transforma um **objeto JavaScript** em uma **string JSON**.
+- **Para quê serve?** Ideal para **salvar dados** em formato texto (ex: no `localStorage`) ou enviar para o servidor.
+
+```js
+const user = {
+  name: "John",
+  age: 30,
+  isAdmin: true
+};
+
+const jsonString = JSON.stringify(user);
+console.log(jsonString);
+// Resultado: '{"name":"John","age":30,"isAdmin":true}'
+```
+
+#### Parâmetros opcionais de `stringify()`:
+
+1. Replacer (filtro): permite escolher quais propriedades incluir.
+
+```js
+console.log(JSON.stringify(user, ["name", "age"]));
+// Resultado: '{"name":"John","age":30}'
+```
+
+2. **Espaçamento (indentação)**: melhora a legibilidade.
+
+```js
+console.log(JSON.stringify(user, null, 2));
+/* Resultado:
+{
+  "name": "John",
+  "age": 30,
+  "isAdmin": true
+}
+*/
+```
+
+### `JSON.parse()` – De **string JSON** para **objeto**
+
+- **Função**: transforma uma **string JSON** de volta em um **objeto JavaScript**.
+- **Para quê serve?** Usado ao receber dados de APIs ou recuperar do `localStorage`
+
+```js
+const jsonString = '{"name":"John","age":30,"isAdmin":true}';
+const userObj = JSON.parse(jsonString);
+
+console.log(userObj.name); // "John"
+```
+
+### Em resumo:
+
+|Método|Faz o quê?|Quando usar?|
+|---|---|---|
+|`JSON.stringify()`|Objeto → String JSON|Para enviar ou salvar dados|
+|`JSON.parse()`|String JSON → Objeto|Para ler e usar dados recebidos ou salvos|
