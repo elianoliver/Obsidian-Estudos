@@ -229,7 +229,7 @@ A função `split()` é usada para dividir uma string em partes com base em um d
 Exemplo:
 ```javascript
 const texto = "Maçã, Banana, Kiwi";
-const arrayFrutas = texto.split(", "); // Retorna ["Maçã", "Banana", "Kiwi"] como um array com as frutas separadas.
+console.log(texto.split(", "))
 ```
 
 Essas funções de manipulação de strings são essenciais para realizar várias tarefas de processamento de texto em JavaScript. Elas oferecem flexibilidade e controle sobre como você pode manipular strings em seus programas.
