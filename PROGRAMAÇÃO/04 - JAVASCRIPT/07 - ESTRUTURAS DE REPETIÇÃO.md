@@ -145,46 +145,168 @@ for (const pessoa of pessoas) {
 }
 ```
 
-## While:
-O loop `while` é usado quando a quantidade de repetições não é conhecida antecipadamente. O bloco de código é executado enquanto a condição especificada for verdadeira. No seu exemplo, a condição é `contador < 10`.
+
+## For in
+
+O `for...in` é um tipo de loop em JavaScript usado para **percorrer as propriedades (chaves)** de um **objeto**.
+
+Ele percorre **todas as propriedades enumeráveis**, incluindo:
+
+- Propriedades definidas no próprio objeto
+- Propriedades herdadas da cadeia de protótipos
+
+### Sintaxe básica
 
 ```javascript
-var contador = 10;
-console.log("Antes do While");
+for (variável in objeto) {
+  // bloco de código
+}
+```
 
-while (contador < 10) {
-    contador++;
-    console.log("while " + contador);
+- A **variável** representa a **chave atual** (nome da propriedade).
+- Você pode acessar o **valor** da propriedade com `objeto[variável]`.
+
+### Exemplo com objeto simples
+Aqui, `prop` será `"nome"`, `"cor"` e `"preco"` em cada repetição.
+
+```javascript
+const fruta = {
+  nome: 'maçã',
+  cor: 'vermelha',
+  preco: 1.25
+};
+
+for (const prop in fruta) {
+  console.log(fruta[prop]);
+}
+```
+
+### Exemplo com objeto aninhado
+Nesse caso, a propriedade `endereco` é um **objeto aninhado**.
+
+```javascript
+const pessoa = {
+  nome: 'João',
+  idade: 30,
+  endereco: {
+    rua: 'Rua A',
+    cidade: 'Bairro B',
+    estado: 'SP'
+  }
+};
+
+for (const prop in pessoa) {
+  console.log(pessoa[prop]);
+}
+```
+
+### Acessando propriedades internas com loop aninhado
+
+Se você quiser percorrer as **propriedades internas**, use um `for...in` dentro de outro:
+
+Essa lógica garante que você **não entre em arrays** nem em `null`, que são tratados como objetos por engano em JavaScript.
+
+```javascript
+
+const pessoa = { 
+	nome: 'João', 
+	idade: 30, 
+	endereco: {
+		rua: 'Rua A', 
+		cidade: 'Bairro B', 
+		estado: 'SP' 
+	} 
+};
+
+function isObjeto(val) {
+  return typeof val === 'object' && !Array.isArray(val) && val !== null;
 }
 
-console.log("Depois do While");
+for (const prop in pessoa) {
+
+  if (isObjeto(pessoa[prop])) {
+  
+    for (const subprop in pessoa[prop]) {
+      console.log(pessoa[prop][subprop]);
+    }
+  } else {
+    console.log(pessoa[prop]);
+  }
+}
 ```
 
-Observe que, no seu exemplo, a condição inicial já é falsa, portanto o bloco de código dentro do `while` não será executado.
+### Evite usar `for...in` com arrays
+Embora funcione, **não é recomendado** usar `for...in` com arrays, porque:
 
-## Do-While:
-O loop `do-while` é semelhante ao `while`, mas garante que o bloco de código seja executado pelo menos uma vez, mesmo que a condição seja falsa. A avaliação da condição ocorre após a primeira execução do bloco.
+- Ele percorre **índices como strings**
+- Pode acessar **propriedades extras adicionadas ao array**
+- A ordem dos índices **não é garantida**
+
+Use `for...of`, `forEach`, `map`, etc. com arrays.
+
+
+## While
+
+O `while` é um laço de repetição que executa um bloco de código **enquanto uma condição for verdadeira**.
+
+### Sintaxe
+A **condição é verificada antes** de executar o bloco.
+Se for **falsa já no início**, o código **não será executado nenhuma vez**.
 
 ```javascript
-var contador = 10;
-console.log("Antes do do-While");
-
-do {
-    contador++;
-    console.log("do-while " + contador);
-} while (contador < 10);
-
-console.log("Depois do do-While");
+while (condição) {
+  // código a ser executado
+}
 ```
 
-No exemplo, o bloco dentro do `do-while` é executado uma vez antes de verificar a condição. Se a condição fosse verdadeira, o bloco seria executado novamente, mas no seu caso, a condição é falsa desde o início.
+### Exemplo
 
+```javascript
+let entrada = prompt("Digite um número entre 1 e 10");
 
+while (isNaN(entrada) || Number(entrada) < 1 || Number(entrada) > 10) {
+  entrada = prompt("Entrada inválida. Digite um número entre 1 e 10.");
+}
+
+alert("Você digitou um número válido!");
+```
+
+Neste exemplo:
+- `isNaN()` verifica se a entrada **não é um número**.
+- `Number()` converte a string digitada em número.
+- O loop repete até o usuário digitar um número **entre 1 e 10**.
+
+## Do While
+
+O `do...while` é parecido com o `while`, mas com uma **diferença importante**: Ele **sempre executa o bloco pelo menos uma vez**, **antes** de verificar a condição.
+
+### Sintaxe:
+
+```javascript
+do {
+  // código a ser executado
+} while (condição);
+```
+
+### Exmplo
+
+```javascript
+let entrada;
+
+do {
+  entrada = prompt("Digite um número entre 1 e 10");
+} while (Number(entrada) < 1 || Number(entrada) > 10);
+
+alert("Você digitou um número válido!");
+```
+
+- Mesmo que a condição fosse falsa logo no começo, o `prompt` seria exibido **pelo menos uma vez**.
+- O loop só para quando o número estiver dentro do intervalo válido.
 
 ## ForEach:
 O `forEach` é um método disponível em todos os objetos do tipo array em JavaScript. Sua finalidade é percorrer cada elemento de um array e aplicar uma função de retorno de chamada a cada um deles. Isso permite que você realize ações específicas em cada elemento do array sem a necessidade de criar um loop manualmente.
 
-A sintaxe básica do `forEach` é a seguinte:
+### Sintaxe
 
 ```javascript
 array.forEach(function(element, index, array) {
@@ -197,7 +319,7 @@ array.forEach(function(element, index, array) {
 - `index`: É o índice (posição) do elemento atual no array.
 - `array`: É o próprio array que está sendo percorrido.
 
-Aqui está um exemplo de uso do `forEach`:
+### Exemplo
 
 ```javascript
 const frutas = ['maçã', 'banana', 'laranja', 'morango'];
@@ -209,67 +331,112 @@ frutas.forEach(function(fruta, index) {
 
 Neste exemplo, o `forEach` percorre o array `frutas`, e a função de retorno de chamada é executada para cada elemento. Ela imprime uma mensagem informando a fruta e o índice correspondente no array.
 
-## For in:
-O `for in` é um tipo de loop utilizado para percorrer as propriedades de um objeto. Ele não é projetado para iterar diretamente sobre os valores dos elementos em um array, embora possa ser usado dessa maneira. Em vez disso, ele se destina principalmente para objetos, onde você deseja acessar as chaves (nomes) das propriedades do objeto.
+## Break
 
-A sintaxe básica do `for in` é a seguinte:
+O `break` é usado para **interromper um loop imediatamente**, ou seja, **sair do loop antes de ele terminar naturalmente**.
 
+### Exemplo
+- Quando `i === 5`, o `break` **encerra o loop**.   
+- Muito útil para **parar a busca** por um valor quando ele é encontrado.
 ```javascript
-for (const key in objeto) {
-    // Código a ser executado para cada propriedade do objeto
+for (let i = 0; i < 10; i++) {
+  if (i === 5) {
+    break;
+  }
+  console.log(i);
 }
 ```
 
-- `objeto`: O objeto cujas propriedades você deseja percorrer.
-- `key`: Representa o nome da propriedade do objeto a ser acessada em cada iteração.
 
-Aqui está um exemplo de uso do `for in` com um objeto:
+    
 
-```javascript
-const pessoa = {
-    nome: "João",
-    idade: 30,
-    profissao: "Engenheiro"
-};
+---
 
-for (const propriedade in pessoa) {
-    console.log(`A propriedade ${propriedade} tem o valor ${pessoa[propriedade]}`);
-}
+### ⏭️ **O que é o `continue`?**
 
-//A propriedade nome tem o valor João
-//A propriedade idade tem o valor 30
-//A propriedade profissao tem o valor Engenheiro
-```
+O `continue` **não encerra o loop**, mas **pula a iteração atual** e segue para a próxima.
 
-Neste exemplo, o `for in` percorre as propriedades do objeto `pessoa`, permitindo o acesso às chaves (nome das propriedades) e seus valores.
-
-## For of
-O `for of` é um loop projetado especificamente para iterar sobre elementos em objetos iteráveis, fornecendo acesso direto ao valor de cada elemento. Ele é mais adequado para situações em que você deseja acessar os valores de um objeto iterável em vez de se preocupar com os índices ou chaves das propriedades, como é comum no `for in`.
-
-A sintaxe básica do `for of` é a seguinte:
+#### ✅ Exemplo:
 
 ```javascript
-for (const elemento of objetoIteravel) {
-    // Código a ser executado para cada elemento do objetoIteravel
+for (let i = 0; i < 10; i++) {
+  if (i === 5) {
+    continue;
+  }
+  console.log(i);
 }
 ```
 
-- `objetoIteravel`: O objeto que você deseja percorrer, como um array, string, conjunto, mapa, etc.
-- `elemento`: Representa o valor do elemento atual em cada iteração.
+**Saída:**
 
-Aqui está um exemplo de uso do `for of` com um array:
-
-```javascript
-const frutas = ['maçã', 'banana', 'laranja', 'morango'];
-
-for (const fruta of frutas) {
-    console.log(`Uma fruta: ${fruta}`);
-}
-
-//Uma fruta: maçã
-//Uma fruta: banana
-//Uma fruta: laranja
-//Uma fruta: morango
+```
+0  
+1  
+2  
+3  
+4  
+6  
+7  
+8  
+9
 ```
 
-Neste exemplo, o `for of` percorre o array `frutas` e permite o acesso direto aos valores de cada elemento, tornando o código mais simples e legível.
+- Quando `i === 5`, o `console.log(i)` **não é executado**.
+    
+- O loop continua com o próximo valor (`i = 6`).
+    
+
+---
+
+### 🏷️ **E se houver loops aninhados?** (rótulos com `break` e `continue`)
+
+Em loops dentro de loops, você pode usar **rótulos (labels)** para controlar qual loop deseja afetar com o `break` ou `continue`.
+
+#### ✅ Exemplo com `break` usando rótulo:
+
+```javascript
+outerLoop: for (let i = 0; i < 3; i++) {
+  for (let j = 0; j < 3; j++) {
+    if (i === 1 && j === 1) {
+      break outerLoop;
+    }
+    console.log(`i: ${i}, j: ${j}`);
+  }
+}
+```
+
+**Saída:**
+
+```
+i: 0, j: 0  
+i: 0, j: 1  
+i: 0, j: 2  
+i: 1, j: 0
+```
+
+- Quando `i === 1` e `j === 1`, o `break outerLoop` **interrompe o loop externo inteiro**.
+    
+- Sem o rótulo, o `break` só encerraria o loop interno.
+    
+
+---
+
+### 📌 **Resumo das Diferenças**
+
+|Comando|O que faz|Quando usar|
+|---|---|---|
+|`break`|Sai imediatamente do loop|Quando você encontrou o que procurava ou quer parar tudo|
+|`continue`|Pula para a próxima iteração|Quando quer **ignorar apenas uma repetição**|
+|`break` com rótulo|Sai de um loop **específico** (em aninhados)|Para sair do loop de fora|
+
+---
+
+### ✅ **Conclusão**
+
+- Use `**break**` para **interromper totalmente** um loop com base em uma condição.
+    
+- Use `**continue**` para **pular uma repetição** e seguir com o restante.
+    
+- Labels são úteis em **loops aninhados**, mas raramente necessários em códigos simples.
+    
+- Saber usar esses comandos ajuda a ter **mais controle sobre o fluxo dos seus loops**.
