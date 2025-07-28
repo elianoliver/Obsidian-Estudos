@@ -331,13 +331,17 @@ frutas.forEach(function(fruta, index) {
 
 Neste exemplo, o `forEach` percorre o array `frutas`, e a função de retorno de chamada é executada para cada elemento. Ela imprime uma mensagem informando a fruta e o índice correspondente no array.
 
-## Break
+## Break e Continue
+
+Uma instrução break é usada para sair de um loop mais cedo, enquanto uma instrução continue é usada para pular a iteração atual de um loop e passar para a próxima.
+
+### Break
 
 O `break` é usado para **interromper um loop imediatamente**, ou seja, **sair do loop antes de ele terminar naturalmente**.
 
-### Exemplo
 - Quando `i === 5`, o `break` **encerra o loop**.   
 - Muito útil para **parar a busca** por um valor quando ele é encontrado.
+
 ```javascript
 for (let i = 0; i < 10; i++) {
   if (i === 5) {
@@ -347,16 +351,12 @@ for (let i = 0; i < 10; i++) {
 }
 ```
 
-
-    
-
----
-
-### ⏭️ **O que é o `continue`?**
+### Continue
 
 O `continue` **não encerra o loop**, mas **pula a iteração atual** e segue para a próxima.
 
-#### ✅ Exemplo:
+- Quando `i === 5`, o `console.log(i)` **não é executado**.
+- O loop continua com o próximo valor (`i = 6`).
 
 ```javascript
 for (let i = 0; i < 10; i++) {
@@ -367,36 +367,18 @@ for (let i = 0; i < 10; i++) {
 }
 ```
 
-**Saída:**
-
-```
-0  
-1  
-2  
-3  
-4  
-6  
-7  
-8  
-9
-```
-
-- Quando `i === 5`, o `console.log(i)` **não é executado**.
-    
-- O loop continua com o próximo valor (`i = 6`).
-    
-
----
-
-### 🏷️ **E se houver loops aninhados?** (rótulos com `break` e `continue`)
+### E se houver loops aninhados?
 
 Em loops dentro de loops, você pode usar **rótulos (labels)** para controlar qual loop deseja afetar com o `break` ou `continue`.
 
-#### ✅ Exemplo com `break` usando rótulo:
+#### `break` usando rótulo:
+
+- Quando `i === 1` e `j === 1`, o `break outerLoop` **interrompe o loop externo inteiro**.
+- Sem o rótulo, o `break` só encerraria o loop interno.
 
 ```javascript
 outerLoop: for (let i = 0; i < 3; i++) {
-  for (let j = 0; j < 3; j++) {
+  innerLoop: for (let j = 0; j < 3; j++) {
     if (i === 1 && j === 1) {
       break outerLoop;
     }
@@ -405,38 +387,10 @@ outerLoop: for (let i = 0; i < 3; i++) {
 }
 ```
 
-**Saída:**
-
-```
-i: 0, j: 0  
-i: 0, j: 1  
-i: 0, j: 2  
-i: 1, j: 0
-```
-
-- Quando `i === 1` e `j === 1`, o `break outerLoop` **interrompe o loop externo inteiro**.
-    
-- Sem o rótulo, o `break` só encerraria o loop interno.
-    
-
----
-
-### 📌 **Resumo das Diferenças**
+### Resumo das Diferenças
 
 |Comando|O que faz|Quando usar|
 |---|---|---|
 |`break`|Sai imediatamente do loop|Quando você encontrou o que procurava ou quer parar tudo|
 |`continue`|Pula para a próxima iteração|Quando quer **ignorar apenas uma repetição**|
 |`break` com rótulo|Sai de um loop **específico** (em aninhados)|Para sair do loop de fora|
-
----
-
-### ✅ **Conclusão**
-
-- Use `**break**` para **interromper totalmente** um loop com base em uma condição.
-    
-- Use `**continue**` para **pular uma repetição** e seguir com o restante.
-    
-- Labels são úteis em **loops aninhados**, mas raramente necessários em códigos simples.
-    
-- Saber usar esses comandos ajuda a ter **mais controle sobre o fluxo dos seus loops**.
