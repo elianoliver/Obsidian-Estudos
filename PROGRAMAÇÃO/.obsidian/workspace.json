@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - JAVASCRIPT/08 - ARRAYS.md",
+                "file": "04 - JAVASCRIPT/09 - OBJETOS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "08 - ARRAYS"
+              "title": "09 - OBJETOS"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "delete",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/08 - ARRAYS.md",
+                "file": "04 - JAVASCRIPT/09 - OBJETOS.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 08 - ARRAYS"
+              "title": "Sumário de 09 - OBJETOS"
             }
           },
           {
@@ -189,13 +189,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a22ddd15bc23eb7",
+  "active": "271a702203f418c9",
   "lastOpenFiles": [
-    "04 - JAVASCRIPT/09 - OBJETOS.md",
+    "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
     "04 - JAVASCRIPT/08 - ARRAYS.md",
+    "04 - JAVASCRIPT/09 - OBJETOS.md",
     "04 - JAVASCRIPT/09 - MANIPULAÇÃO DE STRINGS.md",
     "04 - JAVASCRIPT/07 - ESTRUTURAS DE REPETIÇÃO.md",
-    "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
     "04 - JAVASCRIPT/11 - EVENT HANDLER.md",
     "04 - JAVASCRIPT/10 - FUNÇÕES.md",
     "08 - TYPESCRIPT/00 - TYPE ANNOTATIONS.md",
