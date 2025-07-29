@@ -1,17 +1,5 @@
-Os arrays são uma estrutura de dados essencial em JavaScript, usados para armazenar coleções de elementos. Eles são versáteis e podem conter vários tipos de dados, incluindo números, strings, objetos e até mesmo outros arrays. Vamos explorar os conceitos-chave relacionados a arrays:
+Os arrays são uma estrutura de dados essencial em JavaScript, usados para armazenar coleções de elementos. Eles são versáteis e podem conter vários tipos de dados, incluindo números, strings, objetos e até mesmo outros arrays. Vamos explorar os conceitos-chave relacionados a arrays
 
-## Sumário
-- [[#Declaração de Arrays]]
-- [[#Acessando Elementos]]
-- [[#Tamanho do Array]]
-- [[#Iteração em Arrays]]
-- [[#Inserindo Elementos]]
-- [[#Removendo Elementos]]
-- [[#Construindo uma Fila e uma Pilha]]
-- [[#Exibindo o Array]]
-- [[#Referência de Arrays]]
-- [[#Cópia de Valores]]
-- [[#JavaScript Object]]
 ## Declaração de Arrays
 
 Há várias maneiras de declarar um array em JavaScript:
@@ -44,15 +32,16 @@ Os elementos de um array são acessados por meio de índices. Os índices são b
 
 ```javascript
 const fruta = ['laranja', 'morango', 'abacate'];
-var frutaCitrica = fruta[2]; // Acessa o terceiro elemento ("abacate")
+console.log(fruta[2]); // Acessa o terceiro elemento ("abacate")
 ```
 
 Você pode atribuir valores a elementos específicos do array da mesma maneira:
 
 ```javascript
+const fruta = ['laranja', 'morango', 'abacate'];
 fruta[3] = "limão";
 fruta[4] = "physalis";
-// fruta["laranja", "morango", "abacate", "limão", "physalis"]
+console.log(fruta)
 ```
 
 ## Tamanho do Array
@@ -60,8 +49,8 @@ fruta[4] = "physalis";
 Você pode obter o tamanho (número de elementos) de um array usando a propriedade `.length`:
 
 ```javascript
+const fruta = ['laranja', 'morango', 'abacate'];
 console.log("Tamanho do Array: " + fruta.length); 
-// Exibe o número de elementos no array - 5 elementos
 ```
 
 Lembre-se de que o tamanho de um array é dinâmico, e você pode adicionar ou remover elementos a qualquer momento.

@@ -5,14 +5,6 @@ Loops (ou laços) servem para repetir um bloco de código várias vezes. Eles s�
 - Listar todos os itens de um array.
 - Mover um personagem em um jogo repetidamente.
 
-## Sumário
-- [[#While ]]
-- [[#Do-While ]]
-- [[#For]]
-- [[#ForEach]]
-- [[#For in]]
-- [[#For of]]
-
 ## For
 
 O loop `for` é usado quando você sabe exatamente quantas vezes deseja repetir uma operação. Ele possui três partes: a inicialização, a condição e a iteração.
