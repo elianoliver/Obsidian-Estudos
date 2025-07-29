@@ -176,7 +176,9 @@ console.log(texto.includes("exemplo"));
 ```
 
 #### Função `slice()`
-A função `slice()` é usada para extrair uma parte de uma string, começando a partir de um índice inicial (incluído) até um índice final (excluído). Isso permite que você crie uma nova string que contenha uma parte específica da string original. Aceita índices positivos e negativos (negativos contam do final para o começo)
+A função `slice()` é usada para extrair uma parte de uma string, começando a partir de um índice inicial (incluído) até um índice final (excluído). 
+
+Isso permite que você crie uma nova string que contenha uma parte específica da string original. Aceita índices positivos e negativos (negativos contam do final para o começo)
 
 Exemplo:
 ```javascript
