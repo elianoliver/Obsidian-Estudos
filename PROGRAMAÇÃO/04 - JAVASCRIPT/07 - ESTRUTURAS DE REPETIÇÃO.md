@@ -69,8 +69,6 @@ for (let i = 0; i < 3; i++) {
 }
 ```
 
-
-
 ## For of 
 
 O `for of` é um loop projetado especificamente para iterar sobre elementos em objetos iteráveis, fornecendo acesso direto ao valor de cada elemento, como:
