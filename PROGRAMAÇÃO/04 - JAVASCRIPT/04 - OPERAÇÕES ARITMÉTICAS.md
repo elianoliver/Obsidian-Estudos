@@ -1,11 +1,5 @@
 JavaScript é uma linguagem de programação versátil que oferece suporte a uma ampla gama de operações aritméticas. Neste exemplo, exploraremos as operações matemáticas mais comuns e como usá-las em JavaScript.
 
-## Sumário
-- [[#Operações Aritméticas]]
-- [[#Incrementação e Decrementação]]
-- [[#Radiciação e Porcentagem]]
-- [[#Biblioteca Math]]
-
 ## Operações Aritméticas
 1. **Declaração de Variáveis:**
 Antes de realizar operações aritméticas, declaramos duas variáveis, `num1` e `num2`, e uma variável `resultado` para armazenar os resultados das operações.

@@ -15,7 +15,8 @@ function soma(x) {
 
 // Um linter como o **ESLint** vai avisar que a variável `z` não existe e que está faltando `;`.
 ```
-### Vantagens:
+
+Vantagens:
 
 - Evita bugs antes da execução
 - Garante boas práticas
@@ -43,7 +44,7 @@ function soma(a, b, c) {
 }
 ```
 
-### Vantagens:
+Vantagens:
 
 - Código sempre formatado do mesmo jeito
 - Reduz discussão sobre estilo em code reviews

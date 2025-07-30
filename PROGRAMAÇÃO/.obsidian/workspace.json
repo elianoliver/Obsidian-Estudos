@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - JAVASCRIPT/03 - Linters e Formatters.md",
+                "file": "04 - JAVASCRIPT/09 - OBJETOS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "03 - Linters e Formatters"
+              "title": "09 - OBJETOS"
             }
           }
         ],
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/03 - Linters e Formatters.md",
+                "file": "04 - JAVASCRIPT/09 - OBJETOS.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 03 - Linters e Formatters"
+              "title": "Sumário de 09 - OBJETOS"
             }
           },
           {
@@ -236,32 +236,32 @@
   },
   "active": "ab40bd01a560da51",
   "lastOpenFiles": [
+    "04 - JAVASCRIPT/08 - ARRAYS.md",
+    "04 - JAVASCRIPT/09 - OBJETOS.md",
+    "08 - TYPESCRIPT/00 - TIPOS DE DADOS.md",
+    "04 - JAVASCRIPT/07 - ESTRUTURAS DE REPETIÇÃO.md",
+    "04 - JAVASCRIPT/06 - ESTRUTURAS DE SELEÇÃO.md",
+    "04 - JAVASCRIPT/05 - DOM.md",
+    "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
+    "04 - JAVASCRIPT/03 - NOMEANDO VARIÁVEIS E FUNÇÕES.md",
+    "04 - JAVASCRIPT/02 - LOCAIS PARA JS.md",
+    "04 - JAVASCRIPT/02 - COMEÇANDO COM JS.md",
+    "04 - JAVASCRIPT/01 - INTRODUÇÃO.md",
+    "04 - JAVASCRIPT/03 - LINTERS E FORMATTERS.md",
+    "04 - JAVASCRIPT/03 - GRAMÁTICA E TIPOS.md",
+    "07 - REACT/00 - INICIANDO.md",
     "04 - JAVASCRIPT/09 - NUMEROS.md",
     "04 - JAVASCRIPT/09 - STRINGS.md",
-    "04 - JAVASCRIPT/07 - ESTRUTURAS DE REPETIÇÃO.md",
-    "04 - JAVASCRIPT/08 - ARRAYS.md",
     "04 - JAVASCRIPT/03 - GERENCIAMENTO DE MEMÓRIA.md",
     "conflict-files-obsidian-git.md",
-    "04 - JAVASCRIPT/03 - Linters e Formatters.md",
-    "04 - JAVASCRIPT/03 - NOMEANDO VARIÁVEIS E FUNÇÕES.md",
-    "04 - JAVASCRIPT/03 - GRAMÁTICA E TIPOS.md",
-    "04 - JAVASCRIPT/09 - OBJETOS.md",
     "01 - GIT E GITHUB/01 - COMANDOS BÁSICO.md",
-    "08 - TYPESCRIPT/00 - TIPOS DE DADOS.md",
-    "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
     "04 - JAVASCRIPT/11 - EVENT HANDLER.md",
     "04 - JAVASCRIPT/10 - FUNÇÕES.md",
     "08 - TYPESCRIPT/00 - TYPE ANNOTATIONS.md",
-    "04 - JAVASCRIPT/06 - ESTRUTURAS DE SELEÇÃO.md",
     "04 - JAVASCRIPT/13 - CONSOLE.md",
-    "04 - JAVASCRIPT/02 - COMEÇANDO COM JS.md",
     "13 - DESIGN RESPONSIVO/06 - MOBILE FIRST.md",
     "13 - DESIGN RESPONSIVO/05 - MEDIA QUERIES.md",
     "13 - DESIGN RESPONSIVO/04 - FORMATOS DE IMAGENS.md",
-    "13 - DESIGN RESPONSIVO/03 - IMAGENS E VÍDEOS RESPONSIVOS.md",
-    "13 - DESIGN RESPONSIVO/02 - METATAG VIEWPORT.md",
-    "13 - DESIGN RESPONSIVO/01 - MEDIDAS.md",
-    "13 - DESIGN RESPONSIVO/00 - INTRODUCAO.md",
     "02 Estudo/JavaScript/JavaScriptNotesForProfessionals.pdf",
     "02 Estudo/JavaScript/ReactJSNotesForProfessionals.pdf",
     "02 Estudo/JavaScript/Não confirmado 656954.crdownload",

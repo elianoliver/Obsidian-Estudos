@@ -25,8 +25,6 @@ console.log(pessoa.idade); // 30
 // Só pode ser usada quando a chave for um nome válido de variável (sem espaços, não começa com número, etc.)
 
 ```
-
-
 #### Notação por colchetes (`[]`)
 Permite acessar as propriedades usando **strings**:
 

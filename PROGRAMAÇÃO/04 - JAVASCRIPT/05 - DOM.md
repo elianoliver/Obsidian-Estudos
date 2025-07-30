@@ -1,6 +1,3 @@
-## Sumário
-- [[#Básico do DOM]]
-- [[#Manipulando o DOM]]
 ## Básico do DOM
 De acordo com o W3C, o Modelo de Objetos do Documento (DOM) é uma "interface de programação de aplicativos para documentos HTML válidos e documentos XML bem formados. Ele define a estrutura lógica dos documentos e a maneira como um documento é acessado e manipulado".
 
