@@ -234,4 +234,35 @@ const texto = "Maçã, Banana, Kiwi";
 console.log(texto.split(", "))
 ```
 
-Essas funções de manipulação de strings são essenciais para realizar várias tarefas de processamento de texto em JavaScript. Elas oferecem flexibilidade e controle sobre como você pode manipular strings em seus programas.
+#### Função `toString()`
+
+O método `toString()` é usado para **converter valores em strings** (textos). Ele é disponível para vários tipos de dados, como **números, booleanos, arrays e objetos**.
+
+##### Números
+
+```js
+//Transforma um número em sua representação em string:
+const num = 10;
+console.log(num.toString()); // "10"
+
+//Pode receber um **parâmetro opcional** chamado **radix** (base numérica: de 2 a 36):
+console.log(num.toString(2)); // "1010" (binário)
+```
+##### Arrays
+
+```js
+//O `toString()` de arrays **junta os elementos** com vírgulas:
+const arr = [1, 2, 3];
+console.log(arr.toString()); // "1,2,3"
+```
+##### Objetos
+
+```js
+// Se você usar `toString()` em um objeto comum, o retorno será sempre:
+const pessoa = { nome: "João", idade: 30 };
+console.log(pessoa.toString()); // "[object Object]"
+
+// Para ver os dados reais do objeto, use `JSON.stringify()`:
+console.log(JSON.stringify(pessoa)); // '{"nome":"João","idade":30}'
+
+```
