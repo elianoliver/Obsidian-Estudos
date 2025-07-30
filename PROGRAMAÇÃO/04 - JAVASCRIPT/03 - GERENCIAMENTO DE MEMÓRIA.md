@@ -1,4 +1,4 @@
-## O que é gerenciamento de memória?
+# O que é gerenciamento de memória?
 
 Quando seu código JavaScript roda (por exemplo, no navegador), ele **usa memória** para armazenar:
 
@@ -76,3 +76,84 @@ A função interna ainda **acessa o array**, então a memória **não será libe
 
 Você não precisa se preocupar com detalhes técnicos de memória logo no início, mas entender **como funciona por trás dos panos** te ajuda a escrever código **mais leve e eficiente**.
 
+# O que são closures?
+
+Closures são funções que **“lembram” o ambiente (escopo léxico)** em que foram criadas — ou seja, elas **continuam acessando variáveis da função externa mesmo depois que essa função já terminou de executar**.
+
+### Exemplo simples
+
+```js
+function outerFunction(x) {
+    let y = 10;
+    function innerFunction(){
+        console.log(x + y);
+    }
+    return innerFunction;
+}
+
+let closure = outerFunction(5);
+closure(); // Saída: 15
+```
+
+Mesmo depois que `outerFunction` terminou, a função interna `innerFunction` ainda acessa `x` e `y`. Isso é um closure.
+
+### Como funciona?
+
+Quando uma função é criada, ela carrega consigo **uma referência ao escopo onde foi declarada**, e não apenas às variáveis em si. Isso significa que ela **mantém acesso às variáveis externas**, mesmo que a função externa já tenha sido finalizada.
+
+### Usos práticos de closures:
+
+1. Criar variáveis “privadas”: Aqui, `count` só pode ser acessada pela função retornada. Isso simula uma variável privada.
+
+```js
+function createCounter() {
+    let count = 0;
+    return function () {
+        count++;
+        return count;
+    };
+}
+
+let counter = createCounter();
+counter(); // 1
+counter(); // 2
+```
+
+
+2. Gerar funções personalizadas: A função retornada “lembra” do valor `x = 2`, e sempre multiplica qualquer `y` por 2.
+
+```js
+function multiply(x) {
+    return function(y) {
+        return x * y;
+    };
+}
+
+let double = multiply(2);
+console.log(double(5)) // 10
+```
+
+### Importante:
+
+Closures **capturam variáveis por referência**, não por valor. Então se o valor muda, o closure vê esse novo valor:
+
+```js
+function createIncrementer() {
+    let count = 0;
+    return function () {
+        count++;
+        console.log(count);
+    };
+}
+
+let increment = createIncrementer();
+increment(); // 1
+increment(); // 2
+```
+
+### Em resumo:
+
+- Closure = função + escopo em que foi criada.
+- Permite acessar variáveis externas mesmo após a função externa ter acabado.
+- Usado para **encapsulamento**, **funções personalizadas**, e preservação de estado
+- Essencial para entender programação funcional e padrões avançados em JavaScript.
