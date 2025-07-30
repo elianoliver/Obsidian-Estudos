@@ -185,6 +185,8 @@ Exemplo:
 const texto = "Exemplo de slice";
 console.log(texto.slice(8, 12)); 
 // Retorna "de s", que é a parte entre os índices 8 (incluído) e 12 (excluído).
+
+console.log(texto.slice(-1)); 
 ```
 
 #### Função `substring()`
