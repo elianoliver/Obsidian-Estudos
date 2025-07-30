@@ -1,4 +1,4 @@
-## O que é gerenciamento de memória?
+- [ ] ## O que é gerenciamento de memória?
 
 Quando seu código JavaScript roda (por exemplo, no navegador), ele **usa memória** para armazenar:
 
