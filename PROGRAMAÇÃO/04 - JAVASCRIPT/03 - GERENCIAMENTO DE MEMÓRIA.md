@@ -1,4 +1,4 @@
-- [ ] ## O que é gerenciamento de memória?
+## O que é gerenciamento de memória?
 
 Quando seu código JavaScript roda (por exemplo, no navegador), ele **usa memória** para armazenar:
 
@@ -45,8 +45,6 @@ Mesmo com garbage collection, você pode manter dados vivos sem querer, impedind
 
 Exemplo com _closure_: Uma **closure** é um conceito da linguagem JavaScript onde **uma função lembra e tem acesso ao escopo em que foi criada**, **mesmo depois que esse escopo já terminou de executar**.
 
-É como se a função **“guardasse uma mochila” com as variáveis** do ambiente onde ela foi criada — e pudesse usar essas variáveis mesmo mais tarde.
-
 ```js
 function criaArrayGrande() {
   let grandeArray = new Array(1000000);
@@ -77,3 +75,4 @@ A função interna ainda **acessa o array**, então a memória **não será libe
 |Seu papel como dev|Evitar _retenções_ desnecessárias|
 
 Você não precisa se preocupar com detalhes técnicos de memória logo no início, mas entender **como funciona por trás dos panos** te ajuda a escrever código **mais leve e eficiente**.
+
