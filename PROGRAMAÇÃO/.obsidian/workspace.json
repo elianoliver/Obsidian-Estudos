@@ -131,12 +131,15 @@
             "id": "2376289696fbf4bd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "02 Estudo/JavaScript/Mateus Silva - React Hooks Handbook.pdf"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "Mateus Silva - React Hooks Handbook"
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
@@ -213,13 +216,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Estudo/JavaScript/Mateus Silva - React Hooks Handbook.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Mateus Silva - React Hooks Handbook"
+              "title": "Sumário"
             }
           },
           {
@@ -291,8 +293,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2376289696fbf4bd",
+  "active": "271a702203f418c9",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "07 - REACT/01 - PROPS.md",
     "07 - REACT/03 - CRIANDO COMPONENTES.md",
     "07 - REACT/01 - COMPONENTES IMPORTAÇÃO.md",
@@ -318,7 +321,6 @@
     "04 - JAVASCRIPT/03 - NOMEANDO VARIÁVEIS E FUNÇÕES.md",
     "04 - JAVASCRIPT/02 - COMEÇANDO COM JS.md",
     "04 - JAVASCRIPT/01 - INTRODUÇÃO.md",
-    "04 - JAVASCRIPT/03 - LINTERS E FORMATTERS.md",
     "02 Estudo/JavaScript/JavaScriptNotesForProfessionals.pdf",
     "02 Estudo/JavaScript/ReactJSNotesForProfessionals.pdf",
     "02 Estudo/JavaScript/Não confirmado 656954.crdownload",
