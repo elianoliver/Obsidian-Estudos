@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - REACT/04 - ATUALIZAR OBJETOS.md",
+                "file": "07 - REACT/05 - CUSTOM HOOKS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "04 - ATUALIZAR OBJETOS"
+              "title": "05 - CUSTOM HOOKS"
             }
           }
         ],
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 - REACT/04 - ATUALIZAR OBJETOS.md",
+                "file": "07 - REACT/05 - CUSTOM HOOKS.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 04 - ATUALIZAR OBJETOS"
+              "title": "Sumário de 05 - CUSTOM HOOKS"
             }
           },
           {
@@ -191,10 +191,13 @@
   },
   "active": "cf380d7cb27e86d0",
   "lastOpenFiles": [
+    "07 - REACT/04 - USE EFFECTS.md",
+    "07 - REACT/05 - CUSTOM HOOKS.md",
+    "07 - REACT/04 - REFS.md",
+    "07 - REACT/04 - ATUALIZAR OBJETOS.md",
     "07 - REACT/01 - COMPONENTES IMPORTAÇÃO.md",
     "07 - REACT/01 - COMPONENTES CRIAÇÃO.md",
     "07 - REACT/04 - ATUALIZAR ARRAYS.md",
-    "07 - REACT/04 - ATUALIZAR OBJETOS.md",
     "07 - REACT/03 - RENDERING.md",
     "07 - REACT/youtube/03 - CRIANDO COMPONENTES.md",
     "07 - REACT/youtube",
@@ -215,9 +218,6 @@
     "04 - JAVASCRIPT/02 - LOCAIS PARA JS.md",
     "04 - JAVASCRIPT/09 - OBJETOS.md",
     "04 - JAVASCRIPT/08 - ARRAYS.md",
-    "08 - TYPESCRIPT/00 - TIPOS DE DADOS.md",
-    "04 - JAVASCRIPT/07 - ESTRUTURAS DE REPETIÇÃO.md",
-    "04 - JAVASCRIPT/06 - ESTRUTURAS DE SELEÇÃO.md",
     "02 Estudo/JavaScript/JavaScriptNotesForProfessionals.pdf",
     "02 Estudo/JavaScript/ReactJSNotesForProfessionals.pdf",
     "02 Estudo/JavaScript/Não confirmado 656954.crdownload",
