@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - REACT/05 - CUSTOM HOOKS.md",
+                "file": "07 - REACT/04 - USE REF.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "05 - CUSTOM HOOKS"
+              "title": "04 - USE REF"
             }
           }
         ],
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 - REACT/05 - CUSTOM HOOKS.md",
+                "file": "07 - REACT/04 - USE REF.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 05 - CUSTOM HOOKS"
+              "title": "Sumário de 04 - USE REF"
             }
           },
           {
@@ -191,9 +191,9 @@
   },
   "active": "cf380d7cb27e86d0",
   "lastOpenFiles": [
-    "07 - REACT/04 - USE EFFECTS.md",
+    "07 - REACT/04 - USE EFFECT.md",
+    "07 - REACT/04 - USE REF.md",
     "07 - REACT/05 - CUSTOM HOOKS.md",
-    "07 - REACT/04 - REFS.md",
     "07 - REACT/04 - ATUALIZAR OBJETOS.md",
     "07 - REACT/01 - COMPONENTES IMPORTAÇÃO.md",
     "07 - REACT/01 - COMPONENTES CRIAÇÃO.md",
