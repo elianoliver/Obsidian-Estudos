@@ -1,5 +1,3 @@
-## O que são componentes?
-
 Componentes são **as partes fundamentais de uma aplicação React**. Eles permitem **dividir a interface** em pedaços menores, facilitando o desenvolvimento, a leitura e a manutenção de projetos grandes.
 
 ## Tipos de Componentes

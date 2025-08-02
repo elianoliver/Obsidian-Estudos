@@ -1,4 +1,4 @@
-## Sintaxe Básica
+	## Sintaxe Básica
 
 Um **objeto** é uma estrutura que **armazena dados em pares chave-valor** (também chamados de **propriedades**). Ele é como uma "caixa" onde cada coisa tem um nome (a chave) e um conteúdo (o valor).
 
