@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - REACT/01 - COMPONENTES IMPORTAÇÃO.md",
+                "file": "04 - JAVASCRIPT/12 - OPERADORES LÓGICOS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "01 - COMPONENTES IMPORTAÇÃO"
+              "title": "12 - OPERADORES LÓGICOS"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reverse",
+                "query": "cursor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 - REACT/01 - COMPONENTES IMPORTAÇÃO.md",
+                "file": "04 - JAVASCRIPT/12 - OPERADORES LÓGICOS.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 01 - COMPONENTES IMPORTAÇÃO"
+              "title": "Sumário de 12 - OPERADORES LÓGICOS"
             }
           },
           {
@@ -191,6 +191,11 @@
   },
   "active": "cf380d7cb27e86d0",
   "lastOpenFiles": [
+    "04 - JAVASCRIPT/13 - CONSOLE.md",
+    "04 - JAVASCRIPT/11 - EVENT HANDLER.md",
+    "03 - CSS/17 - CURSOR.md",
+    "07 - REACT/02 - ESTILOS INLINE.md",
+    "07 - REACT/01 - COMPONENTES IMPORTAÇÃO.md",
     "07 - REACT/01 - COMPONENTES CRIAÇÃO.md",
     "07 - REACT/00 - VITE CONFIGURAÇÃO.md",
     "07 - REACT/00 - INTRODUÇÃO - 3.md",
@@ -212,12 +217,7 @@
     "07 - REACT/04 - ATUALIZAR OBJETOS.md",
     "08 - TYPESCRIPT/00 - TIPOS DE DADOS.md",
     "02 - HTML/06 - FORMULARIOS.md",
-    "02 - HTML/6.1 - ELEMENTOS DO FORM.md",
-    "02 - HTML/6.2 - TIPOS DE INPUTS.md",
-    "07 - REACT/01 - COMPONENTES IMPORTAÇÃO.md",
-    "07 - REACT/03 - RENDERING.md",
     "07 - REACT/youtube",
-    "07 - REACT/02 - STATE.md",
     "02 Estudo/JavaScript/JavaScriptNotesForProfessionals.pdf",
     "02 Estudo/JavaScript/ReactJSNotesForProfessionals.pdf",
     "02 Estudo/JavaScript/Não confirmado 656954.crdownload",
