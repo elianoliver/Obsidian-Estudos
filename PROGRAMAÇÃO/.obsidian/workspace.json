@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - JAVASCRIPT/12 - OPERADORES LÓGICOS.md",
+                "file": "07 - REACT/01 - PROPS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "12 - OPERADORES LÓGICOS"
+              "title": "01 - PROPS"
             }
           }
         ],
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/12 - OPERADORES LÓGICOS.md",
+                "file": "07 - REACT/01 - PROPS.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 12 - OPERADORES LÓGICOS"
+              "title": "Sumário de 01 - PROPS"
             }
           },
           {
@@ -191,11 +191,12 @@
   },
   "active": "cf380d7cb27e86d0",
   "lastOpenFiles": [
+    "07 - REACT/01 - COMPONENTES IMPORTAÇÃO.md",
+    "04 - JAVASCRIPT/12 - OPERADORES LÓGICOS.md",
     "04 - JAVASCRIPT/13 - CONSOLE.md",
     "04 - JAVASCRIPT/11 - EVENT HANDLER.md",
     "03 - CSS/17 - CURSOR.md",
     "07 - REACT/02 - ESTILOS INLINE.md",
-    "07 - REACT/01 - COMPONENTES IMPORTAÇÃO.md",
     "07 - REACT/01 - COMPONENTES CRIAÇÃO.md",
     "07 - REACT/00 - VITE CONFIGURAÇÃO.md",
     "07 - REACT/00 - INTRODUÇÃO - 3.md",
@@ -216,7 +217,6 @@
     "07 - REACT/04 - ATUALIZAR ARRAYS.md",
     "07 - REACT/04 - ATUALIZAR OBJETOS.md",
     "08 - TYPESCRIPT/00 - TIPOS DE DADOS.md",
-    "02 - HTML/06 - FORMULARIOS.md",
     "07 - REACT/youtube",
     "02 Estudo/JavaScript/JavaScriptNotesForProfessionals.pdf",
     "02 Estudo/JavaScript/ReactJSNotesForProfessionals.pdf",
