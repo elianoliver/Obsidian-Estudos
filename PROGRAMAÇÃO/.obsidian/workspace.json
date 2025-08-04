@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - REACT/01 - PROPS.md",
+                "file": "04 - JAVASCRIPT/13 - MAP METHOD.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "01 - PROPS"
+              "title": "13 - MAP METHOD"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cursor",
+                "query": "reduce",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 - REACT/01 - PROPS.md",
+                "file": "04 - JAVASCRIPT/13 - MAP METHOD.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 01 - PROPS"
+              "title": "Sumário de 13 - MAP METHOD"
             }
           },
           {
@@ -191,9 +191,18 @@
   },
   "active": "cf380d7cb27e86d0",
   "lastOpenFiles": [
+    "04 - JAVASCRIPT/13 - FUNÇÃO CALLBACK.md",
+    "04 - JAVASCRIPT/13 - HIGHER-ORDER FUNCTIONS.md",
+    "04 - JAVASCRIPT/13 - MAP METHOD.md",
+    "04 - JAVASCRIPT/13 - CONSOLE.md",
+    "04 - JAVASCRIPT/02 - MODULOS.md",
+    "04 - JAVASCRIPT/03 - GRAMÁTICA E TIPOS.md",
+    "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
+    "04 - JAVASCRIPT/08 - ARRAYS.md",
+    "04 - JAVASCRIPT/10 - FUNÇÕES.md",
+    "07 - REACT/01 - PROPS.md",
     "07 - REACT/01 - COMPONENTES IMPORTAÇÃO.md",
     "04 - JAVASCRIPT/12 - OPERADORES LÓGICOS.md",
-    "04 - JAVASCRIPT/13 - CONSOLE.md",
     "04 - JAVASCRIPT/11 - EVENT HANDLER.md",
     "03 - CSS/17 - CURSOR.md",
     "07 - REACT/02 - ESTILOS INLINE.md",
@@ -208,15 +217,6 @@
     "07 - REACT/05 - FORMS.md",
     "07 - REACT/05 - CUSTOM HOOKS.md",
     "04 - JAVASCRIPT/09 - OBJETOS.md",
-    "04 - JAVASCRIPT/08 - ARRAYS.md",
-    "04 - JAVASCRIPT/09 - STRINGS.md",
-    "04 - JAVASCRIPT/07 - ESTRUTURAS DE REPETIÇÃO.md",
-    "04 - JAVASCRIPT/03 - GERENCIAMENTO DE MEMÓRIA.md",
-    "07 - REACT/04 - USE EFFECT.md",
-    "07 - REACT/04 - USE REF.md",
-    "07 - REACT/04 - ATUALIZAR ARRAYS.md",
-    "07 - REACT/04 - ATUALIZAR OBJETOS.md",
-    "08 - TYPESCRIPT/00 - TIPOS DE DADOS.md",
     "07 - REACT/youtube",
     "02 Estudo/JavaScript/JavaScriptNotesForProfessionals.pdf",
     "02 Estudo/JavaScript/ReactJSNotesForProfessionals.pdf",

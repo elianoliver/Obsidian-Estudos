@@ -276,9 +276,11 @@ var decimal = parseFloat("A"); // Retorna NaN (Not a Number)
 - Ela é versátil e pode ser aplicada a diversos tipos de dados, incluindo strings.
 
 ```javascript
-var numero = Number("42"); // Retorna o número inteiro 42
-var numero = Number("42.5"); // Retorna o número de ponto flutuante 42.5
-var numero = Number("A"); // Retorna NaN (Not a Number)
+console.log(Number("42")); // 42
+console.log(Number("42.5")); //  42.5
+console.log(Number("A")); // NaN (Not a Number)
+console.log(Number(undefined))
+console.log(Number(null))
 ```
 
 3. **Conversão Alternativa com o Operador +**
