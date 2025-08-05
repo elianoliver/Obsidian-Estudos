@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - JAVASCRIPT/09 - OBJETOS.md",
+                "file": "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/17 - QUERY SELECTOR ALL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "09 - OBJETOS"
+              "title": "17 - QUERY SELECTOR ALL"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "foreach",
+                "query": "querySelectorA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/09 - OBJETOS.md",
+                "file": "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/17 - QUERY SELECTOR ALL.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 09 - OBJETOS"
+              "title": "Sumário de 17 - QUERY SELECTOR ALL"
             }
           },
           {
@@ -189,35 +189,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf380d7cb27e86d0",
+  "active": "271a702203f418c9",
   "lastOpenFiles": [
+    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/17 - DOM.md",
+    "04 - JAVASCRIPT/05 - DOM.md",
+    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/22 - MANIPULAR CSS.md",
+    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/17 - DOM E NÓS.md",
+    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/20 - EVENT.md",
+    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/19 - SET ATTRIBUTE.md",
+    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/18 - INNERTEXT X TEXTCONTENT X INNERHTML.md",
+    "04 - JAVASCRIPT/09 - OBJETOS.md",
+    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/21 - ADD EVENT LISTENER.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/26 - ABRIR E FECHAR DIALOG.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/25 - CANVAS API.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/24 - WEB ANIMATION API.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/24 - REQUEST ANIMATION FRAME.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/23 - SET TIMEOUT E SET INTERVAL.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/23 - DOM CONTENT LOADED.md",
-    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/22 - MANIPULAR CSS.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/22 - INLINE EVENT HANDLERS.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/21 - REMOVE EVENT LISTENER 1.md",
-    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/21 - ADD EVENT LISTENER.md",
-    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/19 - SET ATTRIBUTE.md",
-    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/20 - EVENT.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/19 - INTERFACES NAVIGATOR WINDOW DOCUMENT.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/19 - ADD AND REMOVE NODES.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/18 - CRIANDO NODES.md",
-    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/18 - INNERTEXT X TEXTCONTENT X INNERHTML.md",
-    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/17 - QUERYSELECTOR ALL.md",
+    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/17 - QUERY SELECTOR ALL.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/Sem título.md",
-    "04 - JAVASCRIPT/05 - DOM.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/17 - API e WEB APIS.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS",
-    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/17 - DOM E NÓS.md",
-    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/17 - DOM.md",
     "04 - JAVASCRIPT/16 - EVERY E SOME METHOD.md",
     "04 - JAVASCRIPT/13 - MAP METHOD.md",
     "04 - JAVASCRIPT/14 - FILTER METHOD.md",
-    "04 - JAVASCRIPT/13 - FUNÇÃO CALLBACK.md",
     "07 - REACT/youtube",
     "02 Estudo/JavaScript/JavaScriptNotesForProfessionals.pdf",
     "02 Estudo/JavaScript/ReactJSNotesForProfessionals.pdf",
