@@ -125,11 +125,10 @@ p.addEventListener("click", (event) => {
 3. **Evitar excesso de ouvintes**:
    - A delegação de eventos é ideal para reduzir o número de ouvintes, mas certifique-se de que o ouvinte no elemento pai não está processando eventos desnecessários.
 
----
+## Resumo final
 
-### Resumo final
 - **Event Bubbling**: Quando um evento ocorre em um elemento, ele primeiro é processado nesse elemento e depois "sobe" para os elementos pais, permitindo que eles também respondam ao evento. Pode ser interrompido com `event.stopPropagation()`.
+  
 - **Event Delegation**: Uma técnica que usa o bubbling para gerenciar eventos de múltiplos elementos filhos com um único ouvinte no elemento pai, melhorando a eficiência e facilitando o manejo de elementos dinâmicos.
+  
 - **Por que usar?**: O bubbling é a base do funcionamento da delegação, que simplifica o código, melhora a performance e lida bem com elementos adicionados dinamicamente.
-
-Se quiser mais exemplos práticos ou explorar cenários mais complexos (como tabelas aninhadas), é só pedir!
