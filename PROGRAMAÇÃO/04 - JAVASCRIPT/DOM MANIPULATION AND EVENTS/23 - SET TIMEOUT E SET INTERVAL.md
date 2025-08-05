@@ -137,5 +137,3 @@ setTimeout(() => {
   - Exemplo: Atualizar a hora em um relógio digital a cada segundo.
 
 - **clearTimeout()** e **clearInterval()**: Usados para **cancelar** as execuções.
-
-Com esses métodos, você pode criar interações dinâmicas e temporizadas em seus projetos web! Se precisar de mais exemplos ou quiser que eu explique algum caso específico, é só pedir!
