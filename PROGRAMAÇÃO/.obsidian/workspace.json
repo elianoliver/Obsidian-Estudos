@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/18 - INNERTEXT X TEXTCONTENT X INNERHTML.md",
+                "file": "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/27 - EVENT BUBBLING E EVENT DELEGATION.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "18 - INNERTEXT X TEXTCONTENT X INNERHTML"
+              "title": "27 - EVENT BUBBLING E EVENT DELEGATION"
             }
           }
         ],
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/18 - INNERTEXT X TEXTCONTENT X INNERHTML.md",
+                "file": "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/27 - EVENT BUBBLING E EVENT DELEGATION.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 18 - INNERTEXT X TEXTCONTENT X INNERHTML"
+              "title": "Sumário de 27 - EVENT BUBBLING E EVENT DELEGATION"
             }
           },
           {
@@ -191,6 +191,13 @@
   },
   "active": "cf380d7cb27e86d0",
   "lastOpenFiles": [
+    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/20 - EVENT.md",
+    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/19 - SET ATTRIBUTE.md",
+    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/19 - INTERFACES NAVIGATOR WINDOW DOCUMENT.md",
+    "03 - CSS/14 - FLEXBOX.md",
+    "03 - CSS/07 - BOX MODEL.md",
+    "02 - HTML/04 - TAGS AUDIO VISUAIS.md",
+    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/18 - INNERTEXT X TEXTCONTENT X INNERHTML.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/26 - CHANGE EVENT.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/17 - QUERY SELECTOR ALL.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/27 - EVENT BUBBLING E EVENT DELEGATION.md",
@@ -206,17 +213,10 @@
     "04 - JAVASCRIPT/05 - DOM.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/22 - MANIPULAR CSS.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/17 - DOM E NÓS.md",
-    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/20 - EVENT.md",
-    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/19 - SET ATTRIBUTE.md",
-    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/18 - INNERTEXT X TEXTCONTENT X INNERHTML.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/21 - ADD EVENT LISTENER.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/25 - CANVAS API.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/24 - WEB ANIMATION API.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/24 - REQUEST ANIMATION FRAME.md",
-    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/23 - SET TIMEOUT E SET INTERVAL.md",
-    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/23 - DOM CONTENT LOADED.md",
-    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/22 - INLINE EVENT HANDLERS.md",
-    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/21 - REMOVE EVENT LISTENER 1.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS",
     "07 - REACT/youtube",
     "02 Estudo/JavaScript/JavaScriptNotesForProfessionals.pdf",

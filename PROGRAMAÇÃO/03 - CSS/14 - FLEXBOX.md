@@ -176,13 +176,6 @@ Aqui está um exemplo de como a propriedade `align-items` pode ser aplicada em u
 
 Neste exemplo, estamos criando um contêiner com a classe `.container` e aplicando `display: flex;` para habilitar o Flexbox. A propriedade `align-items` está sendo usada para centralizar verticalmente os itens dentro do contêiner. Dependendo do valor escolhido (como `center`, `flex-start`, ou outro), os itens serão alinhados verticalmente de acordo com a direção especificada.
 
----
-
-
-
-
-
-
 ## A Propriedade `align-content`
 
 A propriedade `align-content` é usada no modelo de layout Flexbox em CSS para controlar o alinhamento vertical de um grupo de itens flexíveis dentro de um contêiner flexível quando há espaço extra no eixo cruzado. Ao contrário da propriedade `align-items`, que controla o alinhamento dos itens individualmente, `align-content` afeta o alinhamento de todo o conjunto de itens dentro do contêiner.
@@ -309,7 +302,7 @@ Aqui está um exemplo simples:
 }
 
 .flex-item1 {
-  flex-shrink: 2;
+	  flex-shrink: 2;
   /* Este item encolherá duas vezes mais rápido que os outros */
 }
 
@@ -458,4 +451,5 @@ Aqui está um exemplo de uso básico:
 A propriedade `align-self` é aplicada a itens individuais dentro do contêiner flexível, o que significa que você pode controlar o alinhamento vertical de cada item separadamente. Isso é particularmente útil quando você deseja que alguns itens tenham um alinhamento diferente dos outros.
 
 ## Combinando com `align-items`
+
 A propriedade `align-self` substitui a configuração de alinhamento vertical definida para um item pelo valor da propriedade `align-items` do contêiner pai. Isso permite que você controle o alinhamento vertical de um item individualmente, mesmo quando o contêiner pai tem uma configuração global de alinhamento.
