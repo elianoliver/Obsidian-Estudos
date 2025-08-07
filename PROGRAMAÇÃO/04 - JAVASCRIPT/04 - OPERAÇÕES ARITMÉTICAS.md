@@ -205,7 +205,7 @@ resultado = Math.cbrt(27);             // armazena a raiz cubica de ³√27
 console.log("Math.cbrt " + resultado); // Math.cbrt 3
 ```
 
-5. **Math.random:** A função `Math.random` gera um número pseudoaleatório entre 0 (inclusive) e 1 (exclusivo). Para obter um número aleatório em um intervalo específico, multiplicamos o valor retornado por `Math.random` pelo intervalo desejado e, opcionalmente, convertemos para um número inteiro com `parseInt`. 
+5. **Math.random:** A função `Math.random` gera um número pseudoaleatório entre 0 (inclusive) e 1 (exclusivo). Para obter um número aleatório em um intervalo específico, multiplicamos o valor retornado por `Math.random` pelo intervalo desejado e, opcionalmente, convertemos para um número inteiro com `parseInt` ou `Math.floor`. 
 
 ```javascript
 var numRand = parseInt(Math.random() * 10); // entre 0 e 9
