@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
+                "file": "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/17 - QUERY SELECTOR ALL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "04 - OPERAÇÕES ARITMÉTICAS"
+              "title": "17 - QUERY SELECTOR ALL"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "math.random",
+                "query": "style.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
+                "file": "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/17 - QUERY SELECTOR ALL.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 04 - OPERAÇÕES ARITMÉTICAS"
+              "title": "Sumário de 17 - QUERY SELECTOR ALL"
             }
           },
           {
@@ -192,6 +192,7 @@
   },
   "active": "cf380d7cb27e86d0",
   "lastOpenFiles": [
+    "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/27 - EVENT BUBBLING E EVENT DELEGATION.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/20 - EVENT.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/19 - SET ATTRIBUTE.md",
@@ -217,7 +218,6 @@
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/21 - ADD EVENT LISTENER.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/25 - CANVAS API.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/24 - WEB ANIMATION API.md",
-    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/24 - REQUEST ANIMATION FRAME.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS",
     "07 - REACT/youtube",
     "02 Estudo/JavaScript/JavaScriptNotesForProfessionals.pdf",
