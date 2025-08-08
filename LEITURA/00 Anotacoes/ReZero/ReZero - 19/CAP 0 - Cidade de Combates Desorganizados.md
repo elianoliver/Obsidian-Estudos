@@ -3,8 +3,6 @@ Livro: ReZero
 tags:
   - "#ReZero"
 ---
-________________________________________________________________________
-
 # ATO 1 - Otto e Ray Batenkaitos
 
 Personagens na cena:
@@ -29,7 +27,6 @@ Batenkaitos parece conseguir ler e saber sobre as pessoas magicamente
 
 A cena acaba com Otto mandando um monte de dragões aquáticos para cima do inimigo.
 
----
 # ATO 2 - Wilhelm e Garfiel contra a santíssima espadachin, 8 braços e gelatina
 
 Personagens na cena:
@@ -46,7 +43,6 @@ até encontrarem o 8 braços e a santíssima espadachim, ex esposa de Whilhem, a
 
 Também vislumbram oq parecia ser o arbítrio da luxúria, mas na verdade era uma massa amorfa de sangue gelatinoso que ao final, acabou engolindo garfiel e Kurgan, o 8 braços.
 
----
 # ATO 3 - Ricardo e Julius contra Roy Alphard
 
 Personagens na cena:
