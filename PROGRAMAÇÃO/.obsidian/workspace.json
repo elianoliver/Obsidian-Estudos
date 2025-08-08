@@ -56,10 +56,15 @@
             "id": "e498cd05fc01f8cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 Anotacoes/ReZero/ReZero - 21/Arco 6 - Cap 1-3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Arco 6 - Cap 1-3"
             }
           }
         ],
@@ -136,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00 Anotacoes/ReZero/ReZero - 21/Arco 6 - Cap 1-3.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Arco 6 - Cap 1-3"
             }
           },
           {
@@ -215,12 +221,12 @@
   },
   "active": "e498cd05fc01f8cc",
   "lastOpenFiles": [
+    "00 Anotacoes/ReZero/ReZero - 21/Arco 6 - Cap 4.md",
+    "00 Anotacoes/ReZero/ReZero - 21/Arco 6 - Cap 1-3.md",
     "04 - JAVASCRIPT/06 REGEX/01 - EXPRESSÕES REGULARES.md",
     "04 - JAVASCRIPT/06 REGEX/01 - MODIFICADORES REGEX.md",
     "04 - JAVASCRIPT/06 REGEX/03 - GRUPOS DE CAPTURA E BACKREFERENCES.md",
     "00 Anotacoes/ReZero/ReZero - 21/Arco 6 - Cap 1 1.md",
-    "00 Anotacoes/ReZero/ReZero - 21/Arco 6 - Cap 1-3.md",
-    "00 Anotacoes/ReZero/ReZero - 21/Arco 6 - Cap 4.md",
     "04 - JAVASCRIPT/06 REGEX/02 - QUANTIFICADORES.md",
     "04 - JAVASCRIPT/06 REGEX/02 - LOOKAHEAD E LOOKBEHIND.md",
     "04 - JAVASCRIPT/06 REGEX/02 - CLASSES DE CARACTERES.md",

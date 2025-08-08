@@ -44,3 +44,12 @@ Subaru decide que irá acordar Rem, que está confinada na mansão. Emilia o apo
 
 # CAP 3
 
+1. subaru
+2. emilia
+3. beatrice
+4. anastasia(echidna/eridna)
+5. julius
+6. petra
+7. patrasche(dragão negro)
+8. ram
+9. frederica
