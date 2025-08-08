@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - JAVASCRIPT/06 REGEX/01 - MODIFICADORES REGEX.md",
+                "file": "04 - JAVASCRIPT/09 - STRINGS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "01 - MODIFICADORES REGEX"
+              "title": "09 - STRINGS"
             }
           }
         ],
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "querySele",
+                "query": "replace",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -141,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/06 REGEX/01 - MODIFICADORES REGEX.md",
+                "file": "04 - JAVASCRIPT/09 - STRINGS.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 01 - MODIFICADORES REGEX"
+              "title": "Sumário de 09 - STRINGS"
             }
           },
           {
@@ -221,13 +222,18 @@
   },
   "active": "e498cd05fc01f8cc",
   "lastOpenFiles": [
-    "04 - JAVASCRIPT/06 REGEX/01 - EXPRESSÕES REGULARES.md",
-    "04 - JAVASCRIPT/06 REGEX/02 - QUANTIFICADORES.md",
-    "04 - JAVASCRIPT/06 REGEX/02 - LOOKAHEAD E LOOKBEHIND.md",
-    "04 - JAVASCRIPT/06 REGEX/02 - CLASSES DE CARACTERES.md",
     "04 - JAVASCRIPT/06 REGEX/01 - SUBSTITUIR EM MASSA.md",
-    "04 - JAVASCRIPT/06 REGEX/01 - MODIFICADORES REGEX.md",
+    "04 - JAVASCRIPT/06 REGEX/01 - EXPRESSÕES REGULARES.md",
     "04 - JAVASCRIPT/06 REGEX/03 - GRUPOS DE CAPTURA E BACKREFERENCES.md",
+    "04 - JAVASCRIPT/06 REGEX/02 - CLASSES DE CARACTERES.md",
+    "04 - JAVASCRIPT/06 REGEX/02 - QUANTIFICADORES.md",
+    "04 - JAVASCRIPT/06 REGEX/01 - MODIFICADORES REGEX.md",
+    "04 - JAVASCRIPT/06 REGEX/02 - LOOKAHEAD E LOOKBEHIND.md",
+    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/26 - CHANGE EVENT.md",
+    "07 - REACT/04 - ATUALIZAR ARRAYS.md",
+    "04 - JAVASCRIPT/08 - ARRAYS.md",
+    "04 - JAVASCRIPT/13 - FUNÇÃO CALLBACK.md",
+    "04 - JAVASCRIPT/11 - EVENT HANDLER.md",
     "04 - JAVASCRIPT/16 - EVERY E SOME METHOD.md",
     "00 Anotacoes/ReZero/ReZero - 21/Arco 6 - Cap 1 1.md",
     "00 Anotacoes/ReZero/ReZero - 21/Arco 6 - Cap 1-3.md",
@@ -244,11 +250,6 @@
     "04 - JAVASCRIPT/05 DEBUGGING/01 - ERROS NO JAVASCRIPT.md",
     "04 - JAVASCRIPT/DEBUGGING/Sem título.md",
     "04 - JAVASCRIPT/05 DEBUGGING",
-    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/26 - ABRIR E FECHAR DIALOG.md",
-    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/23 - DOM CONTENT LOADED.md",
-    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/19 - SET ATTRIBUTE.md",
-    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/17 - API e WEB APIS.md",
-    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/17 - QUERY SELECTOR ALL.md",
     "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS",
     "07 - REACT/youtube",
     "02 Estudo/JavaScript/JavaScriptNotesForProfessionals.pdf",

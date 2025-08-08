@@ -2,7 +2,7 @@
   
 - **Backreferences**: São referências a grupos de captura, permitindo reutilizar o texto capturado em substituições ou na própria regex. Eles são úteis para garantir consistência ou preservar partes do texto.
 
-## 1. Grupos de Captura
+## 1. Grupos de Captura `()`
 
 Os **grupos de captura** são criados ao envolver um padrão em parênteses `()`. Eles permitem capturar uma parte específica do texto correspondido para uso posterior, como em substituições ou validações.
 
