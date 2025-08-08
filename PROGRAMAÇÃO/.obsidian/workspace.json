@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - JAVASCRIPT/REGEX/03 - GRUPOS DE CAPTURA E BACKREFERENCES.md",
+                "file": "00 Anotacoes/ReZero/ReZero - 21/Arco 6 - Cap 1-2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "03 - GRUPOS DE CAPTURA E BACKREFERENCES"
+              "title": "Arco 6 - Cap 1-2"
             }
           }
         ],
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/REGEX/03 - GRUPOS DE CAPTURA E BACKREFERENCES.md",
+                "file": "00 Anotacoes/ReZero/ReZero - 21/Arco 6 - Cap 1-2.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 03 - GRUPOS DE CAPTURA E BACKREFERENCES"
+              "title": "Sumário de Arco 6 - Cap 1-2"
             }
           },
           {
@@ -207,7 +207,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 338.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,6 +222,9 @@
   },
   "active": "e498cd05fc01f8cc",
   "lastOpenFiles": [
+    "00 Anotacoes/ReZero/ReZero - 21/Arco 6 - Cap 1 1.md",
+    "00 Anotacoes/ReZero/ReZero - 21/Arco 6 - Cap 1-2.md",
+    "00 Anotacoes/ReZero/ReZero - 21/Arco 6 - Cap 4.md",
     "04 - JAVASCRIPT/REGEX/02 - QUANTIFICADORES.md",
     "04 - JAVASCRIPT/REGEX/03 - GRUPOS DE CAPTURA E BACKREFERENCES.md",
     "04 - JAVASCRIPT/REGEX/02 - LOOKAHEAD E LOOKBEHIND.md",
@@ -246,9 +250,6 @@
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/17 - API e WEB APIS.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/17 - QUERY SELECTOR ALL.md",
     "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
-    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/27 - EVENT BUBBLING E EVENT DELEGATION.md",
-    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/20 - EVENT.md",
-    "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS/19 - INTERFACES NAVIGATOR WINDOW DOCUMENT.md",
     "04 - JAVASCRIPT/DOM MANIPULATION AND EVENTS",
     "07 - REACT/youtube",
     "02 Estudo/JavaScript/JavaScriptNotesForProfessionals.pdf",
