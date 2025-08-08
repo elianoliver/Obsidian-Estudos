@@ -1,0 +1,46 @@
+
+# CAP 1
+
+Objetivo: Viajar até as dunas de Augria para encontrar o sabio Shaula
+
+Viajem na carruagem. Comentários sobre o julius ter sido atingido pelo pecado da gula e por conta disso ninguém se lembrar de quem ele é e o subaru se compadecer pois, afinal de contas, ele também conhece o sentimento, visto que o retorno da morte possibilitou a ele manter lembranças de realidades as quais ele morreu.
+
+Personagens do capítulo
+1. subaru
+2. emilia
+3. beatrice
+4. anastasia(echidna/eridna)
+5. julius
+6. petra
+7. patrasche(dragão negro)
+8. ram
+
+Parada na mansão Roswall para buscar a Rem e aquela menininha que controla majus.
+
+Comentários estranhos sobre o subaru ser um lolimancer e a petra estar crescendo. Patrasche envergonhada por não ter conseguido ser de grande ajuda na ultima batalha e Ram sendo uma chata pentelha reclamona.
+
+# CAP 2
+
+Personagens do capítulo
+1. subaru
+2. emilia
+3. beatrice
+4. anastasia(echidna/eridna)
+5. julius
+6. petra
+7. patrasche(dragão negro)
+8. ram
+9. roswaal
+
+Subaru, Emilia e outros visitam a mansão de Roswaal após retornarem de Pristella. Roswaal os recebe de maneira incomumente amigável, o que deixa Subaru e Emilia desconfiados. Eles discutem os eventos em Pristella, incluindo a morte de um Arcebispo do Pecado e a captura de outro.
+
+Roswaal sugere que as ações de Subaru e seu grupo foram impressionantes, apesar dos ferimentos sofridos por Otto e Garfiel. Emilia discorda, afirmando que eles se feriram gravemente. Anastasia se desculpa por ter envolvido Emilia na confusão em Pristella, mas Emilia não a culpa.
+
+O grupo então discute sobre tentar contatar o "Sábio" Shaula na Torre de Vigilância. Anastasia diz ter um método seguro para chegar lá. Roswaal expressa preocupação, mas Anastasia e Julius insistem em tentar.
+
+Subaru decide que irá acordar Rem, que está confinada na mansão. Emilia o apoia, dizendo que ela e os outros querem que Subaru seja feliz. Roswaal e Beatrice discutem as ações de Subaru, com Beatrice defendendo-o.
+
+No final, o grupo se dirige para a sala de confinamento.
+
+# CAP 3
+
