@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "replace",
+                "query": "ch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -219,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e498cd05fc01f8cc",
+  "active": "75b2a302bf0086e8",
   "lastOpenFiles": [
     "04 - JAVASCRIPT/06 REGEX/02 - QUANTIFICADORES.md",
     "04 - JAVASCRIPT/06 REGEX/02 - CLASSES DE CARACTERES.md",
