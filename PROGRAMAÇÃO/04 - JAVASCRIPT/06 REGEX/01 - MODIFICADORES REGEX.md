@@ -109,7 +109,7 @@ console.log(regex.test(str)); // true
 
 - **Flag `y` (Sticky)**: Similar ao `g`, mas exige que a próxima correspondência comece exatamente onde a última terminou (`lastIndex`). Se não houver correspondência imediata, retorna `null` e reseta `lastIndex` para `0`.
   
-- **Flag `s` (Single-line/Dotall)**: Faz o caractere curinga `.` (que normalmente corresponde a qualquer caractere, exceto quebras de linha) incluir quebras de linha, tratando a string como uma única linha.
+- **Flag `s` (Single-line/Dotall)**: Faz o caractere curinga `.` (que normalmente corresponde a qualquer caractere, exceto quebras de linha `\n` incluir quebras de linha, tratando a string como uma única linha.
   
 - **Flag `v`**: Uma extensão do `u`, oferecendo suporte avançado para Unicode.
 
