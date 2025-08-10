@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - JAVASCRIPT/07 FORM VALIDATION/02 - SUBMIT.md",
+                "file": "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/17 - QUERY SELECTOR ALL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "02 - SUBMIT"
+              "title": "17 - QUERY SELECTOR ALL"
             }
           }
         ],
@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "checkbox",
+                "query": "querySelectorA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +136,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/07 FORM VALIDATION/02 - SUBMIT.md",
+                "file": "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/17 - QUERY SELECTOR ALL.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 02 - SUBMIT"
+              "title": "Sumário de 17 - QUERY SELECTOR ALL"
             }
           },
           {
@@ -236,8 +237,9 @@
   },
   "active": "19fbd3b747fccd30",
   "lastOpenFiles": [
-    "04 - JAVASCRIPT/07 FORM VALIDATION/02 - PREVENT DEFAULT.md",
+    "02 - HTML/6.1 - ELEMENTOS DO FORM.md",
     "04 - JAVASCRIPT/07 FORM VALIDATION/02 - SUBMIT.md",
+    "04 - JAVASCRIPT/07 FORM VALIDATION/02 - PREVENT DEFAULT.md",
     "04 - JAVASCRIPT/06 REGEX/regex.png",
     "04 - JAVASCRIPT/07 FORM VALIDATION/01 - VALIDAÇÃO DE FORMULARIO.md",
     "04 - JAVASCRIPT/01 - INTRODUÇÃO.md",
@@ -264,7 +266,6 @@
     "04 - JAVASCRIPT/06 REGEX",
     "07 - REACT/04 - USE REF.md",
     "08 - TYPESCRIPT/00 - TIPOS DE DADOS.md",
-    "04 - JAVASCRIPT/05 DEBUGGING/02 - DEPURAÇÃO AVANÇADA.md",
     "04 - JAVASCRIPT/05 DEBUGGING",
     "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS",
     "07 - REACT/youtube",
