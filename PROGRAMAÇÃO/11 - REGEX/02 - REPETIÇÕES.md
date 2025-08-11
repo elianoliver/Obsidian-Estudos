@@ -6,7 +6,7 @@ Alguns caracteres especiais são usados para especificar quantas vezes um caract
 
 Colocamos um asterisco * no início para indicar que um caractere não corresponde em absoluto ou pode corresponder várias vezes. Por exemplo, indica que a letra "e" nunca deve ocorrer no texto, ou pode ocorrer uma ou mais vezes consecutivas.
 
-Não ocorre, ocorre uma vez ou ocorre várias
+Não ocorre, ocorre uma vez ou ocorre várias - 0,1 ou mais
 ![[Pasted image 20250609232414.png]]
 
 # Sinal de mais +
