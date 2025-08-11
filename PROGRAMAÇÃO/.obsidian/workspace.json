@@ -13,77 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - REACT/youtube/03 - CRIANDO COMPONENTES.md",
+                "file": "04 - JAVASCRIPT/08 DATES/01 - OBJETO DATE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "03 - CRIANDO COMPONENTES"
-            }
-          },
-          {
-            "id": "cf380d7cb27e86d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - JAVASCRIPT/01 - INTRODUÇÃO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "01 - INTRODUÇÃO"
-            }
-          },
-          {
-            "id": "4b1b44058966a0b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - JAVASCRIPT/01 - INTRODUÇÃO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "01 - INTRODUÇÃO"
-            }
-          },
-          {
-            "id": "e498cd05fc01f8cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - JAVASCRIPT/01 - INTRODUÇÃO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "01 - INTRODUÇÃO"
-            }
-          },
-          {
-            "id": "19fbd3b747fccd30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/17 - QUERY SELECTOR ALL.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "17 - QUERY SELECTOR ALL"
+              "title": "01 - OBJETO DATE"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "querySelectorA",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,8 +75,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/17 - QUERY SELECTOR ALL.md",
+                "file": "04 - JAVASCRIPT/08 DATES/01 - OBJETO DATE.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 17 - QUERY SELECTOR ALL"
+              "title": "Sumário de 01 - OBJETO DATE"
             }
           },
           {
@@ -235,13 +173,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19fbd3b747fccd30",
+  "active": "bb9aa8ebec44a8aa",
   "lastOpenFiles": [
+    "04 - JAVASCRIPT/08 DATES/02 - FORMATAR DATA.md",
+    "04 - JAVASCRIPT/08 DATES/01 - OBJETO DATE.md",
+    "07 - REACT/youtube/03 - CRIANDO COMPONENTES.md",
+    "04 - JAVASCRIPT/07 FORM VALIDATION/01 - VALIDAÇÃO DE FORMULARIO.md",
+    "04 - JAVASCRIPT/08 DATES",
+    "04 - JAVASCRIPT/09 - STRINGS.md",
+    "04 - JAVASCRIPT/08 - ARRAYS.md",
+    "04 - JAVASCRIPT/14 - FILTER METHOD.md",
+    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/17 - QUERY SELECTOR ALL.md",
     "02 - HTML/6.1 - ELEMENTOS DO FORM.md",
     "04 - JAVASCRIPT/07 FORM VALIDATION/02 - SUBMIT.md",
     "04 - JAVASCRIPT/07 FORM VALIDATION/02 - PREVENT DEFAULT.md",
     "04 - JAVASCRIPT/06 REGEX/regex.png",
-    "04 - JAVASCRIPT/07 FORM VALIDATION/01 - VALIDAÇÃO DE FORMULARIO.md",
     "04 - JAVASCRIPT/01 - INTRODUÇÃO.md",
     "04 - JAVASCRIPT/07 FORM VALIDATION",
     "04 - JAVASCRIPT/06 REGEX/02 - QUANTIFICADORES.md",
@@ -253,19 +199,12 @@
     "04 - JAVASCRIPT/06 REGEX/01 - EXPRESSÕES REGULARES.md",
     "02 - HTML/6.2 - TIPOS DE INPUTS.md",
     "04 - JAVASCRIPT/05 - DOM.md",
-    "04 - JAVASCRIPT/09 - STRINGS.md",
     "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/26 - CHANGE EVENT.md",
     "07 - REACT/04 - ATUALIZAR ARRAYS.md",
-    "04 - JAVASCRIPT/08 - ARRAYS.md",
     "04 - JAVASCRIPT/13 - FUNÇÃO CALLBACK.md",
     "04 - JAVASCRIPT/11 - EVENT HANDLER.md",
     "04 - JAVASCRIPT/16 - EVERY E SOME METHOD.md",
-    "00 Anotacoes/ReZero/ReZero - 21/Arco 6 - Cap 1 1.md",
-    "00 Anotacoes/ReZero/ReZero - 21/Arco 6 - Cap 1-3.md",
-    "00 Anotacoes/ReZero/ReZero - 21/Arco 6 - Cap 4.md",
     "04 - JAVASCRIPT/06 REGEX",
-    "07 - REACT/04 - USE REF.md",
-    "08 - TYPESCRIPT/00 - TIPOS DE DADOS.md",
     "04 - JAVASCRIPT/05 DEBUGGING",
     "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS",
     "07 - REACT/youtube",
@@ -273,7 +212,6 @@
     "02 Estudo/JavaScript/ReactJSNotesForProfessionals.pdf",
     "02 Estudo/JavaScript/Não confirmado 656954.crdownload",
     "02 Estudo/00 Lidos/CDC - Web Design Responsivo.pdf",
-    "02 Estudo/00 Lidos/Bhargava - Entendendo Algoritmos.pdf",
     "Pasted image 20250714170029.png",
     "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
     "00 - ASSETS/images/Pasted image 20240224154121.png",

@@ -237,11 +237,9 @@ console.log(texto.split(", "))
 ```
 
 #### Função `toString()`
-
 O método `toString()` é usado para **converter valores em strings** (textos). Ele é disponível para vários tipos de dados, como **números, booleanos, arrays e objetos**.
 
 ##### Números
-
 ```js
 //Transforma um número em sua representação em string:
 const num = 10;
@@ -251,14 +249,12 @@ console.log(num.toString()); // "10"
 console.log(num.toString(2)); // "1010" (binário)
 ```
 ##### Arrays
-
 ```js
 //O `toString()` de arrays **junta os elementos** com vírgulas:
 const arr = [1, 2, 3];
 console.log(arr.toString()); // "1,2,3"
 ```
 ##### Objetos
-
 ```js
 // Se você usar `toString()` em um objeto comum, o retorno será sempre:
 const pessoa = { nome: "João", idade: 30 };
