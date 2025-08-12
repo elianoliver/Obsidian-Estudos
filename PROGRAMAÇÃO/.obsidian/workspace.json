@@ -11,12 +11,10 @@
             "id": "bb9aa8ebec44a8aa",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "01 Pessoal/John Flanagan - Rangers Ordem dos Arqueiros - Terra do Gelo 3.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "John Flanagan - Rangers Ordem dos Arqueiros - Terra do Gelo 3"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -92,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Pessoal/John Flanagan - Rangers Ordem dos Arqueiros - Terra do Gelo 3.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de John Flanagan - Rangers Ordem dos Arqueiros - Terra do Gelo 3"
+              "title": "Sumário"
             }
           },
           {
