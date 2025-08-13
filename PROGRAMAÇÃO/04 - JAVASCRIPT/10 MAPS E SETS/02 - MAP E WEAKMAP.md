@@ -138,6 +138,22 @@ console.log(mapaArvores.size); // 5
   
 - Substituir objetos regulares quando você precisa de chaves que não sejam strings ou símbolos.
 
+```js
+const displayCatalog = () => {
+
+    let result = '';
+
+    catalog.forEach((value, key) => {
+
+        result += `${key.scientificName} '${key.cultivar}': ${value.small} S, ${value.medium} M, ${value.large} L\n`;
+
+    });
+    return result;
+};
+
+console.log(displayCatalog())
+```
+
 ## O que é um WeakMap em JavaScript?
 
 Um **WeakMap** é uma coleção de pares chave-valor semelhante ao Map, mas com uma diferença crucial: **as chaves devem ser objetos** (ou símbolos, embora menos comum), e essas chaves são mantidas com **referências fracas**. Isso significa que, se uma chave não for mais referenciada em outro lugar no código, o coletor de lixo do JavaScript pode removê-la do WeakMap, liberando memória.

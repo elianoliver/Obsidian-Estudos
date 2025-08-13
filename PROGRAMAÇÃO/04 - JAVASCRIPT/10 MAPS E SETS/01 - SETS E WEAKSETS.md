@@ -118,6 +118,20 @@ const valoresUnicos = [...new Set(arrayComDuplicatas)]; // [1, 2, 3, 4]
 - Gerenciar uma coleção de itens únicos, como IDs de usuários ou tags.
 - Realizar operações de conjuntos (união, interseção, diferença) de forma eficiente.
 
+```js
+const displayPlantsSet = () => {
+  const catalogSet = new Set();
+
+  // Create an array of the common names from the catalog
+  const commonNames = Array.from(catalog.keys()).map(plant => plant.commonName);
+
+  // Create a set from the array of common names
+  commonNames.forEach(name => catalogSet.add(name));
+
+  return catalogSet;
+};
+```
+
 ## **O que é um WeakSet em JavaScript?**
 
 Um **WeakSet** é uma versão especializada do Set, também introduzida no ES6, mas com diferenças importantes. Ele é projetado para armazenar **referências fracas a objetos** (e símbolos, embora sejam menos comuns). Isso significa que, se um objeto armazenado em um WeakSet não for mais referenciado em outro lugar no código, o **coletor de lixo** do JavaScript pode removê-lo para liberar memória.
