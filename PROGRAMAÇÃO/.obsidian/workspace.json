@@ -11,10 +11,15 @@
             "id": "bb9aa8ebec44a8aa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 - JAVASCRIPT/10 MAPS E SETS/01 - SETS E WEAKSETS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "01 - SETS E WEAKSETS"
             }
           }
         ]
@@ -49,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HTMLMediaElement ",
+                "query": "hasown",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,12 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "04 - JAVASCRIPT/10 MAPS E SETS/01 - SETS E WEAKSETS.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 01 - SETS E WEAKSETS"
             }
           },
           {
@@ -170,6 +176,10 @@
   "active": "bb9aa8ebec44a8aa",
   "lastOpenFiles": [
     "04 - JAVASCRIPT/10 MAPS E SETS/02 - MAP E WEAKMAP.md",
+    "04 - JAVASCRIPT/10 MAPS E SETS/01 - SETS E WEAKSETS.md",
+    "04 - JAVASCRIPT/09 - OBJETOS.md",
+    "04 - JAVASCRIPT/13 - MAP METHOD.md",
+    "04 - JAVASCRIPT/15 - SORT METHOD.md",
     "04 - JAVASCRIPT/08 - ARRAYS.md",
     "11 - REGEX/03 - AGRUPAMENTO.md",
     "11 - REGEX/02 - REPETIÇÕES.md",
@@ -186,7 +196,6 @@
     "05 - NODE/07 - MVC.md",
     "05 - NODE/MVC2.md",
     "05 - NODE/MVC.canvas",
-    "04 - JAVASCRIPT/10 MAPS E SETS/01 - SETS E WEAKSETS.md",
     "04 - JAVASCRIPT/09 AUDIO E VIDEO/05 - OUTRAS APIS.md",
     "04 - JAVASCRIPT/10 MAPS E SETS",
     "04 - JAVASCRIPT/09 AUDIO E VIDEO/05 - MEDIA STREAMS API.md",
@@ -194,9 +203,6 @@
     "04 - JAVASCRIPT/09 AUDIO E VIDEO/01 - AUDIO CONSTRUCTOR.md",
     "04 - JAVASCRIPT/09 AUDIO E VIDEO/02 - FORMATOS DE AUDIO E VIDEO.md",
     "04 - JAVASCRIPT/09 - STRINGS.md",
-    "04 - JAVASCRIPT/13 - MAP METHOD.md",
-    "04 - JAVASCRIPT/03 - GRAMÁTICA E TIPOS.md",
-    "04 - JAVASCRIPT/14 - FILTER METHOD.md",
     "04 - JAVASCRIPT/09 AUDIO E VIDEO",
     "04 - JAVASCRIPT/08 DATES",
     "04 - JAVASCRIPT/06 REGEX/regex.png",
