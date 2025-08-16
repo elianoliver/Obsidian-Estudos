@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/01 - CRUD.md",
+                "file": "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/09 - CACHE E SERVICE WORKERS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "01 - CRUD"
+              "title": "09 - CACHE E SERVICE WORKERS"
             }
           }
         ]
@@ -95,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/01 - CRUD.md",
+                "file": "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/09 - CACHE E SERVICE WORKERS.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 01 - CRUD"
+              "title": "Sumário de 09 - CACHE E SERVICE WORKERS"
             }
           },
           {
@@ -175,8 +175,16 @@
   },
   "active": "bb9aa8ebec44a8aa",
   "lastOpenFiles": [
-    "04 - JAVASCRIPT/10 MAPS E SETS/01 - SETS E WEAKSETS.md",
+    "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/08 - INDEXED DB.md",
+    "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/09 - CACHE E SERVICE WORKERS.md",
+    "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/07 - USANDO COOKIES.md",
+    "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/06 - LADO RUIM DO CLIENT-SIDE STORAGE.md",
+    "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/05 - CACHE API.md",
+    "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/04 - COOKIES.md",
+    "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/03 - SESSION STORAGE.md",
+    "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/02 - LOCAL STORAGE.md",
     "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/01 - CRUD.md",
+    "04 - JAVASCRIPT/10 MAPS E SETS/01 - SETS E WEAKSETS.md",
     "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD",
     "04 - JAVASCRIPT/10 MAPS E SETS/02 - MAP E WEAKMAP.md",
     "04 - JAVASCRIPT/09 - OBJETOS.md",
@@ -194,16 +202,8 @@
     "13 - DESIGN RESPONSIVO/04 - FORMATOS DE IMAGENS.md",
     "13 - DESIGN RESPONSIVO/03 - IMAGENS E VÍDEOS RESPONSIVOS.md",
     "13 - DESIGN RESPONSIVO/02 - METATAG VIEWPORT.md",
-    "13 - DESIGN RESPONSIVO/01 - MEDIDAS.md",
-    "05 - NODE/07 - MVC.md",
-    "05 - NODE/MVC2.md",
     "05 - NODE/MVC.canvas",
-    "04 - JAVASCRIPT/09 AUDIO E VIDEO/05 - OUTRAS APIS.md",
     "04 - JAVASCRIPT/10 MAPS E SETS",
-    "04 - JAVASCRIPT/09 AUDIO E VIDEO/05 - MEDIA STREAMS API.md",
-    "04 - JAVASCRIPT/09 AUDIO E VIDEO/04 - HTMLMediaElement API.md",
-    "04 - JAVASCRIPT/09 AUDIO E VIDEO/01 - AUDIO CONSTRUCTOR.md",
-    "04 - JAVASCRIPT/09 AUDIO E VIDEO/02 - FORMATOS DE AUDIO E VIDEO.md",
     "04 - JAVASCRIPT/09 AUDIO E VIDEO",
     "04 - JAVASCRIPT/08 DATES",
     "04 - JAVASCRIPT/06 REGEX/regex.png",
