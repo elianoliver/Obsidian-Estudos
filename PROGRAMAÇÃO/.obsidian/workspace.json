@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/09 - CACHE E SERVICE WORKERS.md",
+                "file": "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/19 - ADD AND REMOVE NODES.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "09 - CACHE E SERVICE WORKERS"
+              "title": "19 - ADD AND REMOVE NODES"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hasown",
+                "query": "remove",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/09 - CACHE E SERVICE WORKERS.md",
+                "file": "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/19 - ADD AND REMOVE NODES.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 09 - CACHE E SERVICE WORKERS"
+              "title": "Sumário de 19 - ADD AND REMOVE NODES"
             }
           },
           {
@@ -175,8 +175,14 @@
   },
   "active": "bb9aa8ebec44a8aa",
   "lastOpenFiles": [
-    "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/08 - INDEXED DB.md",
+    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/18 - CRIANDO NODES.md",
+    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/17 - API e WEB APIS.md",
+    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/17 - DOM.md",
+    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/22 - MANIPULAR CSS.md",
+    "04 - JAVASCRIPT/13 - FUNÇÃO CALLBACK.md",
+    "04 - JAVASCRIPT/08 - ARRAYS.md",
     "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/09 - CACHE E SERVICE WORKERS.md",
+    "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/08 - INDEXED DB.md",
     "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/07 - USANDO COOKIES.md",
     "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/06 - LADO RUIM DO CLIENT-SIDE STORAGE.md",
     "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/05 - CACHE API.md",
@@ -190,18 +196,12 @@
     "04 - JAVASCRIPT/09 - OBJETOS.md",
     "04 - JAVASCRIPT/13 - MAP METHOD.md",
     "04 - JAVASCRIPT/15 - SORT METHOD.md",
-    "04 - JAVASCRIPT/08 - ARRAYS.md",
     "11 - REGEX/03 - AGRUPAMENTO.md",
     "11 - REGEX/02 - REPETIÇÕES.md",
     "11 - REGEX/01 - MATCHES BÁSICOS.md",
     "11 - REGEX/00 - INTRODUÇÃO.md",
     "12 - EDICAO DE VIDEO/00 - COMEÇANDO.md",
     "13 - DESIGN RESPONSIVO/00 - INTRODUCAO.md",
-    "13 - DESIGN RESPONSIVO/06 - MOBILE FIRST.md",
-    "13 - DESIGN RESPONSIVO/05 - MEDIA QUERIES.md",
-    "13 - DESIGN RESPONSIVO/04 - FORMATOS DE IMAGENS.md",
-    "13 - DESIGN RESPONSIVO/03 - IMAGENS E VÍDEOS RESPONSIVOS.md",
-    "13 - DESIGN RESPONSIVO/02 - METATAG VIEWPORT.md",
     "05 - NODE/MVC.canvas",
     "04 - JAVASCRIPT/10 MAPS E SETS",
     "04 - JAVASCRIPT/09 AUDIO E VIDEO",
