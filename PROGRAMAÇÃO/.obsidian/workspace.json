@@ -11,15 +11,12 @@
             "id": "bb9aa8ebec44a8aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "04 - JAVASCRIPT/Javascript.pdf"
               },
-              "icon": "lucide-file",
-              "title": "04 - OPERAÇÕES ARITMÉTICAS"
+              "icon": "lucide-file-text",
+              "title": "Javascript"
             }
           }
         ]
@@ -75,8 +72,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,13 +92,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
+                "file": "04 - JAVASCRIPT/Javascript.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 04 - OPERAÇÕES ARITMÉTICAS"
+              "title": "Sumário de Javascript"
             }
           },
           {
@@ -176,36 +172,36 @@
   },
   "active": "bb9aa8ebec44a8aa",
   "lastOpenFiles": [
+    "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
+    "04 - JAVASCRIPT/08 - ARRAYS.md",
+    "07 - REACT/04 - ATUALIZAR ARRAYS.md",
+    "04 - JAVASCRIPT/10 - FUNÇÕES.md",
+    "04 - JAVASCRIPT/13 - MAP METHOD.md",
+    "04 - JAVASCRIPT/14 - REDUCE METHOD.md",
+    "04 - JAVASCRIPT/15 - METHOD CHAINING.md",
+    "04 - JAVASCRIPT/16 - EVERY E SOME METHOD.md",
+    "04 - JAVASCRIPT/15 - SORT METHOD.md",
+    "04 - JAVASCRIPT/14 - FILTER METHOD.md",
     "04 - JAVASCRIPT/02 - MODULOS.md",
     "04 - JAVASCRIPT/01 - INTRODUÇÃO.md",
-    "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
-    "04 - JAVASCRIPT/12 - CLASSES/04 - PROPRIEDADES E MÉTODOS ESTÁTICOS.md",
-    "04 - JAVASCRIPT/12 - CLASSES/03 - HERANÇA.md",
-    "04 - JAVASCRIPT/12 - CLASSES/02 - THIS.md",
-    "04 - JAVASCRIPT/12 - CLASSES/01 - CLASSES.md",
-    "04 - JAVASCRIPT/12 - CLASSES",
+    "04 - JAVASCRIPT/12 CLASSES/04 - PROPRIEDADES E MÉTODOS ESTÁTICOS.md",
+    "04 - JAVASCRIPT/12 CLASSES/03 - HERANÇA.md",
+    "04 - JAVASCRIPT/12 CLASSES/02 - THIS.md",
+    "04 - JAVASCRIPT/12 CLASSES/01 - CLASSES.md",
+    "04 - JAVASCRIPT/12 CLASSES",
     "04 - JAVASCRIPT/Javascript.pdf",
     "04 - JAVASCRIPT/06 REGEX/regex.png",
-    "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/09 - CACHE E SERVICE WORKERS.md",
-    "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/08 - INDEXED DB.md",
-    "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/07 - USANDO COOKIES.md",
+    "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD/09 - CACHE E SERVICE WORKERS.md",
+    "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD/08 - INDEXED DB.md",
+    "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD/07 - USANDO COOKIES.md",
     "04 - JAVASCRIPT/06 REGEX/02 - CLASSES DE CARACTERES.md",
     "04 - JAVASCRIPT/06 REGEX/01 - SUBSTITUIR EM MASSA.md",
     "04 - JAVASCRIPT/06 REGEX/01 - EXPRESSÕES REGULARES.md",
     "04 - JAVASCRIPT/06 REGEX/01 - FLAGS REGEX.md",
     "04 - JAVASCRIPT/03 - GRAMÁTICA E TIPOS.md",
     "04 - JAVASCRIPT/12 - OPERADORES LÓGICOS.md",
-    "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/02 - LOCAL STORAGE.md",
-    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/19 - ADD AND REMOVE NODES.md",
-    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/18 - CRIANDO NODES.md",
-    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/17 - API e WEB APIS.md",
-    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/17 - DOM.md",
-    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/22 - MANIPULAR CSS.md",
-    "04 - JAVASCRIPT/13 - FUNÇÃO CALLBACK.md",
-    "04 - JAVASCRIPT/08 - ARRAYS.md",
-    "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/06 - LADO RUIM DO CLIENT-SIDE STORAGE.md",
-    "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD/05 - CACHE API.md",
-    "04 - JAVASCRIPT/11 - LOCAL STORAGE E CRUD",
+    "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD/02 - LOCAL STORAGE.md",
+    "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD",
     "05 - NODE/MVC.canvas",
     "04 - JAVASCRIPT/10 MAPS E SETS",
     "04 - JAVASCRIPT/09 AUDIO E VIDEO",
