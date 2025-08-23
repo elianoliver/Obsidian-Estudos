@@ -8,15 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb9aa8ebec44a8aa",
+            "id": "8a22ddd15bc23eb7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "04 - JAVASCRIPT/Javascript.pdf"
+                "file": "07 - REACT/02 - ESTILOS INLINE.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "Javascript"
+              "icon": "lucide-file",
+              "title": "02 - ESTILOS INLINE"
             }
           }
         ]
@@ -51,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "math",
+                "query": "for of",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/Javascript.pdf",
+                "file": "07 - REACT/02 - ESTILOS INLINE.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Javascript"
+              "title": "Sumário de 02 - ESTILOS INLINE"
             }
           },
           {
@@ -107,8 +110,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -162,6 +165,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Criar nova base": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -170,43 +174,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb9aa8ebec44a8aa",
+  "active": "8a22ddd15bc23eb7",
   "lastOpenFiles": [
-    "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
-    "04 - JAVASCRIPT/08 - ARRAYS.md",
-    "07 - REACT/04 - ATUALIZAR ARRAYS.md",
-    "04 - JAVASCRIPT/10 - FUNÇÕES.md",
-    "04 - JAVASCRIPT/13 - MAP METHOD.md",
-    "04 - JAVASCRIPT/14 - REDUCE METHOD.md",
-    "04 - JAVASCRIPT/15 - METHOD CHAINING.md",
-    "04 - JAVASCRIPT/16 - EVERY E SOME METHOD.md",
-    "04 - JAVASCRIPT/15 - SORT METHOD.md",
-    "04 - JAVASCRIPT/14 - FILTER METHOD.md",
-    "04 - JAVASCRIPT/02 - MODULOS.md",
-    "04 - JAVASCRIPT/01 - INTRODUÇÃO.md",
-    "04 - JAVASCRIPT/12 CLASSES/04 - PROPRIEDADES E MÉTODOS ESTÁTICOS.md",
-    "04 - JAVASCRIPT/12 CLASSES/03 - HERANÇA.md",
-    "04 - JAVASCRIPT/12 CLASSES/02 - THIS.md",
     "04 - JAVASCRIPT/12 CLASSES/01 - CLASSES.md",
+    "04 - JAVASCRIPT/12 CLASSES/03 - HERANÇA.md",
+    "04 - JAVASCRIPT/12 CLASSES/04 - PROPRIEDADES E MÉTODOS ESTÁTICOS.md",
+    "04 - JAVASCRIPT/12 CLASSES/02 - THIS.md",
     "04 - JAVASCRIPT/12 CLASSES",
-    "04 - JAVASCRIPT/Javascript.pdf",
-    "04 - JAVASCRIPT/06 REGEX/regex.png",
     "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD/09 - CACHE E SERVICE WORKERS.md",
     "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD/08 - INDEXED DB.md",
     "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD/07 - USANDO COOKIES.md",
-    "04 - JAVASCRIPT/06 REGEX/02 - CLASSES DE CARACTERES.md",
-    "04 - JAVASCRIPT/06 REGEX/01 - SUBSTITUIR EM MASSA.md",
-    "04 - JAVASCRIPT/06 REGEX/01 - EXPRESSÕES REGULARES.md",
-    "04 - JAVASCRIPT/06 REGEX/01 - FLAGS REGEX.md",
-    "04 - JAVASCRIPT/03 - GRAMÁTICA E TIPOS.md",
-    "04 - JAVASCRIPT/12 - OPERADORES LÓGICOS.md",
+    "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD/06 - LADO RUIM DO CLIENT-SIDE STORAGE.md",
+    "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD/05 - CACHE API.md",
+    "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD/04 - COOKIES.md",
+    "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD/03 - SESSION STORAGE.md",
     "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD/02 - LOCAL STORAGE.md",
+    "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD/01 - CRUD.md",
     "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD",
-    "05 - NODE/MVC.canvas",
+    "04 - JAVASCRIPT/10 MAPS E SETS/01 - SETS E WEAKSETS.md",
+    "04 - JAVASCRIPT/10 MAPS E SETS/02 - MAP E WEAKMAP.md",
     "04 - JAVASCRIPT/10 MAPS E SETS",
+    "07 - REACT/youtube/14 - ELEVAÇÃO DE STATE.md",
+    "07 - REACT/youtube/13 - MANIPULANDO OBJETOS.md",
+    "07 - REACT/youtube/12 - MANIPULANDO FORMULARIO.md",
+    "07 - REACT/youtube/11 - LISTAS E MAP.md",
+    "07 - REACT/youtube/10 - RENDERIZAÇÃO CONDICIONAL.md",
+    "07 - REACT/youtube/07 - COMO FUNCIONA A RENDERIZAÇÃO DE COMPONENTES NO REACT.md",
+    "07 - REACT/youtube/09 - EVENTOS EM REACT.md",
+    "07 - REACT/youtube/08 - STATE NO REACT.md",
+    "07 - REACT/youtube/06 - IMPORTANDO CSS.md",
+    "07 - REACT/youtube/05 - ENVIANDO FUNÇÕES COMO PROPS.md",
+    "07 - REACT/youtube/04 - ENVIANDO ATRIBUTOS COMO PROPS.md",
+    "07 - REACT/youtube",
     "04 - JAVASCRIPT/09 AUDIO E VIDEO",
     "04 - JAVASCRIPT/08 DATES",
     "04 - JAVASCRIPT/07 FORM VALIDATION",
+    "04 - JAVASCRIPT/06 REGEX/regex.png",
     "04 - JAVASCRIPT/06 REGEX",
     "04 - JAVASCRIPT/05 DEBUGGING",
     "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS",
@@ -222,6 +225,7 @@
     "OVERVIEW.canvas",
     "01 Anotacoes/ReZero/CANVAS.canvas",
     "01 - Anotações/ReZero/CANVAS.canvas",
-    "NODE/MVC-Salete.canvas"
+    "NODE/MVC-Salete.canvas",
+    "05 - NODE/MVC.canvas"
   ]
 }
