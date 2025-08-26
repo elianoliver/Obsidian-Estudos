@@ -18,4 +18,10 @@ Nesse momento, Emilia sai da carruagem e fica chateada ao ver Subaru e Shaula ju
 
 # CAP 19
 
+Subaru e seus companheiros se reuniram após serem separados na área subterrânea do Mar de Areia. Eles estavam preocupados uns com os outros durante a separação.
 
+Eles conheceram Shaula, que parece ser a figura lendária conhecida como o "Sábio" que guardava as dunas de areia na Torre de Vigia das Plêiades. No entanto, Shaula não se reconhece como o "Sábio" e diz que seu mestre é alguém chamado Flugel.
+
+Ao ouvir o nome Flugel, Subaru reconhece que esse é o nome da pessoa que plantou a árvore gigante. Isso sugere que Flugel e o "Sábio" são a mesma pessoa.
+
+Shaula parece ter uma forte ligação e reverência por seu mestre Flugel, mas não consegue fornecer mais detalhes sobre ele. Isso levanta mais mistérios sobre a identidade de Flugel e sua conexão com Subaru.
