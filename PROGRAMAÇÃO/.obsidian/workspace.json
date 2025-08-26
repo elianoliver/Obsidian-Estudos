@@ -11,12 +11,15 @@
             "id": "9ff4772d7475adcd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "02 Estudo/Kevin Beaver - Hacking Para Leigos.pdf"
+                "file": "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-18.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "Kevin Beaver - Hacking Para Leigos"
+              "icon": "lucide-file",
+              "title": "Arco 6 - Cap 17-18"
             }
           }
         ]
@@ -92,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Estudo/Kevin Beaver - Hacking Para Leigos.pdf",
+                "file": "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-18.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Kevin Beaver - Hacking Para Leigos"
+              "title": "Sumário de Arco 6 - Cap 17-18"
             }
           },
           {
@@ -171,8 +174,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "271a702203f418c9",
+  "active": "9ff4772d7475adcd",
   "lastOpenFiles": [
+    "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 1-4.md",
+    "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-18.md",
+    "02 Estudo/Kevin Beaver - Hacking Para Leigos.pdf",
     "02 Estudo/Valente - Engenharia De Software Moderna.epub",
     "04 - JAVASCRIPT/Javascript.pdf",
     "conflict-files-obsidian-git.md",
@@ -201,7 +207,6 @@
     "04 - JAVASCRIPT/06 REGEX/01 - SUBSTITUIR EM MASSA.md",
     "04 - JAVASCRIPT/06 REGEX/01 - EXPRESSÕES REGULARES.md",
     "04 - JAVASCRIPT/06 REGEX/01 - FLAGS REGEX.md",
-    "04 - JAVASCRIPT/03 - GRAMÁTICA E TIPOS.md",
     "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD",
     "05 - NODE/MVC.canvas",
     "04 - JAVASCRIPT/10 MAPS E SETS",
@@ -209,8 +214,6 @@
     "04 - JAVASCRIPT/08 DATES",
     "04 - JAVASCRIPT/07 FORM VALIDATION",
     "04 - JAVASCRIPT/06 REGEX",
-    "04 - JAVASCRIPT/05 DEBUGGING",
-    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS",
     "Pasted image 20250714170029.png",
     "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
     "00 - ASSETS/images/Pasted image 20240224154121.png",
