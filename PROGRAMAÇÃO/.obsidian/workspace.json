@@ -18,8 +18,21 @@
               "icon": "lucide-file-text",
               "title": "Javascript"
             }
+          },
+          {
+            "id": "236e09bde7c49060",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,13 +105,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/Javascript.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Javascript"
+              "title": "Sumário"
             }
           },
           {
@@ -162,6 +174,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Criar nova base": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -170,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb9aa8ebec44a8aa",
+  "active": "236e09bde7c49060",
   "lastOpenFiles": [
     "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
     "04 - JAVASCRIPT/08 - ARRAYS.md",
