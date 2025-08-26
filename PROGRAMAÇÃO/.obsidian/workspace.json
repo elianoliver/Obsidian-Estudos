@@ -11,10 +11,12 @@
             "id": "9ff4772d7475adcd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "pdf",
+              "state": {
+                "file": "02 Estudo/Kevin Beaver - Hacking Para Leigos.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Kevin Beaver - Hacking Para Leigos"
             }
           }
         ]
@@ -90,12 +92,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02 Estudo/Kevin Beaver - Hacking Para Leigos.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Kevin Beaver - Hacking Para Leigos"
             }
           },
           {
@@ -168,8 +171,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ff4772d7475adcd",
+  "active": "271a702203f418c9",
   "lastOpenFiles": [
+    "02 Estudo/Valente - Engenharia De Software Moderna.epub",
     "04 - JAVASCRIPT/Javascript.pdf",
     "conflict-files-obsidian-git.md",
     "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
