@@ -25,3 +25,15 @@ Eles conheceram Shaula, que parece ser a figura lendária conhecida como o "Sáb
 Ao ouvir o nome Flugel, Subaru reconhece que esse é o nome da pessoa que plantou a árvore gigante. Isso sugere que Flugel e o "Sábio" são a mesma pessoa.
 
 Shaula parece ter uma forte ligação e reverência por seu mestre Flugel, mas não consegue fornecer mais detalhes sobre ele. Isso levanta mais mistérios sobre a identidade de Flugel e sua conexão com Subaru.
+
+# CAP 20
+
+Shaula revela que ela foi responsável por atacá-los com luzes brilhantes da torre anteriormente, mas diz que era apenas para proteger a torre.
+
+Eles descobrem que a torre possui vários andares, cada um com um nome relacionado às Plêiades, e que existe um "Andar Zero" acima deles, ao qual Shaula diz que eles ainda não têm acesso.
+
+Subaru percebe que Flugel, a quem Shaula se refere como seu "Mestre", parece ser alguém do mesmo mundo que ele, com conhecimentos avançados.
+
+No final, Shaula acolhe calorosamente o retorno de Flugel (Subaru) à torre, deixando claro que ela o esperava ansiosamente.
+
+Portanto, o grupo descobre que o "Sábio" que eles buscavam não é exatamente quem eles esperavam, mas isso abre novas questões sobre a verdadeira natureza de Flugel e sua conexão com Subaru.
