@@ -11,10 +11,15 @@
             "id": "9ff4772d7475adcd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-20.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Arco 6 - Cap 17-20"
             }
           }
         ]
@@ -90,12 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-20.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Arco 6 - Cap 17-20"
             }
           },
           {
@@ -170,37 +176,37 @@
   },
   "active": "9ff4772d7475adcd",
   "lastOpenFiles": [
+    "01 Pessoal/ReZero/1 Personagens/Wilhelm Van Astrea.md",
+    "01 Pessoal/ReZero/1 Personagens/Subaru.md",
+    "01 Pessoal/ReZero/1 Personagens/Sirius Romanée-Conti.md",
+    "01 Pessoal/ReZero/1 Personagens/Santíssima Espadachim.md",
+    "01 Pessoal/ReZero/1 Personagens/Roy Alphard.md",
+    "01 Pessoal/ReZero/1 Personagens/Ricardo.md",
+    "01 Pessoal/ReZero/1 Personagens/Reinhard.md",
+    "01 Pessoal/ReZero/1 Personagens/Regulus.md",
+    "01 Pessoal/ReZero/1 Personagens/Ray Batenkaitos.md",
+    "01 Pessoal/ReZero/1 Personagens/Priscilla Barielle.md",
+    "01 Pessoal/ReZero/1 Personagens/Otto Swen.md",
+    "01 Pessoal/ReZero/1 Personagens/Liliana Masquerade - A barda.md",
+    "01 Pessoal/ReZero/1 Personagens/Kurgan dos Oito Braços.md",
+    "01 Pessoal/ReZero/1 Personagens/Julius.md",
+    "01 Pessoal/ReZero/1 Personagens/Gaston.md",
+    "01 Pessoal/ReZero/1 Personagens/Garfiel.md",
+    "01 Pessoal/ReZero/1 Personagens/Felt.md",
+    "01 Pessoal/ReZero/1 Personagens/Escama do Dragão Branco.md",
+    "01 Pessoal/ReZero/1 Personagens/Emília.md",
+    "01 Pessoal/ReZero/1 Personagens/Al.md",
     "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-20.md",
-    "01 Pessoal/ReZero/ReZero - 19/CAP 2 - Canção da Cidade em Chamas.md",
-    "01 Pessoal/ReZero/ReZero - 19/CAP 0 - Cidade de Combates Desorganizados.md",
     "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 1-4.md",
+    "01 Pessoal/ReZero/ReZero - 19/CAP 1 - Início do Ataque ao Avareza.md",
+    "01 Pessoal/ReZero/ReZero - 19/CAP 0 - Cidade de Combates Desorganizados.md",
+    "01 Pessoal/ReZero/ReZero - 19/CAP 2 - Canção da Cidade em Chamas.md",
     "02 Estudo/Kevin Beaver - Hacking Para Leigos.pdf",
     "02 Estudo/Valente - Engenharia De Software Moderna.epub",
     "04 - JAVASCRIPT/Javascript.pdf",
     "conflict-files-obsidian-git.md",
-    "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
-    "04 - JAVASCRIPT/08 - ARRAYS.md",
-    "07 - REACT/04 - ATUALIZAR ARRAYS.md",
-    "04 - JAVASCRIPT/10 - FUNÇÕES.md",
-    "04 - JAVASCRIPT/13 - MAP METHOD.md",
-    "04 - JAVASCRIPT/14 - REDUCE METHOD.md",
-    "04 - JAVASCRIPT/15 - METHOD CHAINING.md",
-    "04 - JAVASCRIPT/16 - EVERY E SOME METHOD.md",
-    "04 - JAVASCRIPT/15 - SORT METHOD.md",
-    "04 - JAVASCRIPT/14 - FILTER METHOD.md",
-    "04 - JAVASCRIPT/02 - MODULOS.md",
-    "04 - JAVASCRIPT/01 - INTRODUÇÃO.md",
-    "04 - JAVASCRIPT/12 CLASSES/04 - PROPRIEDADES E MÉTODOS ESTÁTICOS.md",
-    "04 - JAVASCRIPT/12 CLASSES/03 - HERANÇA.md",
-    "04 - JAVASCRIPT/12 CLASSES/02 - THIS.md",
-    "04 - JAVASCRIPT/12 CLASSES/01 - CLASSES.md",
     "04 - JAVASCRIPT/12 CLASSES",
     "04 - JAVASCRIPT/06 REGEX/regex.png",
-    "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD/09 - CACHE E SERVICE WORKERS.md",
-    "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD/08 - INDEXED DB.md",
-    "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD/07 - USANDO COOKIES.md",
-    "04 - JAVASCRIPT/06 REGEX/02 - CLASSES DE CARACTERES.md",
-    "04 - JAVASCRIPT/06 REGEX/01 - SUBSTITUIR EM MASSA.md",
     "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD",
     "05 - NODE/MVC.canvas",
     "04 - JAVASCRIPT/10 MAPS E SETS",

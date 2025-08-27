@@ -42,7 +42,7 @@ O grupo então discute sobre tentar contatar o "Sábio" Shaula na Torre de Vigil
 
 Subaru decide que irá acordar Rem, que está confinada na mansão. Emilia o apoia, dizendo que ela e os outros querem que Subaru seja feliz. Roswaal e Beatrice discutem as ações de Subaru, com Beatrice defendendo-o.
 
-# CAP 3 - CALABOUÇO DA MANSÃO
+# CAP 3 - Calabouço da Mansão
 
 1. subaru
 2. emilia
@@ -58,7 +58,7 @@ Subaru e os outros discutem como poderiam usar a experiência de Meili com os Ma
 
 Apesar de hesitantes inicialmente, Subaru e Emilia acabam aceitando a proposta de Meili, vendo-a como uma oportunidade de resolver o problema dos Majuus durante a jornada. Eles então se preparam para partir, com Meili os acompanhando.
 
-# CAP 4
+# CAP 4 - Mansão Roswaal
 
 A razão de te trazer para fora
 
@@ -76,5 +76,5 @@ Membros da missão:
 7. Rem
 8. Ram
 
-papo esquisito sobre a petra estar de desenvolvendo, não ser mais uma criança e quererem se casar com ela... esquisto esquisito esquisito
+papo esquisito sobre a petra estar se desenvolvendo, não ser mais uma criança e quererem se casar com ela... esquisto esquisito esquisito
 

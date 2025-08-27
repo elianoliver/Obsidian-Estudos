@@ -3,7 +3,6 @@ Livro: ReZero
 tags:
   - ReZero
 ---
-________________________________________________________________________
 # ATO 1 - Subaru e Reinhard contra Regulus
 
 Personagens na cena:
@@ -18,7 +17,6 @@ Regulus usa suas esposas e a emilia de refém. Com isso, como condição de libe
 
 Assim, Reinhard aceita e morre, mas logo é ressucitado pela benção da fênix. E uma nova batalha começa com um ataque de reinhard causando uma grande explosão.
 
----
 # ATO 2 - Subaru e Reinhard contra Regulus pt2
 
 Ao final da explosão é revelado que emilia foi resgatada das mãos de regulos por reinhard.
@@ -29,7 +27,6 @@ Regulus se levanta para dar prosseguimento a batalha.
 
 A estratégia de força bruta parece não funcionar, então subaru da inicio a estratégia T, que consiste em descobrir como os poderes de regulus funcionam eliminando as possibilidades uma a uma. Emilia e subaru se juntam para botar o plano em prática.
 
----
 # ATO 3 - Subaru e Reinhard contra Regulus pt3
 
 Golpes fora do alcance de sua visão parecem não surtir efeito
