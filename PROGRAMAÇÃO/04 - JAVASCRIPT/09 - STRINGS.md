@@ -242,7 +242,7 @@ O método `toString()` é usado para **converter valores em strings** (textos). 
 ##### Números
 ```js
 //Transforma um número em sua representação em string:
-const num = 10;
+const num = 11;
 console.log(num.toString()); // "10"
 
 //Pode receber um **parâmetro opcional** chamado **radix** (base numérica: de 2 a 36):
