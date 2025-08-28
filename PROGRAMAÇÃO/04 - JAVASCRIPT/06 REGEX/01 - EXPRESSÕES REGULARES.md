@@ -99,3 +99,22 @@ console.log(replaced); // "freeCodeCamp is rly kewl"
 
 **Dica para iniciantes**: Comece com padrões simples, como `/texto/`, e teste com `test()` ou `match()` no console do navegador. Use ferramentas como regex101.com para visualizar e aprender regex. Com prática, você dominará esses métodos!
 
+---
+# Exercício 
+Fazendo o replace com match de vários items de um objeto
+```js
+function convertHTML(string){
+
+	const htmlEntities = {
+		'&': '&amp;',
+		'<': '&lt;',
+		'>': '&gt;',
+		'"': '&quot;',
+		"'": '&apos;'
+	}
+	
+	return string.replace(/[&<>"']/g, (match)=>htmlEntities[match])
+}
+
+convertHTML("Dolce & Gabbana")
+```
