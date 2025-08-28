@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - JAVASCRIPT/09 - STRINGS.md",
+                "file": "04 - JAVASCRIPT/03 - GRAMÁTICA E TIPOS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "09 - STRINGS"
+              "title": "03 - GRAMÁTICA E TIPOS"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dessert",
+                "query": "forEach",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/09 - STRINGS.md",
+                "file": "04 - JAVASCRIPT/03 - GRAMÁTICA E TIPOS.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 09 - STRINGS"
+              "title": "Sumário de 03 - GRAMÁTICA E TIPOS"
             }
           },
           {
@@ -175,13 +174,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75b2a302bf0086e8",
+  "active": "9ff4772d7475adcd",
   "lastOpenFiles": [
-    "04 - JAVASCRIPT/12 - OPERADORES LÓGICOS.md",
+    "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
+    "04 - JAVASCRIPT/07 - ESTRUTURAS DE REPETIÇÃO.md",
+    "04 - JAVASCRIPT/12 CLASSES/04 - PROPRIEDADES E MÉTODOS ESTÁTICOS.md",
+    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/17 - DOM E NÓS.md",
+    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/19 - INTERFACES NAVIGATOR WINDOW DOCUMENT.md",
+    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/19 - ADD AND REMOVE NODES.md",
+    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/18 - INNERTEXT X TEXTCONTENT X INNERHTML.md",
+    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/18 - CRIANDO NODES.md",
+    "04 - JAVASCRIPT/08 - ARRAYS.md",
+    "04 - JAVASCRIPT/10 MAPS E SETS/02 - MAP E WEAKMAP.md",
     "04 - JAVASCRIPT/09 - STRINGS.md",
+    "04 - JAVASCRIPT/12 - OPERADORES LÓGICOS.md",
     "04 - JAVASCRIPT/03 - GRAMÁTICA E TIPOS.md",
     "04 - JAVASCRIPT/09 - NUMEROS.md",
-    "04 - JAVASCRIPT/08 - ARRAYS.md",
     "04 - JAVASCRIPT/Javascript.pdf",
     "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-20.md",
     "01 Pessoal/ReZero/ReZero - 19/CAP 2 - Canção da Cidade em Chamas.md",
@@ -190,7 +198,6 @@
     "02 Estudo/Kevin Beaver - Hacking Para Leigos.pdf",
     "02 Estudo/Valente - Engenharia De Software Moderna.epub",
     "conflict-files-obsidian-git.md",
-    "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
     "07 - REACT/04 - ATUALIZAR ARRAYS.md",
     "04 - JAVASCRIPT/10 - FUNÇÕES.md",
     "04 - JAVASCRIPT/13 - MAP METHOD.md",
@@ -198,16 +205,8 @@
     "04 - JAVASCRIPT/15 - METHOD CHAINING.md",
     "04 - JAVASCRIPT/16 - EVERY E SOME METHOD.md",
     "04 - JAVASCRIPT/15 - SORT METHOD.md",
-    "04 - JAVASCRIPT/14 - FILTER METHOD.md",
-    "04 - JAVASCRIPT/02 - MODULOS.md",
-    "04 - JAVASCRIPT/01 - INTRODUÇÃO.md",
-    "04 - JAVASCRIPT/12 CLASSES/04 - PROPRIEDADES E MÉTODOS ESTÁTICOS.md",
-    "04 - JAVASCRIPT/12 CLASSES/03 - HERANÇA.md",
-    "04 - JAVASCRIPT/12 CLASSES/02 - THIS.md",
-    "04 - JAVASCRIPT/12 CLASSES/01 - CLASSES.md",
     "04 - JAVASCRIPT/12 CLASSES",
     "04 - JAVASCRIPT/06 REGEX/regex.png",
-    "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD/09 - CACHE E SERVICE WORKERS.md",
     "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD",
     "05 - NODE/MVC.canvas",
     "04 - JAVASCRIPT/10 MAPS E SETS",
