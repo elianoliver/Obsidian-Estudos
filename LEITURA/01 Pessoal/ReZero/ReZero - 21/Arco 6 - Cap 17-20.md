@@ -45,3 +45,12 @@ O grupo chegou ao Quarto Andar "Alcyone" da Torre de Vigia das Plêiades, onde e
 No Terceiro Andar, eles se depararam com uma vasta extensão branca, sem paredes ou teto visíveis. No centro desta sala, havia um estranho objeto flutuante que foi chamado de "Monólito". Quando Subaru tocou o Monólito, ele começou a se replicar, espalhando vários outros Monólitos pela sala.
 
 Uma voz então ecoou, ordenando que Subaru tocasse no Monólito mais brilhante, que havia sido "destruído por Shaula". Surpreso, Subaru recuou, sendo amparado por Julius. Isso marcou o início do "Teste" no Terceiro Andar, sem restrições de tempo, tentativas ou desafios.
+
+# CAP 22
+
+O grupo de Subaru se encontra em uma sala branca com vários Monólitos espalhados, que formam um "Teste" que eles precisam resolver. Após algumas tentativas, Subaru percebe que os Monólitos reproduzem um padrão que se assemelha à constelação de Órion. 
+
+Ele deduz que o "herói destruído por Shaula" mencionado no teste é Órion, da lenda grega, que foi morto por um escorpião enviado para persegui-lo. Subaru então toca no Monólito que representa a estrela "Rígel", a mais brilhante da constelação de Órion, resolvendo o teste.
+
+Isso faz com que a sala branca seja substituída por uma nova sala feita de pedra, rodeada de incontáveis estantes, indicando que eles conseguiram passar para a próxima etapa do desafio.
+
