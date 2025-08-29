@@ -13,16 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-20.md",
+                "file": "04 - JAVASCRIPT/09 - STRINGS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Arco 6 - Cap 17-20"
+              "title": "09 - STRINGS"
+            }
+          },
+          {
+            "id": "77495ef2cedccb46",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-08-29 20.01.14.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-29 20.01.14.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "replace",
+                "query": "toString(2)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,13 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-20.md",
+                "file": "Excalidraw/Drawing 2025-08-29 20.01.14.excalidraw.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Arco 6 - Cap 17-20"
+              "title": "Sumário de Drawing 2025-08-29 20.01.14.excalidraw"
             }
           },
           {
@@ -171,14 +184,17 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9ff4772d7475adcd",
+  "active": "77495ef2cedccb46",
   "lastOpenFiles": [
-    "01 Pessoal/John Flanagan - Rangers Ordem dos Arqueiros - Terra do Gelo 3.pdf",
-    "04 - JAVASCRIPT/12 CLASSES/04 - PROPRIEDADES E MÉTODOS ESTÁTICOS.md",
+    "Excalidraw/Drawing 2025-08-29 20.01.14.excalidraw.md",
+    "04 - JAVASCRIPT/09 - STRINGS.md",
+    "Excalidraw",
     "04 - JAVASCRIPT/13 RECURSAO/01 - OQUE E.md",
+    "04 - JAVASCRIPT/12 CLASSES/04 - PROPRIEDADES E MÉTODOS ESTÁTICOS.md",
     "04 - JAVASCRIPT/13 RECURSAO",
     "04 - JAVASCRIPT/12 CLASSES/01 - CLASSES.md",
     "04 - JAVASCRIPT/09 - OBJETOS.md",
@@ -195,7 +211,6 @@
     "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/18 - CRIANDO NODES.md",
     "04 - JAVASCRIPT/08 - ARRAYS.md",
     "04 - JAVASCRIPT/10 MAPS E SETS/02 - MAP E WEAKMAP.md",
-    "04 - JAVASCRIPT/09 - STRINGS.md",
     "04 - JAVASCRIPT/12 - OPERADORES LÓGICOS.md",
     "04 - JAVASCRIPT/09 - NUMEROS.md",
     "04 - JAVASCRIPT/Javascript.pdf",
@@ -213,7 +228,6 @@
     "04 - JAVASCRIPT/10 MAPS E SETS",
     "04 - JAVASCRIPT/09 AUDIO E VIDEO",
     "04 - JAVASCRIPT/08 DATES",
-    "04 - JAVASCRIPT/07 FORM VALIDATION",
     "Pasted image 20250714170029.png",
     "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
     "00 - ASSETS/images/Pasted image 20240224154121.png",
