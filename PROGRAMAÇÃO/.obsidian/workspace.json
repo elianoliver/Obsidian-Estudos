@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - JAVASCRIPT/12 CLASSES/01 - CLASSES.md",
+                "file": "04 - JAVASCRIPT/13 RECURSAO/01 - OQUE É.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "01 - CLASSES"
+              "title": "01 - OQUE É"
             }
           }
         ]
@@ -95,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/12 CLASSES/01 - CLASSES.md",
+                "file": "04 - JAVASCRIPT/13 RECURSAO/01 - OQUE É.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 01 - CLASSES"
+              "title": "Sumário de 01 - OQUE É"
             }
           },
           {
@@ -176,6 +176,10 @@
   },
   "active": "9ff4772d7475adcd",
   "lastOpenFiles": [
+    "04 - JAVASCRIPT/12 CLASSES/04 - PROPRIEDADES E MÉTODOS ESTÁTICOS.md",
+    "04 - JAVASCRIPT/13 RECURSAO/01 - OQUE É.md",
+    "04 - JAVASCRIPT/13 RECURSAO",
+    "04 - JAVASCRIPT/12 CLASSES/01 - CLASSES.md",
     "04 - JAVASCRIPT/09 - OBJETOS.md",
     "04 - JAVASCRIPT/06 REGEX/01 - EXPRESSÕES REGULARES.md",
     "04 - JAVASCRIPT/06 REGEX/01 - SUBSTITUIR EM MASSA.md",
@@ -183,7 +187,6 @@
     "04 - JAVASCRIPT/03 - GRAMÁTICA E TIPOS.md",
     "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
     "04 - JAVASCRIPT/07 - ESTRUTURAS DE REPETIÇÃO.md",
-    "04 - JAVASCRIPT/12 CLASSES/04 - PROPRIEDADES E MÉTODOS ESTÁTICOS.md",
     "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/17 - DOM E NÓS.md",
     "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/19 - INTERFACES NAVIGATOR WINDOW DOCUMENT.md",
     "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/19 - ADD AND REMOVE NODES.md",
@@ -203,8 +206,6 @@
     "02 Estudo/Valente - Engenharia De Software Moderna.epub",
     "conflict-files-obsidian-git.md",
     "07 - REACT/04 - ATUALIZAR ARRAYS.md",
-    "04 - JAVASCRIPT/10 - FUNÇÕES.md",
-    "04 - JAVASCRIPT/13 - MAP METHOD.md",
     "04 - JAVASCRIPT/12 CLASSES",
     "04 - JAVASCRIPT/06 REGEX/regex.png",
     "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD",
@@ -213,7 +214,6 @@
     "04 - JAVASCRIPT/09 AUDIO E VIDEO",
     "04 - JAVASCRIPT/08 DATES",
     "04 - JAVASCRIPT/07 FORM VALIDATION",
-    "04 - JAVASCRIPT/06 REGEX",
     "Pasted image 20250714170029.png",
     "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
     "00 - ASSETS/images/Pasted image 20240224154121.png",
