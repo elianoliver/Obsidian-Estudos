@@ -37,3 +37,11 @@ Subaru percebe que Flugel, a quem Shaula se refere como seu "Mestre", parece ser
 No final, Shaula acolhe calorosamente o retorno de Flugel (Subaru) à torre, deixando claro que ela o esperava ansiosamente.
 
 Portanto, o grupo descobre que o "Sábio" que eles buscavam não é exatamente quem eles esperavam, mas isso abre novas questões sobre a verdadeira natureza de Flugel e sua conexão com Subaru.
+
+# CAP 21
+
+O grupo chegou ao Quarto Andar "Alcyone" da Torre de Vigia das Plêiades, onde encontraram Rem e Patrasche dormindo em uma sala verde e florida. Ram ficou para cuidar deles, enquanto o resto do grupo seguiu para o Terceiro Andar "Taygeta" para enfrentar o "Teste".
+
+No Terceiro Andar, eles se depararam com uma vasta extensão branca, sem paredes ou teto visíveis. No centro desta sala, havia um estranho objeto flutuante que foi chamado de "Monólito". Quando Subaru tocou o Monólito, ele começou a se replicar, espalhando vários outros Monólitos pela sala.
+
+Uma voz então ecoou, ordenando que Subaru tocasse no Monólito mais brilhante, que havia sido "destruído por Shaula". Surpreso, Subaru recuou, sendo amparado por Julius. Isso marcou o início do "Teste" no Terceiro Andar, sem restrições de tempo, tentativas ou desafios.
