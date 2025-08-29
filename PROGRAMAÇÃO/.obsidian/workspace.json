@@ -11,15 +11,10 @@
             "id": "9ff4772d7475adcd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - JAVASCRIPT/13 RECURSAO/01 - OQUE É.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "01 - OQUE É"
+              "title": "Nova aba"
             }
           }
         ]
@@ -95,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/13 RECURSAO/01 - OQUE É.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 01 - OQUE É"
+              "title": "Sumário"
             }
           },
           {
@@ -177,7 +171,7 @@
   "active": "9ff4772d7475adcd",
   "lastOpenFiles": [
     "04 - JAVASCRIPT/12 CLASSES/04 - PROPRIEDADES E MÉTODOS ESTÁTICOS.md",
-    "04 - JAVASCRIPT/13 RECURSAO/01 - OQUE É.md",
+    "04 - JAVASCRIPT/13 RECURSAO/01 - OQUE E.md",
     "04 - JAVASCRIPT/13 RECURSAO",
     "04 - JAVASCRIPT/12 CLASSES/01 - CLASSES.md",
     "04 - JAVASCRIPT/09 - OBJETOS.md",
