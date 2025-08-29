@@ -102,6 +102,7 @@ const recursiveCountdown = (number) => {
   }
   console.log(`Chamando recursiveCountdown com number: ${number - 1}`);
   recursiveCountdown(number - 1);
+  
   console.log(`Execução concluída para number: ${number}`);
 };
 
@@ -132,27 +133,28 @@ Execução concluída para number: 5
 #### **Como isso funciona na pilha?**
 
 1. **Chamada inicial**: `recursiveCountdown(5)` é colocada na pilha. Ela imprime "Início da execução para number: 5" e chama `recursiveCountdown(4)`.
+   
 2. **Pilha cresce**: `recursiveCountdown(4)` é colocada no topo da pilha. A execução de `recursiveCountdown(5)` pausa até que `recursiveCountdown(4)` termine. Isso continua até `recursiveCountdown(0)`.
+   
 3. **Caso base**: Quando `recursiveCountdown(0)` é chamado, ele atinge o caso base (`number < 1`), imprime "Caso base atingido" e retorna. Isso remove `recursiveCountdown(0)` da pilha.
+   
 4. **Resolução da pilha**: Agora, a pilha começa a "desempilhar". `recursiveCountdown(1)` continua sua execução, imprime "Execução concluída para number: 1" e é removida. Isso continua até `recursiveCountdown(5)` ser resolvida.
 
 Por isso, no exemplo de contagem **crescente**, o `console.log(number)` só é executado **depois** que todas as chamadas recursivas terminam, resultando na ordem 1, 2, 3, 4, 5.
 
----
-
-### **Por que a recursão é útil?**
+## **Por que a recursão é útil?**
 
 A recursão é poderosa porque:
 
 - **Simplifica problemas complexos**: Problemas como navegar por árvores ou calcular fatoriais ficam mais fáceis de expressar.
+  
 - **Lida com profundidade desconhecida**: Por exemplo, ao percorrer pastas e subpastas em um sistema de arquivos.
+  
 - **Código elegante**: Em alguns casos, o código recursivo é mais curto e claro que um loop.
 
 Porém, cuidado! Sem um caso base bem definido, a recursão pode causar um **stack overflow**, que é quando a pilha de chamadas fica grande demais e o programa trava. Isso é como encher uma pilha de pratos até ela desmoronar!
 
----
-
-### **Resumo dos pontos principais**
+## **Resumo dos pontos principais**
 
 1. **Recursão** é quando uma função chama a si mesma para resolver um problema.
 2. **Caso base** é essencial para evitar loops infinitos.
@@ -160,10 +162,6 @@ Porém, cuidado! Sem um caso base bem definido, a recursão pode causar um **sta
 4. A **pilha de chamadas** gerencia a execução, empilhando chamadas e resolvendo-as na ordem inversa.
 5. A ordem das operações (como `console.log`) afeta o resultado, como vimos na diferença entre contagem regressiva e crescente.
 
----
-
-### **Dica prática**
+## **Dica prática**
 
 Para entender melhor, experimente rodar o código acima no seu computador e adicionar mais `console.log` para ver o fluxo da execução. Brinque com diferentes números ou condições para sentir como a pilha de chamadas funciona. A recursão pode parecer complicada no início, mas com prática ela se torna uma ferramenta poderosa!
-
-Se quiser, posso explicar mais exemplos (como fatorial ou Fibonacci) ou esclarecer algum ponto! 😊
