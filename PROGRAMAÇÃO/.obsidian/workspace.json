@@ -26,12 +26,15 @@
             "id": "77495ef2cedccb46",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-08-29 20.01.14.excalidraw.md"
+                "file": "04 - JAVASCRIPT/15 - SORT METHOD.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-29 20.01.14.excalidraw"
+              "icon": "lucide-file",
+              "title": "15 - SORT METHOD"
             }
           }
         ],
@@ -67,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "toString(2)",
+                "query": "reverse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-08-29 20.01.14.excalidraw.md",
+                "file": "04 - JAVASCRIPT/15 - SORT METHOD.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Drawing 2025-08-29 20.01.14.excalidraw"
+              "title": "Sumário de 15 - SORT METHOD"
             }
           },
           {
@@ -190,6 +193,7 @@
   },
   "active": "77495ef2cedccb46",
   "lastOpenFiles": [
+    "04 - JAVASCRIPT/08 - ARRAYS.md",
     "Excalidraw/Drawing 2025-08-29 20.01.14.excalidraw.md",
     "04 - JAVASCRIPT/09 - STRINGS.md",
     "Excalidraw",
@@ -209,7 +213,6 @@
     "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/19 - ADD AND REMOVE NODES.md",
     "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/18 - INNERTEXT X TEXTCONTENT X INNERHTML.md",
     "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/18 - CRIANDO NODES.md",
-    "04 - JAVASCRIPT/08 - ARRAYS.md",
     "04 - JAVASCRIPT/10 MAPS E SETS/02 - MAP E WEAKMAP.md",
     "04 - JAVASCRIPT/12 - OPERADORES LÓGICOS.md",
     "04 - JAVASCRIPT/09 - NUMEROS.md",
