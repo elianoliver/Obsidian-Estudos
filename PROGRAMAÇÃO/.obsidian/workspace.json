@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - JAVASCRIPT/15 - SORT METHOD.md",
-                "mode": "preview",
+                "file": "04 - JAVASCRIPT/14 PROGRAMACAO FUNCIONAL/02 - CURRYING.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "15 - SORT METHOD"
+              "title": "02 - CURRYING"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reverse",
+                "query": "slice",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/15 - SORT METHOD.md",
+                "file": "04 - JAVASCRIPT/14 PROGRAMACAO FUNCIONAL/02 - CURRYING.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 15 - SORT METHOD"
+              "title": "Sumário de 02 - CURRYING"
             }
           },
           {
@@ -191,13 +191,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "77495ef2cedccb46",
+  "active": "271a702203f418c9",
   "lastOpenFiles": [
+    "04 - JAVASCRIPT/14 PROGRAMACAO FUNCIONAL/01 - PROGRAMACAO FUNCIONAL.md",
+    "04 - JAVASCRIPT/14 PROGRAMACAO FUNCIONAL/02 - CURRYING.md",
+    "04 - JAVASCRIPT/01 - INTRODUÇÃO.md",
+    "04 - JAVASCRIPT/13 RECURSAO/01 - RECURSAO.md",
+    "04 - JAVASCRIPT/14 PROGRAMACAO FUNCIONAL",
+    "04 - JAVASCRIPT/09 - STRINGS.md",
+    "07 - REACT/04 - ATUALIZAR ARRAYS.md",
+    "04 - JAVASCRIPT/15 - SORT METHOD.md",
     "04 - JAVASCRIPT/08 - ARRAYS.md",
     "Excalidraw/Drawing 2025-08-29 20.01.14.excalidraw.md",
-    "04 - JAVASCRIPT/09 - STRINGS.md",
     "Excalidraw",
-    "04 - JAVASCRIPT/13 RECURSAO/01 - OQUE E.md",
     "04 - JAVASCRIPT/12 CLASSES/04 - PROPRIEDADES E MÉTODOS ESTÁTICOS.md",
     "04 - JAVASCRIPT/13 RECURSAO",
     "04 - JAVASCRIPT/12 CLASSES/01 - CLASSES.md",
@@ -217,20 +223,14 @@
     "04 - JAVASCRIPT/12 - OPERADORES LÓGICOS.md",
     "04 - JAVASCRIPT/09 - NUMEROS.md",
     "04 - JAVASCRIPT/Javascript.pdf",
-    "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-20.md",
-    "01 Pessoal/ReZero/ReZero - 19/CAP 2 - Canção da Cidade em Chamas.md",
-    "01 Pessoal/ReZero/ReZero - 19/CAP 0 - Cidade de Combates Desorganizados.md",
-    "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 1-4.md",
     "02 Estudo/Kevin Beaver - Hacking Para Leigos.pdf",
     "02 Estudo/Valente - Engenharia De Software Moderna.epub",
-    "conflict-files-obsidian-git.md",
     "04 - JAVASCRIPT/12 CLASSES",
     "04 - JAVASCRIPT/06 REGEX/regex.png",
     "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD",
     "05 - NODE/MVC.canvas",
     "04 - JAVASCRIPT/10 MAPS E SETS",
     "04 - JAVASCRIPT/09 AUDIO E VIDEO",
-    "04 - JAVASCRIPT/08 DATES",
     "Pasted image 20250714170029.png",
     "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
     "00 - ASSETS/images/Pasted image 20240224154121.png",
