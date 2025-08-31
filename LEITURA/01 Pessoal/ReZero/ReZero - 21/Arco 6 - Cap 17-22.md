@@ -54,3 +54,14 @@ Ele deduz que o "herói destruído por Shaula" mencionado no teste é Órion, da
 
 Isso faz com que a sala branca seja substituída por uma nova sala feita de pedra, rodeada de incontáveis estantes, indicando que eles conseguiram passar para a próxima etapa do desafio.
 
+# CAP 23
+
+Subaru e o grupo exploraram a biblioteca do terceiro andar da Torre Taygeta, após Subaru resolver o enigma do andar.
+
+Eles descobriram que os livros na biblioteca continham as memórias de pessoas do passado e presente, incluindo algumas que Subaru e outros conheciam, como a Bruxa do Orgulho, Typhon, e o general do Império de Vollachia, Balroy Temegrif.
+
+Ao tocar nesses livros, Subaru e Julius tiveram uma experiência de "viver indiretamente" as memórias dessas pessoas, o que os abalou profundamente.
+
+Ficou claro que a biblioteca foi projetada por alguém com uma personalidade muito perversa, pois cada livro contém as memórias de uma pessoa específica, o que significa que essa pessoa poderia ter acesso às memórias de qualquer pessoa do mundo.
+
+Anastasia concluiu que essa biblioteca com os livros de todos os indivíduos, vivos ou mortos, é uma ferramenta extremamente poderosa e perigosa nas mãos de quem a construiu.
