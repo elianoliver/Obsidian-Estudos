@@ -42,9 +42,7 @@ console.log("First Printed Message!");
      ```
    - Isso acontece porque a função `delayedGreeting` é assíncrona, permitindo que o programa continue executando outras partes do código enquanto espera.
 
----
-
-### **Tratamento de erros com Async/Await**
+## **Tratamento de erros com Async/Await**
 
 Uma grande vantagem do `async/await` é o uso de blocos **try/catch** para lidar com erros, em vez de usar `.catch()` como nas Promises. Isso torna o tratamento de erros mais simples e familiar, semelhante ao código síncrono.
 
@@ -66,34 +64,41 @@ fetchUserData();
 **Explicação**:
 1. **Função `async`**:
    - A função `fetchUserData` é marcada como `async`, então ela retorna uma Promise.
+     
 2. **Uso de `await`**:
    - O primeiro `await fetch(...)` espera a requisição à API ser concluída, retornando um objeto `Response`.
    - O segundo `await response.json()` espera a conversão da resposta em JSON, retornando os dados utilizáveis.
+     
 3. **Bloco `try/catch`**:
    - O código dentro do `try` é executado normalmente.
    - Se ocorrer um erro (ex.: falha na conexão ou JSON inválido), o `catch` captura o erro e o exibe no console.
+     
 4. **Por que isso é melhor?**:
    - Em vez de encadear `.catch()` (como em Promises), o `try/catch` centraliza o tratamento de erros de forma clara e intuitiva.
 
----
-
-### **Por que usar Async/Await?**
+## **Por que usar Async/Await?**
 
 - **Legibilidade**: O código parece síncrono, mesmo sendo assíncrono, facilitando a leitura e manutenção.
+  
 - **Tratamento de erros**: O uso de `try/catch` é mais natural e familiar do que `.catch()` em cadeias de Promises.
+  
 - **Flexibilidade**: Funciona com qualquer Promise, como requisições `fetch`, temporizadores (`setTimeout`), ou outras operações assíncronas.
+  
 - **Não bloqueia**: Permite que o programa continue executando outras tarefas enquanto espera por operações demoradas, como chamadas a APIs.
 
----
-
-### **Resumo**
+## **Resumo**
 
 - **Async/Await**: Uma sintaxe que simplifica o trabalho com Promises, tornando o código assíncrono mais legível e semelhante ao código síncrono.
+  
 - **Async**: Marca uma função como assíncrona, garantindo que ela retorne uma Promise.
+  
 - **Await**: Pausa a execução dentro de uma função `async` até que uma Promise seja resolvida, sem bloquear o restante do programa.
+  
 - **Tratamento de erros**: Usa `try/catch` para capturar erros de forma clara, substituindo `.catch()` das Promises.
+  
 - **Exemplo prático**:
   - Funções como `fetchUserData` usam `await` para esperar requisições e conversões JSON, com erros tratados em um bloco `catch`.
+    
 - **Vantagem**: Torna o código mais simples, organizado e fácil de entender, ideal para operações assíncronas como buscar dados de APIs.
 
 Com `async/await`, você pode escrever código assíncrono de forma elegante e eficiente, melhorando a experiência de desenvolvimento e a performance da aplicação!

@@ -26,15 +26,10 @@
             "id": "77495ef2cedccb46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - JAVASCRIPT/15 JS ASSINCRONO/05 - ASYNC X AWAIT.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "05 - ASYNC X AWAIT"
+              "title": "Nova aba"
             }
           }
         ],
@@ -111,13 +106,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/15 JS ASSINCRONO/05 - ASYNC X AWAIT.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 05 - ASYNC X AWAIT"
+              "title": "Sumário"
             }
           },
           {
@@ -193,8 +187,10 @@
   },
   "active": "77495ef2cedccb46",
   "lastOpenFiles": [
+    "04 - JAVASCRIPT/15 JS ASSINCRONO/07 - JS ENGINE E JS RUNTIME.md",
+    "04 - JAVASCRIPT/15 JS ASSINCRONO/08 - GEOLOCATION API.md",
+    "04 - JAVASCRIPT/15 JS ASSINCRONO/06 - ASYNC X AWAIT.md",
     "04 - JAVASCRIPT/15 JS ASSINCRONO/05 - PROMISES.md",
-    "04 - JAVASCRIPT/15 JS ASSINCRONO/05 - ASYNC X AWAIT.md",
     "04 - JAVASCRIPT/15 JS ASSINCRONO/04 - METODOS HTTP.md",
     "04 - JAVASCRIPT/15 JS ASSINCRONO/03 - FETCH API.md",
     "04 - JAVASCRIPT/15 JS ASSINCRONO/02 - SCRIPTS ASYNC X DEFER.md",
@@ -221,8 +217,6 @@
     "04 - JAVASCRIPT/06 REGEX/01 - EXPRESSÕES REGULARES.md",
     "04 - JAVASCRIPT/06 REGEX/01 - SUBSTITUIR EM MASSA.md",
     "04 - JAVASCRIPT/14 - REDUCE METHOD.md",
-    "04 - JAVASCRIPT/03 - GRAMÁTICA E TIPOS.md",
-    "04 - JAVASCRIPT/07 - ESTRUTURAS DE REPETIÇÃO.md",
     "04 - JAVASCRIPT/Javascript.pdf",
     "02 Estudo/Kevin Beaver - Hacking Para Leigos.pdf",
     "02 Estudo/Valente - Engenharia De Software Moderna.epub",
