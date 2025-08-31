@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - JAVASCRIPT/10 - FUNÇÕES.md",
+                "file": "04 - JAVASCRIPT/15 JS ASSINCRONO/05 - ASYNC X AWAIT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "10 - FUNÇÕES"
+              "title": "05 - ASYNC X AWAIT"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "slice",
+                "query": "array.from",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/10 - FUNÇÕES.md",
+                "file": "04 - JAVASCRIPT/15 JS ASSINCRONO/05 - ASYNC X AWAIT.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 10 - FUNÇÕES"
+              "title": "Sumário de 05 - ASYNC X AWAIT"
             }
           },
           {
@@ -193,7 +193,17 @@
   },
   "active": "77495ef2cedccb46",
   "lastOpenFiles": [
+    "04 - JAVASCRIPT/15 JS ASSINCRONO/05 - PROMISES.md",
+    "04 - JAVASCRIPT/15 JS ASSINCRONO/05 - ASYNC X AWAIT.md",
+    "04 - JAVASCRIPT/15 JS ASSINCRONO/04 - METODOS HTTP.md",
+    "04 - JAVASCRIPT/15 JS ASSINCRONO/03 - FETCH API.md",
+    "04 - JAVASCRIPT/15 JS ASSINCRONO/02 - SCRIPTS ASYNC X DEFER.md",
+    "04 - JAVASCRIPT/15 JS ASSINCRONO/01 - SINCRONO X ASSINCRONO.md",
     "04 - JAVASCRIPT/14 PROGRAMACAO FUNCIONAL/02 - CURRYING.md",
+    "04 - JAVASCRIPT/15 JS ASSINCRONO",
+    "04 - JAVASCRIPT/10 MAPS E SETS/01 - SETS E WEAKSETS.md",
+    "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
+    "04 - JAVASCRIPT/10 - FUNÇÕES.md",
     "04 - JAVASCRIPT/14 PROGRAMACAO FUNCIONAL/01 - PROGRAMACAO FUNCIONAL.md",
     "04 - JAVASCRIPT/01 - INTRODUÇÃO.md",
     "04 - JAVASCRIPT/13 RECURSAO/01 - RECURSAO.md",
@@ -212,16 +222,7 @@
     "04 - JAVASCRIPT/06 REGEX/01 - SUBSTITUIR EM MASSA.md",
     "04 - JAVASCRIPT/14 - REDUCE METHOD.md",
     "04 - JAVASCRIPT/03 - GRAMÁTICA E TIPOS.md",
-    "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
     "04 - JAVASCRIPT/07 - ESTRUTURAS DE REPETIÇÃO.md",
-    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/17 - DOM E NÓS.md",
-    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/19 - INTERFACES NAVIGATOR WINDOW DOCUMENT.md",
-    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/19 - ADD AND REMOVE NODES.md",
-    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/18 - INNERTEXT X TEXTCONTENT X INNERHTML.md",
-    "04 - JAVASCRIPT/04 DOM MANIPULATION AND EVENTS/18 - CRIANDO NODES.md",
-    "04 - JAVASCRIPT/10 MAPS E SETS/02 - MAP E WEAKMAP.md",
-    "04 - JAVASCRIPT/12 - OPERADORES LÓGICOS.md",
-    "04 - JAVASCRIPT/09 - NUMEROS.md",
     "04 - JAVASCRIPT/Javascript.pdf",
     "02 Estudo/Kevin Beaver - Hacking Para Leigos.pdf",
     "02 Estudo/Valente - Engenharia De Software Moderna.epub",
@@ -230,7 +231,6 @@
     "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD",
     "05 - NODE/MVC.canvas",
     "04 - JAVASCRIPT/10 MAPS E SETS",
-    "04 - JAVASCRIPT/09 AUDIO E VIDEO",
     "Pasted image 20250714170029.png",
     "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
     "00 - ASSETS/images/Pasted image 20240224154121.png",
