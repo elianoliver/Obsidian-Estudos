@@ -65,3 +65,15 @@ Ao tocar nesses livros, Subaru e Julius tiveram uma experiência de "viver indir
 Ficou claro que a biblioteca foi projetada por alguém com uma personalidade muito perversa, pois cada livro contém as memórias de uma pessoa específica, o que significa que essa pessoa poderia ter acesso às memórias de qualquer pessoa do mundo.
 
 Anastasia concluiu que essa biblioteca com os livros de todos os indivíduos, vivos ou mortos, é uma ferramenta extremamente poderosa e perigosa nas mãos de quem a construiu.
+
+# CAP 24
+
+Subaru, Emilia, Julius e Anastasia estavam explorando a Grande Biblioteca das Plêiades no 3º andar da Torre de Vigia, procurando pistas sobre como chegar ao 2º andar.
+
+Eles conversaram com Shaula, a vigia da Torre, que revelou algumas regras que eles devem seguir: não podem sair da Biblioteca sem completar o Teste, não podem quebrar as regras do Teste, não podem desrespeitar a Biblioteca e não podem tentar destruir a Torre.
+
+Emilia sugeriu que eles tentem imaginar a perspectiva da pessoa que construiu a Torre, que provavelmente tem uma personalidade desonesta, para entender melhor as regras ocultas.
+
+Seguindo essa pista, Emilia conseguiu deduzir que a escada para o 2º andar, chamado Electra, ficava em um lugar que eles não haviam olhado antes, próximo à Sala Verde no 3º andar.
+
+Quando encontraram a escada, Subaru ficou irritado, pois ela estava bem ao lado da área que eles já haviam explorado, sugerindo que a pessoa que construiu a Torre tinha uma personalidade "muito ruim".

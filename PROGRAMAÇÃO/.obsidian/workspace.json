@@ -26,15 +26,10 @@
             "id": "77495ef2cedccb46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-22.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Arco 6 - Cap 17-22"
+              "title": "Nova aba"
             }
           }
         ],
@@ -111,13 +106,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-22.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Arco 6 - Cap 17-22"
+              "title": "Sumário"
             }
           },
           {
