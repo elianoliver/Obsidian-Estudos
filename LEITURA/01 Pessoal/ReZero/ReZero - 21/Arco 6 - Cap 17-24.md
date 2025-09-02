@@ -77,3 +77,15 @@ Emilia sugeriu que eles tentem imaginar a perspectiva da pessoa que construiu a 
 Seguindo essa pista, Emilia conseguiu deduzir que a escada para o 2º andar, chamado Electra, ficava em um lugar que eles não haviam olhado antes, próximo à Sala Verde no 3º andar.
 
 Quando encontraram a escada, Subaru ficou irritado, pois ela estava bem ao lado da área que eles já haviam explorado, sugerindo que a pessoa que construiu a Torre tinha uma personalidade "muito ruim".
+
+# CAP 25
+
+O capítulo começa com o grupo chegando ao 2º andar da Torre, chamado 'Electra'. Eles se deparam com uma grande escadaria que os leva diretamente ao 2º andar, ao invés de passar pelo 3º andar. 
+
+Ao subirem as escadas, eles chegam a uma sala branca semelhante ao teste do 3º andar. No centro da sala, há uma espada fincada no chão, que Subaru consegue retirar facilmente. Isso faz com que uma voz ecoante repita a frase "Ganhe seu perdão, pela mão do Tolo que alcançou a Espada Celestial".
+
+Então, surge a figura de um homem misterioso, com cabelos vermelhos e um semblante selvagem e insano. Ele também repete a mesma frase, deixando o grupo em alerta. O homem se mostra hostil e instável emocionalmente, assustando principalmente Shaula.
+
+Julius tenta se apresentar ao homem, que se refere a si mesmo apenas como "Balançador de Vara". Fica claro que este homem é o examinador do teste do 2º andar, e que para passar, o grupo terá que conseguir mover o homem de onde ele está, o que parece ser uma tarefa extremamente difícil.
+
+O capítulo termina com o início do teste do 2º andar, com o grupo enfrentando este estranho e perigoso examinador.
