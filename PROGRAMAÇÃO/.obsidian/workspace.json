@@ -26,15 +26,10 @@
             "id": "77495ef2cedccb46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - JAVASCRIPT/15 JS ASSINCRONO/08 - GEOLOCATION API.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "08 - GEOLOCATION API"
+              "title": "Nova aba"
             }
           }
         ],
@@ -111,13 +106,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/15 JS ASSINCRONO/08 - GEOLOCATION API.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 08 - GEOLOCATION API"
+              "title": "Sumário"
             }
           },
           {
