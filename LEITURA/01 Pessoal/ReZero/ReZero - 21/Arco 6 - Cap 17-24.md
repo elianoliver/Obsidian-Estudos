@@ -89,3 +89,13 @@ Então, surge a figura de um homem misterioso, com cabelos vermelhos e um sembla
 Julius tenta se apresentar ao homem, que se refere a si mesmo apenas como "Balançador de Vara". Fica claro que este homem é o examinador do teste do 2º andar, e que para passar, o grupo terá que conseguir mover o homem de onde ele está, o que parece ser uma tarefa extremamente difícil.
 
 O capítulo termina com o início do teste do 2º andar, com o grupo enfrentando este estranho e perigoso examinador.
+
+# CAP 26
+
+O capítulo se passa na 2ª provação do 2º andar da Torre de Vigilância Pleiades, chamada "Balançador de Vara". Um homem misterioso e extremamente habilidoso, que se autodenomina "Balançador de Vara", enfrenta os membros do grupo de Subaru um a um.
+
+Primeiro, ele luta contra Julius, um cavaleiro habilidoso, e derrota-o facilmente usando apenas um par de pauzinhos de madeira, demonstrando habilidades de combate incríveis. 
+
+Em seguida, Anastasia tenta atacá-lo com magia, mas também é incapaz de feri-lo. Emilia então decide enfrentá-lo, propondo uma condição: se ela conseguir fazer o homem dar apenas um passo, ela vence. Apesar de Emilia lutar bravamente usando sua Ice Brand Arts, ela acaba cometendo um erro que deixa ela vulnerável, e o homem a agride de forma obscena. No entanto, Emilia consegue atingi-lo na cabeça, fazendo-o recuar.
+
+Reconhecendo a derrota, o homem aceita que Emilia venceu a provação. Porém, ele então revela que há mais sete pessoas para passar por essa provação, deixando Subaru apreensivo sobre o que está por vir.

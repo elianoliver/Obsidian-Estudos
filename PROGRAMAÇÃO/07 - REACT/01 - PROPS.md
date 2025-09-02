@@ -1,5 +1,3 @@
-## O que são props?
-
 **Props** (abreviação de _properties_) são **valores que um componente pai envia para um componente filho**. Com elas, é possível **personalizar o comportamento e a exibição** de um componente sem alterar seu código interno.
 
 ## Exemplo básico sem props
