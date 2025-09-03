@@ -49,7 +49,6 @@ Lembre-se de que, ao usar cores com valores de opacidade ou a propriedade `opaci
 ## BACKGROUND-IMAGE
 O atributo `background-image` é uma propriedade utilizada em CSS para definir uma imagem de plano de fundo para um elemento HTML. Ele permite adicionar um componente visual interessante e personalizado a elementos, como divs, seções ou até mesmo a página inteira.
 
-**Sintaxe**
 A sintaxe básica para usar o atributo `background-image` é a seguinte:
 ```css
 seletor {
@@ -64,44 +63,44 @@ Onde:
 **Possíveis Valores**
 Existem várias formas de especificar o valor para o atributo `background-image`. Aqui estão alguns exemplos:
 
-1. Caminho para a imagem
+### 1. Caminho para a imagem
 O valor mais simples é fornecer o caminho para a imagem que você deseja usar:
 ```css
 background-image: url("caminho/para/imagem.jpg");
 ```
 
-2. Imagem Gradiente
+### 2. Imagem Gradiente
 Você também pode usar um gradiente como plano de fundo. Isso é especialmente útil quando você deseja criar transições suaves entre cores:
 ```css
 background-image: linear-gradient(to bottom, #ffcc00, #ff3300);
 ```
 
-3. Múltiplas Imagens
+### 3. Múltiplas Imagens
 É possível definir várias imagens para o plano de fundo, e elas serão empilhadas uma em cima da outra:
 ```css
 background-image: url("imagem1.jpg"), url("imagem2.jpg");
 ```
 
-4. Imagem Fixa ou Rolante
+### 4. Imagem Fixa ou Rolante
 Você pode controlar se a imagem de plano de fundo rola com o conteúdo da página ou permanece fixa usando a propriedade `background-attachment`:
 ```css
 background-image: url("imagem.jpg");
 background-attachment: fixed; /* ou scroll */
 ```
 
-5. `linear-gradient`
+### 5. `linear-gradient`
 O `linear-gradient` cria um gradiente linear, ou seja, uma transição de cores em linha reta. É definido especificando a direção em que as cores se misturam.
 ```css
 background-image: linear-gradient(to bottom, #ff0000, #00ff00);
 ```
 
-6. `radial-gradient`
+### 6. `radial-gradient`
 O `radial-gradient` cria um gradiente que irradia a partir de um ponto central para as bordas do elemento. Isso é útil para criar efeitos de luz e brilho.
 ```css
 background-image: radial-gradient(circle, #ffcc00, #ff3300);
 ```
 
-3. `conic-gradient`
+### 7. `conic-gradient`
 O `conic-gradient` é um tipo de gradiente angular que cria círculos concêntricos de cores que se espalham a partir de um ponto central. Isso é útil para criar gráficos de pizza coloridos e outras representações angulares.
 ```css
 background-image: conic-gradient(from 0deg, blue, green, yellow, red);
