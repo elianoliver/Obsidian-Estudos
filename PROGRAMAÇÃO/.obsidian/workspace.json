@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - REACT/02 - STATE.md",
+                "file": "02 - HTML/6.2 - TIPOS DE INPUTS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "02 - STATE"
+              "title": "6.2 - TIPOS DE INPUTS"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "slice",
+                "query": "includes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 - REACT/02 - STATE.md",
+                "file": "02 - HTML/6.2 - TIPOS DE INPUTS.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 02 - STATE"
+              "title": "Sumário de 6.2 - TIPOS DE INPUTS"
             }
           },
           {
@@ -193,6 +193,12 @@
   },
   "active": "77495ef2cedccb46",
   "lastOpenFiles": [
+    "02 - HTML/6.1 - ELEMENTOS DO FORM.md",
+    "02 - HTML/06 - FORMULARIOS.md",
+    "03 - CSS/14 - FLEXBOX.md",
+    "07 - REACT/05 - FORMS.md",
+    "07 - REACT/05 - CUSTOM HOOKS.md",
+    "07 - REACT/02 - STATE.md",
     "07 - REACT/01 - COMPONENTES CRIAÇÃO.md",
     "07 - REACT/00 - VITE CONFIGURAÇÃO.md",
     "07 - REACT/00 - INTRODUÇÃO - 1.md",
@@ -200,13 +206,10 @@
     "07 - REACT/00 - INTRODUÇÃO - 3.md",
     "07 - REACT/02 - ESTILOS INLINE.md",
     "07 - REACT/02 - EVENTOS.md",
-    "07 - REACT/02 - STATE.md",
     "07 - REACT/04 - ATUALIZAR ARRAYS.md",
     "07 - REACT/04 - ATUALIZAR OBJETOS.md",
-    "07 - REACT/05 - CUSTOM HOOKS.md",
     "07 - REACT/04 - USE EFFECT.md",
     "07 - REACT/05 - USE ACTION STATE.md",
-    "07 - REACT/05 - FORMS.md",
     "07 - REACT/04 - USE REF.md",
     "07 - REACT/01 - PROPS.md",
     "07 - REACT/01 - COMPONENTES IMPORTAÇÃO.md",
@@ -216,9 +219,6 @@
     "04 - JAVASCRIPT/15 JS ASSINCRONO/05 - PROMISES.md",
     "04 - JAVASCRIPT/15 JS ASSINCRONO/03 - FETCH API.md",
     "04 - JAVASCRIPT/09 - STRINGS.md",
-    "04 - JAVASCRIPT/08 - ARRAYS.md",
-    "04 - JAVASCRIPT/07 - ESTRUTURAS DE REPETIÇÃO.md",
-    "04 - JAVASCRIPT/15 JS ASSINCRONO/07 - JS ENGINE E JS RUNTIME.md",
     "04 - JAVASCRIPT/15 JS ASSINCRONO",
     "04 - JAVASCRIPT/14 PROGRAMACAO FUNCIONAL",
     "Excalidraw",
