@@ -257,7 +257,7 @@ Além disso, você pode combinar o atributo `background-repeat` com outros atrib
 
 Em resumo, o atributo `background-repeat` é uma ferramenta importante para controlar como imagens de fundo se repetem em elementos HTML, permitindo uma variedade de configurações visuais para atender às necessidades de design.
 ## BACKGROUND-ATTACHMENT
-Claro! O atributo `background-attachment` é utilizado em CSS para definir como uma imagem de fundo (background) se comporta em relação ao conteúdo da página. Ele determina se a imagem de fundo rola juntamente com o conteúdo enquanto o usuário faz scroll ou se permanece fixa em sua posição original. Aqui estão os possíveis valores desse atributo, junto com exemplos e algumas combinações com outros atributos `background`:
+O atributo `background-attachment` é utilizado em CSS para definir como uma imagem de fundo (background) se comporta em relação ao conteúdo da página. Ele determina se a imagem de fundo rola juntamente com o conteúdo enquanto o usuário faz scroll ou se permanece fixa em sua posição original. Aqui estão os possíveis valores desse atributo, junto com exemplos e algumas combinações com outros atributos `background`:
 
 **Possíveis valores**
 
