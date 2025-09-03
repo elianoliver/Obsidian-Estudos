@@ -1,7 +1,7 @@
 ## **O que são bibliotecas e frameworks?**
 
 - **Bibliotecas**: são **coleções de funções prontas** para tarefas específicas, como manipular o DOM, fazer requisições AJAX ou trabalhar com datas.
-    
+
 - **Frameworks**: são **estruturas completas** que definem regras e padrões para construir aplicações inteiras, guiando o desenvolvedor em como organizar e escrever seu código.
 
 ## Diferença principal
@@ -13,7 +13,7 @@
 ## Exemplo de biblioteca: jQuery
 
 - Facilitava tarefas complicadas como animações e eventos no início da web moderna.
-    
+
 - Hoje é menos usado, mas foi muito importante no passado.
 
 ## Exemplo de framework: Angular
