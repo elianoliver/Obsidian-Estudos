@@ -111,3 +111,13 @@ Quando voltaram para a Sala Verde, descobriram que o "Balançador de Vara" é na
 Julius, que havia sido derrotado por Reid, estava deitado em uma das camas na Sala Verde, com sua espada de cavaleiro quebrada ao lado.
 
 O capítulo termina com Reid acordando e se preparando para enfrentar Julius novamente.
+
+# CAP 28
+
+O capítulo acompanha uma batalha entre Julius Juukulius, um cavaleiro da Guarda Real de Lugnica e Reid. Julius tenta provar seu valor como o "Maior Cavaleiro", mas é repetidamente derrotado pelos ataques habilidosos de Reid usando apenas pauzinhos de madeira.
+
+Durante a luta, Julius reflete sobre sua vida e como ele perdeu tudo - seu nome, reputação, família, mestre e amigos. A única coisa que lhe resta é sua própria "força", que ele se esforça para manter. Mesmo quando Julius perde sua espada, Reid o desafia a mostrar do que é capaz.
+
+No clímax da batalha, Reid usa um ataque definitivo de espada que envolve Julius em uma luz brilhante. Nesse momento, uma voz angustiada grita o nome de Julius, que sorri ao ouvir isso antes de sua consciência ser engolida pela luz.
+
+O capítulo termina com Julius questionando se ainda é digno de ser chamado por seu nome, enquanto sua consciência é consumida.
