@@ -51,17 +51,16 @@ No exemplo fornecido, temos um componente chamado `ExpensiveSquare` que calcula 
 
 ```javascript
 function ExpensiveSquare({ num }) {
-  function calculateSquare(n) {
-    console.log("Calculating square...");
-    return n * n;
-  }
 
-  const squared = calculateSquare(num);
-  return (
-    <p>
-      Square of {num}: {squared}
-    </p>
-  );
+	function calculateSquare(n) {
+		console.log("Calculating square...");
+		return n * n;
+	}
+
+	const squared = calculateSquare(num);
+		return (
+			<p>Square of {num}: {squared}</p>
+		);
 }
 ```
 
@@ -78,7 +77,7 @@ function App() {
   useEffect(() => {
     const interval = setInterval(() => setTimer((c) => c + 1), 1000);
     return () => clearInterval(interval);
-  }, []);
+  }, []); // uma vez, quando o componente é montado
 
   return (
     <div>
@@ -96,8 +95,6 @@ Aqui, o componente `App` tem:
 - O componente `ExpensiveSquare` que calcula o quadrado de `num`.
 
 **Problema**: Toda vez que o `timer` muda (a cada segundo), o componente `App` re-renderiza, o que faz com que `ExpensiveSquare` também seja re-renderizado. Isso significa que a função `calculateSquare` é chamada novamente, mesmo que `num` não tenha mudado. Isso é ineficiente, especialmente se `calculateSquare` fosse uma função mais complexa.
-
----
 
 #### Solução com useMemo
 
