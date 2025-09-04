@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - CSS/03 - BACKGROUND.md",
+                "file": "07 - REACT/08 - MEMOIZATION E USEMEMO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "03 - BACKGROUND"
+              "title": "08 - MEMOIZATION E USEMEMO"
             }
           }
         ]
@@ -95,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - CSS/03 - BACKGROUND.md",
+                "file": "07 - REACT/08 - MEMOIZATION E USEMEMO.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 03 - BACKGROUND"
+              "title": "Sumário de 08 - MEMOIZATION E USEMEMO"
             }
           },
           {
@@ -177,11 +177,13 @@
   },
   "active": "9ff4772d7475adcd",
   "lastOpenFiles": [
+    "07 - REACT/07 - USE OPTIMISTIC.md",
+    "07 - REACT/08 - MEMOIZATION E USEMEMO.md",
+    "03 - CSS/03 - BACKGROUND.md",
     "03 - CSS/14 - FLEXBOX.md",
     "02 - HTML/04 - TAGS AUDIO VISUAIS.md",
     "02 - HTML/02 - TAGS BODY.md",
     "04 - JAVASCRIPT/15 JS ASSINCRONO/02 - SCRIPTS ASYNC X DEFER.md",
-    "07 - REACT/07 - USE OPTIMISTIC.md",
     "07 - REACT/06 - DATA FETCHING.md",
     "07 - REACT/05 - USE ACTION STATE.md",
     "07 - REACT/05 - FORMS.md",
@@ -202,8 +204,6 @@
     "07 - REACT/02 - ESTILOS INLINE.md",
     "07 - REACT/02 - EVENTOS.md",
     "07 - REACT/04 - ATUALIZAR ARRAYS.md",
-    "07 - REACT/04 - ATUALIZAR OBJETOS.md",
-    "07 - REACT/04 - USE EFFECT.md",
     "04 - JAVASCRIPT/15 JS ASSINCRONO",
     "04 - JAVASCRIPT/14 PROGRAMACAO FUNCIONAL",
     "Excalidraw",
