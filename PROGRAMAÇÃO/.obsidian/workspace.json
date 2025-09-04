@@ -11,15 +11,10 @@
             "id": "9ff4772d7475adcd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 - REACT/08 - MEMOIZATION E USEMEMO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "08 - MEMOIZATION E USEMEMO"
+              "title": "Nova aba"
             }
           }
         ]
@@ -95,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 - REACT/08 - MEMOIZATION E USEMEMO.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 08 - MEMOIZATION E USEMEMO"
+              "title": "Sumário"
             }
           },
           {
@@ -177,8 +171,15 @@
   },
   "active": "9ff4772d7475adcd",
   "lastOpenFiles": [
-    "07 - REACT/04 - USE EFFECT.md",
+    "04 - JAVASCRIPT/06 REGEX/regex.png",
+    "04 - JAVASCRIPT/06 REGEX/01 - EXPRESSÕES REGULARES.md",
+    "11 - REGEX/03 - AGRUPAMENTO.md",
+    "11 - REGEX/01 - MATCHES BÁSICOS.md",
+    "11 - REGEX/00 - INTRODUÇÃO.md",
+    "04 - JAVASCRIPT/06 REGEX/01 - FLAGS REGEX.md",
+    "04 - JAVASCRIPT/06 REGEX/03 - GRUPOS DE CAPTURA E BACKREFERENCES.md",
     "07 - REACT/08 - MEMOIZATION E USEMEMO.md",
+    "07 - REACT/04 - USE EFFECT.md",
     "04 - JAVASCRIPT/09 - NUMEROS.md",
     "04 - JAVASCRIPT/08 - ARRAYS.md",
     "04 - JAVASCRIPT/09 - STRINGS.md",
@@ -197,13 +198,6 @@
     "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-26.md",
     "Excalidraw/Drawing 2025-08-29 20.01.14.excalidraw.md",
     "02 - HTML/6.2 - TIPOS DE INPUTS.md",
-    "02 - HTML/6.1 - ELEMENTOS DO FORM.md",
-    "02 - HTML/06 - FORMULARIOS.md",
-    "07 - REACT/05 - CUSTOM HOOKS.md",
-    "07 - REACT/01 - COMPONENTES CRIAÇÃO.md",
-    "07 - REACT/00 - VITE CONFIGURAÇÃO.md",
-    "07 - REACT/00 - INTRODUÇÃO - 1.md",
-    "07 - REACT/00 - INTRODUÇÃO - 2.md",
     "04 - JAVASCRIPT/15 JS ASSINCRONO",
     "04 - JAVASCRIPT/14 PROGRAMACAO FUNCIONAL",
     "Excalidraw",
@@ -212,7 +206,6 @@
     "02 Estudo/Kevin Beaver - Hacking Para Leigos.pdf",
     "02 Estudo/Valente - Engenharia De Software Moderna.epub",
     "04 - JAVASCRIPT/12 CLASSES",
-    "04 - JAVASCRIPT/06 REGEX/regex.png",
     "04 - JAVASCRIPT/11 LOCAL STORAGE E CRUD",
     "05 - NODE/MVC.canvas",
     "Pasted image 20250714170029.png",
