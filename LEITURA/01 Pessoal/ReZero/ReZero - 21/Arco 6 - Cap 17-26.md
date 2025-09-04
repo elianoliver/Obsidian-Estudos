@@ -99,3 +99,15 @@ Primeiro, ele luta contra Julius, um cavaleiro habilidoso, e derrota-o facilment
 Em seguida, Anastasia tenta atacá-lo com magia, mas também é incapaz de feri-lo. Emilia então decide enfrentá-lo, propondo uma condição: se ela conseguir fazer o homem dar apenas um passo, ela vence. Apesar de Emilia lutar bravamente usando sua Ice Brand Arts, ela acaba cometendo um erro que deixa ela vulnerável, e o homem a agride de forma obscena. No entanto, Emilia consegue atingi-lo na cabeça, fazendo-o recuar.
 
 Reconhecendo a derrota, o homem aceita que Emilia venceu a provação. Porém, ele então revela que há mais sete pessoas para passar por essa provação, deixando Subaru apreensivo sobre o que está por vir.
+
+# CAP 27
+
+Subaru e seu grupo enfrentaram o "Balançador de Vara" no segundo andar da Torre de Vigia Pleiades. Apesar de Emilia ter conseguido vencê-lo anteriormente, agora o homem se mostrou muito mais forte, ao nível de Reinhard, o cavaleiro mais poderoso.
+
+Temendo pela segurança do grupo, eles decidiram recuar. Beatrice revelou que Anastasia não pode usar magia além de seu próprio od, o que pode ser fatal para ela.
+
+Quando voltaram para a Sala Verde, descobriram que o "Balançador de Vara" é na verdade Reid Astrea, o famoso "Santo Espadachim" da lenda, que deveria ter morrido há 400 anos. 
+
+Julius, que havia sido derrotado por Reid, estava deitado em uma das camas na Sala Verde, com sua espada de cavaleiro quebrada ao lado.
+
+O capítulo termina com Reid acordando e se preparando para enfrentar Julius novamente.

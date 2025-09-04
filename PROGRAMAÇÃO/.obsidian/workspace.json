@@ -11,10 +11,15 @@
             "id": "9ff4772d7475adcd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "07 - REACT/08 - MEMOIZATION E USEMEMO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "08 - MEMOIZATION E USEMEMO"
             }
           }
         ]
@@ -90,12 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "07 - REACT/08 - MEMOIZATION E USEMEMO.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 08 - MEMOIZATION E USEMEMO"
             }
           },
           {
@@ -171,6 +177,7 @@
   },
   "active": "9ff4772d7475adcd",
   "lastOpenFiles": [
+    "03 - CSS/02 - SELETORES CSS.md",
     "07 - REACT/08 - MEMOIZATION E USEMEMO.md",
     "07 - REACT/07 - USE OPTIMISTIC.md",
     "03 - CSS/03 - BACKGROUND.md",
@@ -197,7 +204,6 @@
     "07 - REACT/00 - INTRODUÇÃO - 3.md",
     "07 - REACT/02 - ESTILOS INLINE.md",
     "07 - REACT/02 - EVENTOS.md",
-    "07 - REACT/04 - ATUALIZAR ARRAYS.md",
     "04 - JAVASCRIPT/15 JS ASSINCRONO",
     "04 - JAVASCRIPT/14 PROGRAMACAO FUNCIONAL",
     "Excalidraw",

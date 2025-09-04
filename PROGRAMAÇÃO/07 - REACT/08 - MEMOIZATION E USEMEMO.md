@@ -26,8 +26,6 @@ Para evitar cálculos redundantes e melhorar a performance, o React oferece ferr
 - **`useMemo`**: Um hook que memoiza valores computados.
 - **`useCallback`**: Um hook que memoiza referências a funções.
 
-Neste resumo, vamos focar no **useMemo**.
-
 ## O que é o Hook useMemo?
 
 O **useMemo** é um hook do React que permite memoizar **valores computados** (resultados de funções) para evitar que cálculos caros sejam refeitos desnecessariamente durante re-renderizações. Ele é usado quando você quer garantir que um valor seja recalculado apenas quando suas dependências mudam.
