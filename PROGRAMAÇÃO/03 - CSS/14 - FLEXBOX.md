@@ -22,6 +22,7 @@ Quando utilizamos o _Flexbox_, é muito importante saber quais propriedades sã
 - [[#A Propriedade `flex`]]
 - [[#A Propriedade `align-self`]]
 
+# Elemento Pai
 
 ## A Propriedade `flex-direction`
 A propriedade `flex-direction` é usada para definir a direção principal ao longo da qual os elementos flexíveis (itens) serão dispostos dentro de um contêiner flexível (pai). Existem quatro valores possíveis para `flex-direction`, cada um afetando a organização dos itens de maneira diferente:
@@ -208,8 +209,7 @@ Aqui está um exemplo de como a propriedade `align-content` pode ser aplicada em
 
 Neste exemplo, estamos criando um contêiner com a classe `.container` e aplicando `display: flex;` para habilitar o Flexbox. A propriedade `flex-wrap` está sendo usada para permitir a quebra de itens em várias linhas, se necessário. A propriedade `align-content` é usada para centralizar verticalmente todo o conjunto de itens dentro do contêiner.
 
----
-
+# Elemento Filho
 
 ## A Propriedade `order`
 O atributo `order` é usado para controlar a ordem em que os itens flexíveis são exibidos dentro de um contêiner flexível. Ele permite que você reorganize visualmente os elementos sem alterar a estrutura real do HTML. O valor padrão para `order` é 0, e os itens com valores menores aparecem primeiro. Valores negativos são permitidos, tornando possível a reorganização completa dos itens.
