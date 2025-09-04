@@ -121,3 +121,19 @@ Durante a luta, Julius reflete sobre sua vida e como ele perdeu tudo - seu nome,
 No clímax da batalha, Reid usa um ataque definitivo de espada que envolve Julius em uma luz brilhante. Nesse momento, uma voz angustiada grita o nome de Julius, que sorri ao ouvir isso antes de sua consciência ser engolida pela luz.
 
 O capítulo termina com Julius questionando se ainda é digno de ser chamado por seu nome, enquanto sua consciência é consumida.
+
+# CAP 29
+
+Este capítulo descreve o que aconteceu após a derrota de Julius contra Reid, o "Balançador de Vara". Alguns pontos-chave:
+
+Subaru encontra Julius inconsciente e o carrega de volta pelas escadas da Torre de Vigia.
+
+Julius acorda durante a descida e conversa com Subaru. Ele revela que suspeitava que Reid fosse o lendário "Primeiro Santo da Espada", mas não tinha certeza.
+
+Subaru explica que Emilia conseguiu passar no teste de Reid, dando esperança de que eles possam derrotá-lo.
+
+Julius fica relutante em ser carregado por Subaru, querendo descer as escadas sozinho, apesar de seu estado debilitado. Subaru insiste em ajudá-lo.
+
+Subaru entende que Julius, assim como ele mesmo antes, desafiou Reid sozinho, movido por emoções tempestuosas, mesmo sabendo que não poderia vencê-lo.
+
+Subaru decide não deixar Julius sozinho naquela situação, apoiando-o durante a descida das escadas. Julius acaba se desculpando.
