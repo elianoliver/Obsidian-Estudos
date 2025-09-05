@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - CSS/15 - GRID.md",
+                "file": "13 - DESIGN RESPONSIVO/00 - INTRODUCAO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "15 - GRID"
+              "title": "00 - INTRODUCAO"
             }
           }
         ]
@@ -95,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - CSS/15 - GRID.md",
+                "file": "13 - DESIGN RESPONSIVO/00 - INTRODUCAO.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 15 - GRID"
+              "title": "Sumário de 00 - INTRODUCAO"
             }
           },
           {
@@ -177,8 +177,12 @@
   },
   "active": "9ff4772d7475adcd",
   "lastOpenFiles": [
-    "03 - CSS/14 - FLEXBOX.md",
+    "13 - DESIGN RESPONSIVO/02 - METATAG VIEWPORT.md",
+    "13 - DESIGN RESPONSIVO/01 - MEDIDAS.md",
+    "13 - DESIGN RESPONSIVO/00 - INTRODUCAO.md",
+    "13 - DESIGN RESPONSIVO/06 - MOBILE FIRST.md",
     "03 - CSS/15 - GRID.md",
+    "03 - CSS/14 - FLEXBOX.md",
     "03 - CSS/2.1 - PRÉ PROCESSADORES CSS.md",
     "03 - CSS/02 - SELETORES CSS.md",
     "02 - HTML/6.2 - TIPOS DE INPUTS.md",
@@ -200,11 +204,7 @@
     "02 - HTML/02 - TAGS BODY.md",
     "04 - JAVASCRIPT/15 JS ASSINCRONO/02 - SCRIPTS ASYNC X DEFER.md",
     "07 - REACT/06 - DATA FETCHING.md",
-    "07 - REACT/05 - USE ACTION STATE.md",
-    "07 - REACT/05 - FORMS.md",
-    "07 - REACT/02 - STATE.md",
     "02 Estudo/JavaScript/JavaScriptNotesForProfessionals.pdf",
-    "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-26.md",
     "04 - JAVASCRIPT/15 JS ASSINCRONO",
     "04 - JAVASCRIPT/14 PROGRAMACAO FUNCIONAL",
     "Excalidraw",
