@@ -137,3 +137,15 @@ Julius fica relutante em ser carregado por Subaru, querendo descer as escadas so
 Subaru entende que Julius, assim como ele mesmo antes, desafiou Reid sozinho, movido por emoções tempestuosas, mesmo sabendo que não poderia vencê-lo.
 
 Subaru decide não deixar Julius sozinho naquela situação, apoiando-o durante a descida das escadas. Julius acaba se desculpando.
+
+# CAP 30
+
+O capítulo começa com Emilia insistindo que Julius descanse e se recupere de seus ferimentos na Sala Verde. Subaru e Emilia deixam Julius sob os cuidados de Patrasche e vão se encontrar com os outros no 4º Andar.
+
+Eles discutem sobre o segundo "Teste" do 2º Andar e as preocupações de Ram sobre as ações imprudentes de Julius terem colocado todo o grupo em risco. Subaru tenta defender Julius, dizendo que suas ações foram como "catapora viril".
+
+O grupo então conversa com Shaula, a guardiã do 2º Andar, tentando obter informações sobre Reid Astrea, o "Herói Lendário" que é o examinador deste teste. Porém, Shaula não revela muitos detalhes sobre ele.
+
+Beatrice sugere que a condição para passar o teste provavelmente envolve alguma forma de "entreter" Reid. O grupo começa a pensar em estratégias para convencer Reid a aceitar uma condição que possam cumprir.
+
+No final, Shaula revela que eles não podem sair da Torre de Vigia até completarem todos os testes. Ela deixa claro que, mesmo sendo o "Mestre" Subaru, ela não mostrará misericórdia se eles tentarem deixar a torre sem finalizar os testes.
