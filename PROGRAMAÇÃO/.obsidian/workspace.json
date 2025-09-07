@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - REACT/09 - USECALLBACK E REACTMEMO.md",
-                "mode": "source",
+                "file": "08 - TYPESCRIPT/00 - INSTALANDO TYPESCRIPT.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "09 - USECALLBACK E REACTMEMO"
+              "title": "00 - INSTALANDO TYPESCRIPT"
             }
           }
         ]
@@ -95,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 - REACT/09 - USECALLBACK E REACTMEMO.md",
+                "file": "08 - TYPESCRIPT/00 - INSTALANDO TYPESCRIPT.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 09 - USECALLBACK E REACTMEMO"
+              "title": "Sumário de 00 - INSTALANDO TYPESCRIPT"
             }
           },
           {
@@ -177,8 +177,12 @@
   },
   "active": "9ff4772d7475adcd",
   "lastOpenFiles": [
-    "07 - REACT/08 - MEMOIZATION E USEMEMO.md",
+    "08 - TYPESCRIPT/00 - TYPE ANNOTATIONS.md",
+    "08 - TYPESCRIPT/00 - TIPOS DE DADOS.md",
+    "08 - TYPESCRIPT/00 - INSTALANDO TYPESCRIPT.md",
+    "Excalidraw/Drawing 2025-08-29 20.01.14.excalidraw.md",
     "07 - REACT/09 - USECALLBACK E REACTMEMO.md",
+    "07 - REACT/08 - MEMOIZATION E USEMEMO.md",
     "04 - JAVASCRIPT/14 - REDUCE METHOD.md",
     "04 - JAVASCRIPT/14 - FILTER METHOD.md",
     "04 - JAVASCRIPT/13 - MAP METHOD.md",
@@ -200,10 +204,6 @@
     "03 - CSS/15 - GRID.md",
     "03 - CSS/14 - FLEXBOX.md",
     "03 - CSS/2.1 - PRÉ PROCESSADORES CSS.md",
-    "03 - CSS/02 - SELETORES CSS.md",
-    "02 - HTML/6.2 - TIPOS DE INPUTS.md",
-    "11 - REGEX/03 - AGRUPAMENTO.md",
-    "11 - REGEX/00 - INTRODUÇÃO.md",
     "02 Estudo/JavaScript/JavaScriptNotesForProfessionals.pdf",
     "04 - JAVASCRIPT/15 JS ASSINCRONO",
     "04 - JAVASCRIPT/14 PROGRAMACAO FUNCIONAL",
