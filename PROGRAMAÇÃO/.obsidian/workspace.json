@@ -11,10 +11,15 @@
             "id": "9ff4772d7475adcd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "07 - REACT/09 - USECALLBACK E REACTMEMO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "09 - USECALLBACK E REACTMEMO"
             }
           }
         ]
@@ -90,12 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "07 - REACT/09 - USECALLBACK E REACTMEMO.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 09 - USECALLBACK E REACTMEMO"
             }
           },
           {
@@ -171,6 +177,8 @@
   },
   "active": "9ff4772d7475adcd",
   "lastOpenFiles": [
+    "07 - REACT/08 - MEMOIZATION E USEMEMO.md",
+    "07 - REACT/09 - USECALLBACK E REACTMEMO.md",
     "04 - JAVASCRIPT/14 - REDUCE METHOD.md",
     "04 - JAVASCRIPT/14 - FILTER METHOD.md",
     "04 - JAVASCRIPT/13 - MAP METHOD.md",
@@ -196,8 +204,6 @@
     "02 - HTML/6.2 - TIPOS DE INPUTS.md",
     "11 - REGEX/03 - AGRUPAMENTO.md",
     "11 - REGEX/00 - INTRODUÇÃO.md",
-    "07 - REACT/08 - MEMOIZATION E USEMEMO.md",
-    "07 - REACT/04 - USE EFFECT.md",
     "02 Estudo/JavaScript/JavaScriptNotesForProfessionals.pdf",
     "04 - JAVASCRIPT/15 JS ASSINCRONO",
     "04 - JAVASCRIPT/14 PROGRAMACAO FUNCIONAL",
