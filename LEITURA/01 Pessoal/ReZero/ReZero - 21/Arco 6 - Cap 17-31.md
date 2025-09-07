@@ -159,3 +159,13 @@ Durante a pausa, Subaru e Beatrice exploraram o Quarto Andar da Torre, enquanto 
 Após a refeição, Julius se desculpou pelo seu comportamento anterior, e todos decidiram descansar para o dia seguinte. Subaru foi visitar Rem na Sala Verde, mas acabou adormecendo.
 
 Quando Subaru acordou, percebeu que Anastasia havia acordado e saído da Sala Verde sem avisar. Ao procurá-la, Subaru encontrou penas brancas no corredor e descobriu uma parede ilusória, que o levou para fora da Torre, onde ele encontrou Anastasia rodeada por pássaros no que parecia ser a sacada da Torre.
+
+# CAP 32
+
+O capítulo começa com Subaru chegando à varanda da Torre de Vigia das Plêiades, onde ele encontra Anastasia (ou na verdade, o espírito artificial Eridna atuando como Anastasia). Eles conversam sobre os estranhos pássaros que estão presentes na varanda.
+
+Eridna então revela sua verdadeira identidade para Subaru e eles conversam mais abertamente. Eridna explica que ela e Anastasia têm uma relação como a de um espírito e um usuário espiritual, e que o Od (energia vital) de Anastasia está sendo consumido à medida que Eridna se manifesta em seu lugar. 
+
+Eridna diz que Anastasia não desistirá de seu desejo de se tornar rainha, mesmo com seu tempo de vida limitado. Subaru fica preocupado com isso, mas Eridna afirma que é o desejo de Anastasia.
+
+Quando Subaru e Eridna estão conversando, Julius Juukulius chega à varanda e interrompe, parecendo surpreso com as palavras de Eridna.
