@@ -149,3 +149,13 @@ O grupo então conversa com Shaula, a guardiã do 2º Andar, tentando obter info
 Beatrice sugere que a condição para passar o teste provavelmente envolve alguma forma de "entreter" Reid. O grupo começa a pensar em estratégias para convencer Reid a aceitar uma condição que possam cumprir.
 
 No final, Shaula revela que eles não podem sair da Torre de Vigia até completarem todos os testes. Ela deixa claro que, mesmo sendo o "Mestre" Subaru, ela não mostrará misericórdia se eles tentarem deixar a torre sem finalizar os testes.
+
+# CAP 31
+
+A conquista do Segundo Andar da Torre de Vigia Plêiades foi adiada porque Subaru estava muito faminto e cansado após ficar desacordado por dois dias.
+
+Durante a pausa, Subaru e Beatrice exploraram o Quarto Andar da Torre, enquanto Emília e Ram prepararam a refeição. Houve uma breve discussão sobre a dieta de Shaula, que consiste em carne de Majuus.
+
+Após a refeição, Julius se desculpou pelo seu comportamento anterior, e todos decidiram descansar para o dia seguinte. Subaru foi visitar Rem na Sala Verde, mas acabou adormecendo.
+
+Quando Subaru acordou, percebeu que Anastasia havia acordado e saído da Sala Verde sem avisar. Ao procurá-la, Subaru encontrou penas brancas no corredor e descobriu uma parede ilusória, que o levou para fora da Torre, onde ele encontrou Anastasia rodeada por pássaros no que parecia ser a sacada da Torre.

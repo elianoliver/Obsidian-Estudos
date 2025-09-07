@@ -11,15 +11,10 @@
             "id": "9ff4772d7475adcd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-29.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Arco 6 - Cap 17-29"
+              "title": "Nova aba"
             }
           }
         ]
@@ -95,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-29.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Arco 6 - Cap 17-29"
+              "title": "Sumário"
             }
           },
           {
@@ -177,33 +171,33 @@
   },
   "active": "9ff4772d7475adcd",
   "lastOpenFiles": [
+    "04 - JAVASCRIPT/14 - REDUCE METHOD.md",
+    "04 - JAVASCRIPT/14 - FILTER METHOD.md",
+    "04 - JAVASCRIPT/13 - MAP METHOD.md",
+    "04 - JAVASCRIPT/06 REGEX/regex.png",
+    "04 - JAVASCRIPT/06 REGEX/03 - GRUPOS DE CAPTURA E BACKREFERENCES.md",
+    "04 - JAVASCRIPT/06 REGEX/02 - QUANTIFICADORES.md",
+    "04 - JAVASCRIPT/06 REGEX/02 - LOOKAHEAD E LOOKBEHIND.md",
+    "04 - JAVASCRIPT/06 REGEX/02 - CLASSES DE CARACTERES.md",
+    "04 - JAVASCRIPT/06 REGEX/01 - SUBSTITUIR EM MASSA.md",
+    "04 - JAVASCRIPT/06 REGEX/01 - FLAGS REGEX.md",
+    "04 - JAVASCRIPT/06 REGEX/01 - EXPRESSÕES REGULARES.md",
+    "11 - REGEX/02 - REPETIÇÕES.md",
+    "11 - REGEX/05 - FLAGS.md",
+    "11 - REGEX/01 - MATCHES BÁSICOS.md",
+    "13 - DESIGN RESPONSIVO/00 - INTRODUCAO.md",
     "13 - DESIGN RESPONSIVO/02 - METATAG VIEWPORT.md",
     "13 - DESIGN RESPONSIVO/01 - MEDIDAS.md",
-    "13 - DESIGN RESPONSIVO/00 - INTRODUCAO.md",
     "13 - DESIGN RESPONSIVO/06 - MOBILE FIRST.md",
     "03 - CSS/15 - GRID.md",
     "03 - CSS/14 - FLEXBOX.md",
     "03 - CSS/2.1 - PRÉ PROCESSADORES CSS.md",
     "03 - CSS/02 - SELETORES CSS.md",
     "02 - HTML/6.2 - TIPOS DE INPUTS.md",
-    "04 - JAVASCRIPT/06 REGEX/regex.png",
-    "04 - JAVASCRIPT/06 REGEX/01 - EXPRESSÕES REGULARES.md",
     "11 - REGEX/03 - AGRUPAMENTO.md",
-    "11 - REGEX/01 - MATCHES BÁSICOS.md",
     "11 - REGEX/00 - INTRODUÇÃO.md",
-    "04 - JAVASCRIPT/06 REGEX/01 - FLAGS REGEX.md",
-    "04 - JAVASCRIPT/06 REGEX/03 - GRUPOS DE CAPTURA E BACKREFERENCES.md",
     "07 - REACT/08 - MEMOIZATION E USEMEMO.md",
     "07 - REACT/04 - USE EFFECT.md",
-    "04 - JAVASCRIPT/09 - NUMEROS.md",
-    "04 - JAVASCRIPT/08 - ARRAYS.md",
-    "04 - JAVASCRIPT/09 - STRINGS.md",
-    "07 - REACT/07 - USE OPTIMISTIC.md",
-    "03 - CSS/03 - BACKGROUND.md",
-    "02 - HTML/04 - TAGS AUDIO VISUAIS.md",
-    "02 - HTML/02 - TAGS BODY.md",
-    "04 - JAVASCRIPT/15 JS ASSINCRONO/02 - SCRIPTS ASYNC X DEFER.md",
-    "07 - REACT/06 - DATA FETCHING.md",
     "02 Estudo/JavaScript/JavaScriptNotesForProfessionals.pdf",
     "04 - JAVASCRIPT/15 JS ASSINCRONO",
     "04 - JAVASCRIPT/14 PROGRAMACAO FUNCIONAL",
