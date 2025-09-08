@@ -169,3 +169,13 @@ Eridna então revela sua verdadeira identidade para Subaru e eles conversam mais
 Eridna diz que Anastasia não desistirá de seu desejo de se tornar rainha, mesmo com seu tempo de vida limitado. Subaru fica preocupado com isso, mas Eridna afirma que é o desejo de Anastasia.
 
 Quando Subaru e Eridna estão conversando, Julius Juukulius chega à varanda e interrompe, parecendo surpreso com as palavras de Eridna.
+
+# CAP 33
+
+O capítulo começa com Subaru, Eridna (que está usando o corpo de Anastasia) e Julius na Torre de Vigia das Plêiades. Julius descobre que Eridna está no corpo de Anastasia, pois a alma de Anastasia está adormecida. Eridna explica que seu objetivo é devolver o corpo à Anastasia.
+
+Julius fica abalado ao descobrir que Subaru estava ciente dessa situação e não lhe contou. Apesar disso, Julius decide confiar em Eridna por ora. Eles decidem contar a Emilia e os outros sobre a situação no dia seguinte.
+
+Após isso, Subaru fica sozinho nos corredores da torre. Ele encontra Ram, que também havia tentado subir ao segundo andar, mas não conseguiu devido à força de Reid Astrea, o examinador daquele nível.
+
+Subaru então decide fazer algo por conta própria durante a noite. Mais tarde, ele acorda em uma sala verde, com Emilia e Beatrice ao seu lado, além de um enorme lagarto. Subaru fica confuso e grita, acreditando ter sido invocado para um mundo paralelo.
