@@ -179,3 +179,13 @@ Julius fica abalado ao descobrir que Subaru estava ciente dessa situação e nã
 Após isso, Subaru fica sozinho nos corredores da torre. Ele encontra Ram, que também havia tentado subir ao segundo andar, mas não conseguiu devido à força de Reid Astrea, o examinador daquele nível.
 
 Subaru então decide fazer algo por conta própria durante a noite. Mais tarde, ele acorda em uma sala verde, com Emilia e Beatrice ao seu lado, além de um enorme lagarto. Subaru fica confuso e grita, acreditando ter sido invocado para um mundo paralelo.
+
+# CAP 34
+
+Subaru acorda em um mundo paralelo e descobre que perdeu suas memórias. Ele é apresentado a Emilia, Beatrice, Ram, Shaula, Meili e Anastasia, que parecem ser seus companheiros neste mundo. 
+
+Fica claro que Subaru tinha uma relação próxima com eles antes de perder a memória. Eles ficam chocados e preocupados com a situação de Subaru.
+
+Um jovem chamado Julius também está presente e parece estar muito abalado com a perda de memória de Subaru. 
+
+Ram leva Subaru para buscar água, mas acaba confrontando-o, acreditando que ele está fingindo ter perdido a memória. No entanto, Subaru convence Ram de que ele realmente não se lembra de nada. Isso faz com que Ram fique triste, pois ela estava contando com Subaru para ajudar sua irmã Rem, que está dormindo em outra sala.
