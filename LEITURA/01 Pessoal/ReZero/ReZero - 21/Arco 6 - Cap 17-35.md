@@ -189,3 +189,15 @@ Fica claro que Subaru tinha uma relação próxima com eles antes de perder a me
 Um jovem chamado Julius também está presente e parece estar muito abalado com a perda de memória de Subaru. 
 
 Ram leva Subaru para buscar água, mas acaba confrontando-o, acreditando que ele está fingindo ter perdido a memória. No entanto, Subaru convence Ram de que ele realmente não se lembra de nada. Isso faz com que Ram fique triste, pois ela estava contando com Subaru para ajudar sua irmã Rem, que está dormindo em outra sala.
+
+# CAP 35
+
+Subaru e Ram então voltam para a sala e se reúnem com os outros.
+
+Julius pede para recomeçarem sua relação, já que Subaru perdeu suas memórias. Anastasia então revela que sua consciência não é a dela, mas sim de uma entidade chamada Eridna, que tomou temporariamente o corpo de Anastasia.
+
+Isso choca os presentes, exceto Subaru, que fica confuso com a situação. Emilia então encoraja o grupo a não desistir e continuar em frente, apesar dos problemas. Subaru também se anima e decide ajudar a resolver a situação.
+
+Eles descobrem que Subaru desmaiou na Biblioteca Taygeta, no terceiro andar da torre, e que isso pode estar relacionado à perda de suas memórias. Julius explica que a biblioteca contém "Livros dos Mortos" que podem afetar a mente de quem os lê.
+
+Eridna então pergunta a Subaru o que significa o termo "Mundo Paralelo", mostrando interesse nesse conceito.
