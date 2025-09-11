@@ -1,4 +1,4 @@
-	O método `reduce` em JavaScript é uma ferramenta poderosa que permite processar um array e **reduzi-lo a um único valor**. Esse valor pode ser um número, uma string, um objeto ou até mesmo outro array. Ele é chamado de "reduce" porque "reduz" um array a um resultado final. Vamos explorar de forma didática como ele funciona:
+O método `reduce` em JavaScript é uma ferramenta poderosa que permite processar um array e **reduzi-lo a um único valor**. Esse valor pode ser um número, uma string, um objeto ou até mesmo outro array. Ele é chamado de "reduce" porque "reduz" um array a um resultado final. Vamos explorar de forma didática como ele funciona:
 
 O `reduce` é um método de arrays que:
 - **Reduz um array a um único valor**: Ele percorre o array e combina os elementos em um resultado final.
