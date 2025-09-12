@@ -201,3 +201,13 @@ Isso choca os presentes, exceto Subaru, que fica confuso com a situação. Emili
 Eles descobrem que Subaru desmaiou na Biblioteca Taygeta, no terceiro andar da torre, e que isso pode estar relacionado à perda de suas memórias. Julius explica que a biblioteca contém "Livros dos Mortos" que podem afetar a mente de quem os lê.
 
 Eridna então pergunta a Subaru o que significa o termo "Mundo Paralelo", mostrando interesse nesse conceito.
+
+# CAP 36
+
+O capítulo começa com Subaru explicando o que é um "Mundo Paralelo" para Emilia e os outros. Eles acreditam que Subaru veio de "além da Grande Cascata", uma cachoeira que separa este mundo de outro. Subaru não tem certeza se essa é realmente a origem do "Mundo Paralelo" que ele menciona.
+
+Depois disso, o grupo vai até a biblioteca "Taygeta", onde Subaru não consegue ler os títulos dos livros devido à perda de suas memórias. Emilia e os outros se dividem em equipes para procurar pistas sobre o que aconteceu com Subaru.
+
+Enquanto isso, Subaru conversa com Meili e Shaula, que ficam de fora da busca. Shaula reafirma seu apoio a Subaru, mesmo com ele tendo perdido suas memórias. Isso faz Subaru se sentir emocionalmente tocado, embora ele não consiga entender completamente os sentimentos de Shaula.
+
+No final, Emilia e os outros voltam sem resultados, e Subaru fica esperando por eles, refletindo sobre sua situação e as palavras de Shaula.
