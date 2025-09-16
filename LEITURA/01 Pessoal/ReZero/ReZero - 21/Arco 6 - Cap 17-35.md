@@ -211,3 +211,19 @@ Depois disso, o grupo vai até a biblioteca "Taygeta", onde Subaru não consegue
 Enquanto isso, Subaru conversa com Meili e Shaula, que ficam de fora da busca. Shaula reafirma seu apoio a Subaru, mesmo com ele tendo perdido suas memórias. Isso faz Subaru se sentir emocionalmente tocado, embora ele não consiga entender completamente os sentimentos de Shaula.
 
 No final, Emilia e os outros voltam sem resultados, e Subaru fica esperando por eles, refletindo sobre sua situação e as palavras de Shaula.
+
+# CAP 37
+
+Após a busca na biblioteca Taygeta não trazer resultados sobre as memórias perdidas de Subaru, o grupo discute o que pode ter acontecido.
+
+Eridna sugere que a perda de memórias de Subaru pode estar relacionada a uma violação das regras da torre, o que poderia ser uma punição.
+
+O grupo debate se devem prosseguir com o teste do segundo andar ou se devem focar em recuperar as memórias de Subaru primeiro.
+
+Subaru tenta descobrir se possui alguma habilidade especial, mas não consegue encontrar nada. Ele se sente inútil por não poder ajudar no teste do segundo andar.
+
+Quando Subaru se afasta sozinho, ele é empurrado por uma figura misteriosa  de uma escadaria da torre, desabando inconsciente.
+
+Ao acordar, Subaru se encontra sendo cuidado por Emilia e Beatrice, que ficaram preocupadas quando não conseguiram encontrá-lo.
+
+O capítulo termina com Subaru confuso sobre o que realmente aconteceu, sugerindo que sua queda pode ter sido algo mais do que um acidente.
