@@ -11,10 +11,15 @@
             "id": "9ff4772d7475adcd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 - JAVASCRIPT/08 - ARRAYS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "08 - ARRAYS"
             }
           }
         ]
@@ -90,12 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "04 - JAVASCRIPT/08 - ARRAYS.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 08 - ARRAYS"
             }
           },
           {
@@ -171,6 +177,7 @@
   },
   "active": "9ff4772d7475adcd",
   "lastOpenFiles": [
+    "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
     "04 - JAVASCRIPT/06 REGEX/01 - FLAGS REGEX.md",
     "04 - JAVASCRIPT/06 REGEX/01 - SUBSTITUIR EM MASSA.md",
     "04 - JAVASCRIPT/06 REGEX/02 - CLASSES DE CARACTERES.md",
@@ -198,7 +205,6 @@
     "07 - REACT/09 - USECALLBACK E REACTMEMO.md",
     "07 - REACT/08 - MEMOIZATION E USEMEMO.md",
     "04 - JAVASCRIPT/06 REGEX/03 - GRUPOS DE CAPTURA E BACKREFERENCES.md",
-    "04 - JAVASCRIPT/06 REGEX/02 - QUANTIFICADORES.md",
     "02 Estudo/JavaScript/JavaScriptNotesForProfessionals.pdf",
     "04 - JAVASCRIPT/15 JS ASSINCRONO",
     "04 - JAVASCRIPT/14 PROGRAMACAO FUNCIONAL",

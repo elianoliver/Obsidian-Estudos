@@ -191,7 +191,7 @@ console.log("PI " + pi); // PI 3.141592653589793
 é usada para calcular a potência de um número. No exemplo, estamos elevando 5 à sexta potência.
 
 ```javascript
-resultado = Math.pow(5, 6);           // armazena a potencia de 5^6
+let resultado = Math.pow(5, 6);           // armazena a potencia de 5^6
 console.log("Math.pow " + resultado); // Math.pow 15625
 ```
 
