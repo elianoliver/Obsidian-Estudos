@@ -229,3 +229,11 @@ Ao acordar, Subaru se encontra sendo cuidado por Emilia e Beatrice, que ficaram 
 O capítulo termina com Subaru confuso sobre o que realmente aconteceu, sugerindo que sua queda pode ter sido algo mais do que um acidente.
 
 # CAP 38
+
+Subaru acorda novamente na Sala Verde da Torre de Vigia das Plêiades, com amnésia sobre o que aconteceu. Emilia e Beatrice explicam que ele havia desaparecido e eles o encontraram desmaiado. Subaru não consegue lembrar o que aconteceu.
+
+Beatrice questiona Subaru sobre ter ido à biblioteca Taygeta na noite anterior, mas Subaru não se lembra disso. Ele percebe que está revivendo uma situação similar à quando perdeu suas memórias anteriormente.
+
+Subaru começa a suspeitar que está tendo "sonhos premonitórios" que estão se repetindo. Ele decide não contar a Emilia e os outros sobre essa habilidade por enquanto, para não afetar o desenrolar dos eventos.
+
+Quando Subaru se separa do grupo, ele começa a sentir algo estranho, um medo, e acaba caindo pelo buraco no meio da torre. Ele sofre uma queda violenta (empurrado de novo?), quebrando diversos ossos e sofrendo ferimentos graves. Enquanto cai, Subaru pensa que suas memórias são o que definem quem ele é, e que agora, sem elas, ele não é mais o "Subaru Natsuki" de antes. Finalmente, Subaru perde a consciência e parece morrer.
