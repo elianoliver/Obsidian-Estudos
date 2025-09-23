@@ -227,3 +227,5 @@ Quando Subaru se afasta sozinho, ele é empurrado por uma figura misteriosa  de 
 Ao acordar, Subaru se encontra sendo cuidado por Emilia e Beatrice, que ficaram preocupadas quando não conseguiram encontrá-lo.
 
 O capítulo termina com Subaru confuso sobre o que realmente aconteceu, sugerindo que sua queda pode ter sido algo mais do que um acidente.
+
+# CAP 38
