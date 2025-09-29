@@ -237,3 +237,13 @@ Beatrice questiona Subaru sobre ter ido à biblioteca Taygeta na noite anterior,
 Subaru começa a suspeitar que está tendo "sonhos premonitórios" que estão se repetindo. Ele decide não contar a Emilia e os outros sobre essa habilidade por enquanto, para não afetar o desenrolar dos eventos.
 
 Quando Subaru se separa do grupo, ele começa a sentir algo estranho, um medo, e acaba caindo pelo buraco no meio da torre. Ele sofre uma queda violenta (empurrado de novo?), quebrando diversos ossos e sofrendo ferimentos graves. Enquanto cai, Subaru pensa que suas memórias são o que definem quem ele é, e que agora, sem elas, ele não é mais o "Subaru Natsuki" de antes. Finalmente, Subaru perde a consciência e parece morrer.
+
+# CAP 39
+
+O capítulo começa com Subaru acordando de uma terrível experiência de dor e sofrimento, onde seu corpo foi completamente esmagado escadaria a baixo. Ele se encontra em um local desconhecido, sendo cuidado por uma garota de cabelos brancos e olhos ametistas. Subaru fica assustado e foge desesperadamente pelos corredores, até esbarrar em um homem alto e violento, Reid Astrea, que o agride brutalmente.
+
+Subaru é torturado pelo homem, que perfura seus órgãos internos com um bastão de madeira. Após ser chutado escada abaixo, Subaru fica ferido e desesperado. Ele começa a refletir sobre sua vida e os arrependimentos que carrega, como não ter se despedido adequadamente de sua mãe.
+
+Subaru encontra uma espécie de figura misteriosa, uma sombra que zomba dele. Ao discutir com ela, dizendo que morreu e voltou, uma misteriosa mulher vestida de preto aparece e diz que o ama. Isso causa uma dor insuportável em Subaru, que fica paralisado. Finalmente, ele é libertado, mas se encontra em uma situação humilhante e desesperadora, com vozes se aproximando.
+
+O capítulo termina com Subaru chorando e se sentindo completamente arruinado pelas experiências traumáticas pelas quais passou.
