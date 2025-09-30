@@ -11,12 +11,15 @@
             "id": "9ff4772d7475adcd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-08-29 20.01.14.excalidraw.md"
+                "file": "09 - NEXTJS/00 - INTRODUÇÃO.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-29 20.01.14.excalidraw"
+              "icon": "lucide-file",
+              "title": "00 - INTRODUÇÃO"
             }
           }
         ]
@@ -92,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-08-29 20.01.14.excalidraw.md",
+                "file": "09 - NEXTJS/00 - INTRODUÇÃO.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Drawing 2025-08-29 20.01.14.excalidraw"
+              "title": "Sumário de 00 - INTRODUÇÃO"
             }
           },
           {
@@ -174,10 +177,10 @@
   },
   "active": "9ff4772d7475adcd",
   "lastOpenFiles": [
+    "09 - NEXTJS/00 - ESTRUTURA DE PASTAS.md",
     "Excalidraw/Drawing 2025-08-29 20.01.14.excalidraw.md",
     "jair.png",
     "09 - NEXTJS/00 - INTRODUÇÃO.md",
-    "09 - NEXTJS/00 - ESTRUTURA DE PASTAS.md",
     "01 Pessoal/John Flanagan - Rangers Ordem dos Arqueiros - Terra do Gelo 3.pdf",
     "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
     "04 - JAVASCRIPT/06 REGEX/01 - FLAGS REGEX.md",
