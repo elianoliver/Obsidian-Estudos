@@ -247,3 +247,6 @@ Subaru é torturado pelo homem, que perfura seus órgãos internos com um bastã
 Subaru encontra uma espécie de figura misteriosa, uma sombra que zomba dele. Ao discutir com ela, dizendo que morreu e voltou, uma misteriosa mulher vestida de preto aparece e diz que o ama. Isso causa uma dor insuportável em Subaru, que fica paralisado. Finalmente, ele é libertado, mas se encontra em uma situação humilhante e desesperadora, com vozes se aproximando.
 
 O capítulo termina com Subaru chorando e se sentindo completamente arruinado pelas experiências traumáticas pelas quais passou.
+
+# CAP 40
+
