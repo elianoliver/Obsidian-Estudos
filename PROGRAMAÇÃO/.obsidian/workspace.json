@@ -11,10 +11,12 @@
             "id": "9ff4772d7475adcd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-08-29 20.01.14.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-29 20.01.14.excalidraw"
             }
           }
         ]
@@ -90,12 +92,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Excalidraw/Drawing 2025-08-29 20.01.14.excalidraw.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Drawing 2025-08-29 20.01.14.excalidraw"
             }
           },
           {
@@ -171,6 +174,10 @@
   },
   "active": "9ff4772d7475adcd",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-08-29 20.01.14.excalidraw.md",
+    "jair.png",
+    "09 - NEXTJS/00 - INTRODUÇÃO.md",
+    "09 - NEXTJS/00 - ESTRUTURA DE PASTAS.md",
     "01 Pessoal/John Flanagan - Rangers Ordem dos Arqueiros - Terra do Gelo 3.pdf",
     "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
     "04 - JAVASCRIPT/06 REGEX/01 - FLAGS REGEX.md",
@@ -196,9 +203,6 @@
     "08 - TYPESCRIPT/00 - TYPE ANNOTATIONS.md",
     "08 - TYPESCRIPT/00 - TIPOS DE DADOS.md",
     "08 - TYPESCRIPT/00 - INSTALANDO TYPESCRIPT.md",
-    "Excalidraw/Drawing 2025-08-29 20.01.14.excalidraw.md",
-    "07 - REACT/09 - USECALLBACK E REACTMEMO.md",
-    "07 - REACT/08 - MEMOIZATION E USEMEMO.md",
     "02 Estudo/JavaScript/JavaScriptNotesForProfessionals.pdf",
     "04 - JAVASCRIPT/15 JS ASSINCRONO",
     "04 - JAVASCRIPT/14 PROGRAMACAO FUNCIONAL",
@@ -207,7 +211,6 @@
     "04 - JAVASCRIPT/Javascript.pdf",
     "02 Estudo/Kevin Beaver - Hacking Para Leigos.pdf",
     "02 Estudo/Valente - Engenharia De Software Moderna.epub",
-    "04 - JAVASCRIPT/12 CLASSES",
     "05 - NODE/MVC.canvas",
     "Pasted image 20250714170029.png",
     "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
@@ -217,7 +220,6 @@
     "00 - ASSETS/regex/Pasted image 20250610001813.png",
     "00 - ASSETS/regex/Pasted image 20250610002205.png",
     "00 - ASSETS/regex/Pasted image 20250610002103.png",
-    "00 - ASSETS/regex/Pasted image 20250610002028.png",
     "OVERVIEW.canvas",
     "01 Anotacoes/ReZero/CANVAS.canvas",
     "01 - Anotações/ReZero/CANVAS.canvas",
