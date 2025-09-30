@@ -250,3 +250,8 @@ O capítulo termina com Subaru chorando e se sentindo completamente arruinado pe
 
 # CAP 40
 
+Subaru é resgatado e levado a Sala Verde após ter sido encontrado todo deplorável na base das escadas que levam ao Reid. Ele está confuso e sem memórias, e é recebido por personagens como Rem, Ram, Beatrice e outros, que o tratam como se ele fosse uma versão diferente do Subaru original. Ele percebe que foi abandonado pelas estrelas e que sua vida está em risco, pois foi assassinado duas vezes antes.
+
+Subaru, desconfiado de todos, decide fugir da Sala Verde e buscar respostas no deserto, onde acredita que pode encontrar um caminho de volta ao seu mundo original. Ele coleta suprimentos e se prepara para a jornada, mas logo encontra uma ameaça terrível: uma gigantesca Minhoca de Areia, que o ataca ao sair da torre. Subaru, apesar de estar em desvantagem, consegue se defender com habilidade, sugerindo que ele possa ter adquirido novas habilidades ou memórias durante suas mortes e ressurreições.
+
+O capítulo termina com a minhoca sendo morta por ferrões luminosos que são disparados da torre. Após isso, as os ferrões são lançados contra subaru e a areia em volta dele começa a afundar e o engolir.
