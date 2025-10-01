@@ -255,3 +255,9 @@ Subaru é resgatado e levado a Sala Verde após ter sido encontrado todo deplor�
 Subaru, desconfiado de todos, decide fugir da Sala Verde e buscar respostas no deserto, onde acredita que pode encontrar um caminho de volta ao seu mundo original. Ele coleta suprimentos e se prepara para a jornada, mas logo encontra uma ameaça terrível: uma gigantesca Minhoca de Areia, que o ataca ao sair da torre. Subaru, apesar de estar em desvantagem, consegue se defender com habilidade, sugerindo que ele possa ter adquirido novas habilidades ou memórias durante suas mortes e ressurreições.
 
 O capítulo termina com a minhoca sendo morta por ferrões luminosos que são disparados da torre. Após isso, as os ferrões são lançados contra subaru e a areia em volta dele começa a afundar e o engolir.
+
+# CAP 41
+
+Subaru acorda soterrado na areia dentro de uma caverna sob um deserto após escapar da torre. Ele se lembra de uma série de eventos terríveis – ser atacado por uma minhoca de areia, cair em uma caverna e quase se sufocar. Ele consegue se desenterrar, mas perde suas reservas de água e comida.
+
+Seguindo um aroma estranho e seguindo a bifurcação pelo caminho da direita, ele descobre uma porta com sete fechaduras de joias. Após tocar na porta, quatro joias se iluminam. Ele sobe por um buraco no teto, retornando ao quinto andar da torre. Movido pela raiva e um desejo de vingança, ele decide encontrar e eliminar quem está tentando matá-lo. Ele encontra um lagarto morto, aparentemente morto pela mesma força que o atacou, sugerindo que seu atacante não está mais escondendo suas intenções.
