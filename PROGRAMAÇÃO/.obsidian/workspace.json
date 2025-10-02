@@ -11,15 +11,12 @@
             "id": "9ff4772d7475adcd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-37.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "currentVersion": "1.9.14"
               },
-              "icon": "lucide-file",
-              "title": "Arco 6 - Cap 17-37"
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.9.14"
             }
           }
         ]
@@ -95,13 +92,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-37.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Arco 6 - Cap 17-37"
+              "title": "Sumário"
             }
           },
           {
