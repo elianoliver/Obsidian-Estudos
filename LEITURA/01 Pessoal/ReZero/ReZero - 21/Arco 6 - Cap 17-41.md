@@ -261,3 +261,25 @@ O capítulo termina com a minhoca sendo morta por ferrões luminosos que são di
 Subaru acorda soterrado na areia dentro de uma caverna sob um deserto após escapar da torre. Ele se lembra de uma série de eventos terríveis – ser atacado por uma minhoca de areia, cair em uma caverna e quase se sufocar. Ele consegue se desenterrar, mas perde suas reservas de água e comida.
 
 Seguindo um aroma estranho e seguindo a bifurcação pelo caminho da direita, ele descobre uma porta com sete fechaduras de joias. Após tocar na porta, quatro joias se iluminam. Ele sobe por um buraco no teto, retornando ao quinto andar da torre. Movido pela raiva e um desejo de vingança, ele decide encontrar e eliminar quem está tentando matá-lo. Ele encontra um lagarto morto, aparentemente morto pela mesma força que o atacou, sugerindo que seu atacante não está mais escondendo suas intenções.
+
+# CAP 42
+
+Subaru continua a subir as escadas da torre, consumido por raiva e desejo de vingança. Ele se repete, prometendo matar todos que encontrar. Sua visão começa a embaçar, mas ele se convence de que precisa matar para sobreviver.
+
+Ao chegar ao 4º andar, encontra o corpo esmagado de Shaula, o que o leva a um ataque de vômito e desespero. Ele percebe o quão brutal foi a morte dela e se sente ainda mais determinado a descobrir quem é o responsável.
+
+Ele continua a explorar a torre e encontra os corpos de Eridna e Ram, também brutalmente assassinadas. A descoberta de mais corpos o leva a um colapso emocional, e ele começa a questionar o que está acontecendo e quem está por trás de tudo.
+
+Finalmente, ele encontra o lagarto negro e, em um momento de raiva e frustração, ataca-o com uma faca. O lagarto, no entanto, permanece impassível, encarando Subaru com olhos que parecem culpá-lo. Subaru desaba, expressando sua raiva e desespero com a situação, prometendo matar todos que o ameaçam e rejeitar qualquer tentativa de aproximação. Nesse momento, uma imensa névoa de "Braços Sombrios" começa a destruir o corredor, perseguindo-os.
+
+O lagarto agarra Subaru com a boca e inicia uma fuga desesperada, escalando a parede da torre que está se inclinando para escapar das sombras. Em um ato final, o lagarto arremessa Subaru para a segurança de uma varanda externa antes de ser ele mesmo engolido pelas sombras, sacrificando-se para salvá-lo. Exausto na varanda, Subaru percebe que há alguém atrás dele. Uma voz desconhecida diz "...na próxima, tente adivinhar, herói", e no instante seguinte, ele é decapitado.
+
+# CAP 43
+
+O capítulo 43, "A Torre dos Vivos", continua a jornada de Subaru após perder a memória. Ele acorda na Sala Verde com Emilia e Beatrice, e tenta disfarçar sua amnésia, agindo como se fosse o "Subaru Natsuki" que elas conhecem.
+
+Subaru começa a suspeitar de Emilia e Beatrice, mas suas suspeitas são temporariamente suspensas após um concurso de força com Emilia. No entanto, ao ver Ram, ele é assombrado pela memória de sua morte, o que o leva a questionar a segurança de todos ao seu redor.
+
+A cena se complica com a aparição de Shaula, Meili, Echidna e Julius. A reação de Julius ao ver Subaru confirma suas suspeitas, indicando que ele pode ser um dos principais suspeitos. O capítulo termina com Subaru pedindo um favor a Shaula, sugerindo que ele está determinado a descobrir a verdade sobre sua amnésia e a identidade do assassino.
+
+Em resumo, o capítulo explora a paranoia de Subaru, suas tentativas de disfarçar sua condição e o início de suas investigações sobre quem poderia estar por trás de sua amnésia e dos eventos na torre.
