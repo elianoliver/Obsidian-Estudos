@@ -283,3 +283,11 @@ Subaru começa a suspeitar de Emilia e Beatrice, mas suas suspeitas são tempora
 A cena se complica com a aparição de Shaula, Meili, Echidna e Julius. A reação de Julius ao ver Subaru confirma suas suspeitas, indicando que ele pode ser um dos principais suspeitos. O capítulo termina com Subaru pedindo um favor a Shaula, sugerindo que ele está determinado a descobrir a verdade sobre sua amnésia e a identidade do assassino.
 
 Em resumo, o capítulo explora a paranoia de Subaru, suas tentativas de disfarçar sua condição e o início de suas investigações sobre quem poderia estar por trás de sua amnésia e dos eventos na torre.
+
+# CAP 44
+
+O capítulo começa com Subaru encontrando Meili morta em uma sala de pedra. Ele está em choque e tenta desesperadamente revivê-la, mas sem sucesso. Ao examinar o corpo de Meili, ele percebe que ela foi estrangulada e encontra marcas de dedos no pescoço, que correspondem aos seus próprios.
+
+Subaru então nota marcas estranhas em seu próprio braço esquerdo – letras gravadas em sua pele que dizem "Natsuki Subaru esteve aqui". Isso o leva a acreditar que outra versão dele, "Natsuki Subaru", é a responsável pela morte de Meili. Ele se sente traído e confuso, questionando sua própria sanidade e identidade.
+
+O capítulo termina com Subaru em um estado de desespero, lutando para entender o que está acontecendo e quem é realmente "Natsuki Subaru".
