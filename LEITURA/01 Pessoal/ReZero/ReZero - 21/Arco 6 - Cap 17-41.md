@@ -302,3 +302,8 @@ O capítulo termina com a revelação desse livro, deixando Subaru e Emilia em e
 
 # CAP 46
 
+O capítulo "Meili Portroute" revela que Emília, Subaru e Beatrice encontram um "Livro dos Mortos" na biblioteca que contém memórias da vida de pessoas falecidas. O livro em questão é sobre Meili, o que preocupa Subaru, pois ele se lembra de tê-la estrangulado.
+
+Ao ler o livro, Subaru descobre memórias perturbadoras do passado de Meili, que a mostram como uma garota abandonada, criada por uma "Mãe" cruel e uma figura misteriosa chamada "Mulher de Preto" (Elsa). As memórias revelam um ciclo de violência e manipulação, com Meili sendo usada como uma arma e, eventualmente, morrendo apesar de sua resiliência.
+
+O capítulo termina com Subaru imerso nas memórias de Meili, confrontado com a verdade sobre seu passado e o impacto de suas ações.
