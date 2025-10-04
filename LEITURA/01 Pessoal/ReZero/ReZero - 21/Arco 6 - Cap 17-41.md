@@ -291,3 +291,14 @@ O capítulo começa com Subaru encontrando Meili morta em uma sala de pedra. Ele
 Subaru então nota marcas estranhas em seu próprio braço esquerdo – letras gravadas em sua pele que dizem "Natsuki Subaru esteve aqui". Isso o leva a acreditar que outra versão dele, "Natsuki Subaru", é a responsável pela morte de Meili. Ele se sente traído e confuso, questionando sua própria sanidade e identidade.
 
 O capítulo termina com Subaru em um estado de desespero, lutando para entender o que está acontecendo e quem é realmente "Natsuki Subaru".
+
+# CAP 45
+
+Após assassinar Meili e esconder o corpo, Subaru tenta escapar, mas é abordado por Emilia. Ele se sente culpado e confuso, mas Emilia o conforta e o incentiva a falar sobre seus sentimentos.
+
+Enquanto conversam, Ram os interrompe, informando que Beatrice encontrou algo terrível na biblioteca. Eles vão até lá e Beatrice os direciona a um livro específico. Ao examiná-lo, Emilia fica chocada ao descobrir que o livro menciona Meili e Portroute, indicando uma conexão perturbadora entre os dois.
+
+O capítulo termina com a revelação desse livro, deixando Subaru e Emilia em estado de choque e prenunciando novos desenvolvimentos na investigação.
+
+# CAP 46
+
