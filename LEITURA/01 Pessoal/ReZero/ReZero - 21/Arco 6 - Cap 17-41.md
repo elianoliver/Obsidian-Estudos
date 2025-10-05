@@ -307,3 +307,13 @@ O capítulo "Meili Portroute" revela que Emília, Subaru e Beatrice encontram um
 Ao ler o livro, Subaru descobre memórias perturbadoras do passado de Meili, que a mostram como uma garota abandonada, criada por uma "Mãe" cruel e uma figura misteriosa chamada "Mulher de Preto" (Elsa). As memórias revelam um ciclo de violência e manipulação, com Meili sendo usada como uma arma e, eventualmente, morrendo apesar de sua resiliência.
 
 O capítulo termina com Subaru imerso nas memórias de Meili, confrontado com a verdade sobre seu passado e o impacto de suas ações.
+
+# CAP 47
+
+O capítulo começa com Subaru em um estado de confusão mental, atormentado por pensamentos fragmentados e memórias misturadas, questionando sua própria identidade e a dos outros. Ele é gentilmente cuidado por Emilia e Beatrice, que tentam ajudá-lo a se recompor.
+
+Echidna o questiona sobre o desaparecimento de Meili e o que ele viu no Livro dos Mortos. Subaru reluta, mas acaba confessando que viu as memórias de Meili, incluindo o momento de sua morte, embora não tenha testemunhado o ato em si. Ele revela que acredita que o corpo de Meili ainda está na torre.
+
+O grupo decide se dividir para procurar Meili. Emilia lidera um grupo com Ram, Echidna e Julius, enquanto Subaru permanece com Beatrice. Shaula, a Guardiã das Estrelas, expressa sua aparente falta de preocupação com o desaparecimento de Meili, mas demonstra um certo cuidado com o Livro dos Mortos.
+
+O capítulo termina com Subaru e Beatrice sozinhos, enquanto o grupo de busca parte em direção à torre, deixando Subaru em um estado de angústia e culpa, atormentado pelas memórias de Meili e seu papel em seu destino.
