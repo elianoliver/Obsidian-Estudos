@@ -11,10 +11,12 @@
             "id": "846e7a60602ca719",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "pdf",
+              "state": {
+                "file": "02 Estudo/JavaScript/OReilly - Primeiros Passos com React Construindo Aplicações web.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "OReilly - Primeiros Passos com React Construindo Aplicações web"
             }
           }
         ]
@@ -90,12 +92,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02 Estudo/JavaScript/OReilly - Primeiros Passos com React Construindo Aplicações web.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de OReilly - Primeiros Passos com React Construindo Aplicações web"
             }
           },
           {
@@ -155,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 338.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,6 +175,12 @@
   },
   "active": "846e7a60602ca719",
   "lastOpenFiles": [
+    "02 Estudo/JavaScript/OReilly - JavaScript O guia definitivo.pdf",
+    "02 Estudo/JavaScript/Notes - React.pdf",
+    "02 Estudo/JavaScript/Notes - JavaScript.pdf",
+    "02 Estudo/JavaScript/Notes - TypeScript.pdf",
+    "02 Estudo/JavaScript/Não confirmado 907412.crdownload",
+    "02 Estudo/JavaScript/Notes - Node.pdf",
     "01 - GIT E GITHUB/01 - COMANDOS BÁSICO.md",
     "09 - NEXTJS/00 - ESTRUTURA DE PASTAS.md",
     "Excalidraw/Drawing 2025-08-29 20.01.14.excalidraw.md",
@@ -200,15 +210,9 @@
     "Sem título",
     "08 - TYPESCRIPT/00 - TYPE ANNOTATIONS.md",
     "08 - TYPESCRIPT/00 - TIPOS DE DADOS.md",
-    "08 - TYPESCRIPT/00 - INSTALANDO TYPESCRIPT.md",
-    "02 Estudo/JavaScript/JavaScriptNotesForProfessionals.pdf",
     "04 - JAVASCRIPT/15 JS ASSINCRONO",
     "04 - JAVASCRIPT/14 PROGRAMACAO FUNCIONAL",
     "Excalidraw",
-    "04 - JAVASCRIPT/13 RECURSAO",
-    "04 - JAVASCRIPT/Javascript.pdf",
-    "02 Estudo/Kevin Beaver - Hacking Para Leigos.pdf",
-    "02 Estudo/Valente - Engenharia De Software Moderna.epub",
     "05 - NODE/MVC.canvas",
     "Pasted image 20250714170029.png",
     "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
