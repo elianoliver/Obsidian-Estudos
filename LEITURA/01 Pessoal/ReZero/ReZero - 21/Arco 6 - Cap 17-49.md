@@ -317,3 +317,19 @@ Echidna o questiona sobre o desaparecimento de Meili e o que ele viu no Livro do
 O grupo decide se dividir para procurar Meili. Emilia lidera um grupo com Ram, Echidna e Julius, enquanto Subaru permanece com Beatrice. Shaula, a Guardiã das Estrelas, expressa sua aparente falta de preocupação com o desaparecimento de Meili, mas demonstra um certo cuidado com o Livro dos Mortos.
 
 O capítulo termina com Subaru e Beatrice sozinhos, enquanto o grupo de busca parte em direção à torre, deixando Subaru em um estado de angústia e culpa, atormentado pelas memórias de Meili e seu papel em seu destino.
+
+# CAP 48
+
+O capítulo 48, "Matar se Torna um Hábito", segue Subaru na biblioteca, onde ele encontra o *Livro dos Mortos* de Meili Portoute. Ao lê-lo, ele experimenta vicariamente a vida de Meili, compreendendo seus pensamentos e sentimentos finais.
+
+Subaru fica obcecado em descobrir as verdadeiras intenções de seus aliados, como Emilia e Beatrice, usando os *Livros dos Mortos* para desvendar seus segredos. Ele pondera sobre a possibilidade de matá-los para acessar seus livros, mas é interrompido pela voz de Meili em sua mente.
+
+Beatrice percebe os arranhões no braço de Subaru e o acompanha até a Sala do Espírito para curá-lo, o que o faz reconsiderar seus planos e o afasta temporariamente de sua obsessão. O capítulo termina com uma citação do detetive Hercule Poirot, "Matar se Torna um Hábito", sugerindo que a violência pode se tornar um padrão destrutivo.
+
+# CAP 49
+
+O capítulo 49, intitulado "Para Você, Cópia Fajuta", retoma a história de Subaru após ser curado na Sala do Espírito. A cura física traz consigo uma nova forma de tormento: a presença cada vez mais intensa da sombra de Meili em sua mente. Essa sombra o provoca e o incita a tomar decisões questionáveis, principalmente a usar os poderes do *Livro dos Mortos* para descobrir os sentimentos dos outros e até mesmo para matá-los, começando por Rem, em um plano macabro.
+
+Subaru luta contra essa tentação, reprimindo seus impulsos e tentando se manter fiel aos seus princípios, mas a influência de Meili se torna cada vez mais difícil de resistir. Enquanto isso, o grupo discute o desaparecimento de Meili e a necessidade de continuar a busca. Eridna sugere que se concentrem em conquistar a torre para buscar ajuda do *Sábio*, mas essa sugestão gera tensão e desconfiança.
+
+A situação se complica ainda mais quando Eridna revela que está consumindo o Od de Anastasia para manter sua forma física, o que aumenta a desconfiança e a tensão entre os personagens. Emilia expressa preocupação com Subaru, lembrando-o do *Livro dos Mortos* e da possível influência de Meili sobre ele, colocando-o sob um intenso escrutínio. O capítulo termina com Subaru sozinho, refletindo sobre suas ações e questionando sua própria sanidade, enquanto Patrasche o observa com preocupação, prenunciando um futuro incerto e repleto de perigos.
