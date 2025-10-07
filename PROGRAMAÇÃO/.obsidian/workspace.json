@@ -11,12 +11,15 @@
             "id": "846e7a60602ca719",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "02 Estudo/JavaScript/OReilly - Primeiros Passos com React Construindo Aplicações web.pdf"
+                "file": "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-49.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "OReilly - Primeiros Passos com React Construindo Aplicações web"
+              "icon": "lucide-file",
+              "title": "Arco 6 - Cap 17-49"
             }
           }
         ]
@@ -92,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Estudo/JavaScript/OReilly - Primeiros Passos com React Construindo Aplicações web.pdf",
+                "file": "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-49.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de OReilly - Primeiros Passos com React Construindo Aplicações web"
+              "title": "Sumário de Arco 6 - Cap 17-49"
             }
           },
           {
@@ -158,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5,
-    "collapsed": true
+    "width": 338.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,6 +177,7 @@
   },
   "active": "846e7a60602ca719",
   "lastOpenFiles": [
+    "02 Estudo/JavaScript/OReilly - Primeiros Passos com React Construindo Aplicações web.pdf",
     "02 Estudo/JavaScript/OReilly - JavaScript O guia definitivo.pdf",
     "02 Estudo/JavaScript/Notes - React.pdf",
     "02 Estudo/JavaScript/Notes - JavaScript.pdf",
@@ -212,7 +215,6 @@
     "08 - TYPESCRIPT/00 - TIPOS DE DADOS.md",
     "04 - JAVASCRIPT/15 JS ASSINCRONO",
     "04 - JAVASCRIPT/14 PROGRAMACAO FUNCIONAL",
-    "Excalidraw",
     "05 - NODE/MVC.canvas",
     "Pasted image 20250714170029.png",
     "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
