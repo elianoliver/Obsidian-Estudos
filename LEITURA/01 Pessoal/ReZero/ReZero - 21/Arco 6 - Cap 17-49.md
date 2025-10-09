@@ -334,3 +334,12 @@ Subaru luta contra essa tentação, reprimindo seus impulsos e tentando se mante
 
 A situação se complica ainda mais quando Eridna revela que está consumindo o Od de Anastasia para manter sua forma física, o que aumenta a desconfiança e a tensão entre os personagens. Emilia expressa preocupação com Subaru, lembrando-o do *Livro dos Mortos* e da possível influência de Meili sobre ele, colocando-o sob um intenso escrutínio. O capítulo termina com Subaru sozinho, refletindo sobre suas ações e questionando sua própria sanidade, enquanto Patrasche o observa com preocupação, prenunciando um futuro incerto e repleto de perigos.
 
+# CAP 50
+
+O capítulo se inicia com Ram confrontando Subaru, acusando-o de ser um farsante e questionando seu comportamento estranho após o desaparecimento do corpo de Meili. Subaru tenta se justificar, mas fica cada vez mais confuso e nervoso, percebendo que está sendo visto como o principal suspeito.
+
+Ram aponta a falta de autenticidade de Subaru, comparando-o a uma imitação fraca de Natsuki Subaru. Emilia se junta à conversa, defendendo Subaru, mas Ram insiste que ele precisa ser interrogado.
+
+Subaru tem flashbacks perturbadores de seu passado como Meili, quando foi transformada em vários sapos por capella. Ele percebe que a situação é mais complexa do que imaginava, e que pode haver outras pessoas envolvidas no desaparecimento de Meili.
+
+No clímax do capítulo, Subaru declara ter amnésia, surpreendendo Emilia e Ram. A revelação deixa o futuro da situação incerto e levanta novas questões sobre quem está por trás dos eventos misteriosos.
