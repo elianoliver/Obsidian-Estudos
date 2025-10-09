@@ -343,3 +343,16 @@ Ram aponta a falta de autenticidade de Subaru, comparando-o a uma imitação fra
 Subaru tem flashbacks perturbadores de seu passado como Meili, quando foi transformada em vários sapos por capella. Ele percebe que a situação é mais complexa do que imaginava, e que pode haver outras pessoas envolvidas no desaparecimento de Meili.
 
 No clímax do capítulo, Subaru declara ter amnésia, surpreendendo Emilia e Ram. A revelação deixa o futuro da situação incerto e levanta novas questões sobre quem está por trás dos eventos misteriosos.
+
+# CAP 51
+
+O capítulo 51, "Torre dos Vivos, PARTE 2", começa com Subaru em um ambiente misterioso, atormentado por uma avalanche de perguntas sobre sua situação: seu ombro deslocado, as mensagens nas paredes, o desaparecimento de Ram e Emilia, a perda de suas memórias e a razão de estar em um mundo diferente.
+
+Ele é confrontado por Reid que o provoca e o testa. Reid cura o ombro deslocado de Subaru de forma casual e revela que está ciente do relacionamento entre Subaru e Emilia, insinuando que os dois se envolveram.
+
+Reid então decide deixar a torre, mas antes, ele revela que há uma horda de Maju (demônios) no quinto andar, segurada por um cavaleiro chamado Julius. Ele critica a inatividade de Subaru e o incentiva a agir.
+
+Finalmente, Reid salta para o quinto andar, esmagando um Maju no processo, e se junta à luta contra os demônios, deixando Subaru perplexo e determinado a descobrir o que está acontecendo. O capítulo termina com Subaru observando a cena caótica, percebendo a diferença gritante entre a força de Reid e sua própria.
+
+# CAP 52
+
