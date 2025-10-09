@@ -356,3 +356,28 @@ Finalmente, Reid salta para o quinto andar, esmagando um Maju no processo, e se 
 
 # CAP 52
 
+O capítulo descreve uma intensa batalha no quinto andar da torre, onde Reid enfrenta Majus com varetas de madeira, surpreendentemente eficazes. Julius tenta convencê-lo a usar suas forças combinadas, mas Reid se recusa, buscando apenas diversão em sua luta.
+
+Em meio ao caos, Subaru aparece e, impulsionado por um instinto, grita para Julius se esquivar, salvando-o de um ataque. Reid continua sua carnificina, e Julius pede que Subaru cuide de Beatrice e Echidna.
+
+A narrativa então se foca na complexidade das relações entre os personagens, com Echidna desconfiada de Subaru e Beatrice defendendo-o. A história termina com Beatrice segurando a mão de Subaru, apesar das advertências de Echidna, sugerindo uma conexão especial entre eles e prenunciando conflitos futuros.
+
+# CAP 53
+
+**Ataque e Destruição:** O escorpião gigante surge e ataca com um ferrão poderoso, destruindo parte da ala da torre. Beatrice salta para proteger o grupo, usando uma barreira de luz incompleta.
+
+**Echidna em Perigo:** Echidna é pega de surpresa e quase cai em um buraco causado pela destruição, mas Subaru a salva.
+
+Descobertas e Conexões: Subaru percebe que a força física aprimorada de seu corpo o ajudou a salvar Echidna. Ele também nota a presença de uma conexão entre Beatrice e ele, que ela afirma ser uma memória gravada no coração dela.
+
+Autonomia da Majuu: O grupo descobre que a Majuu em forma de escorpião possui a habilidade de autotomia, cortando sua própria cauda para distrair e escapar, o que revela um novo perigo iminente.
+
+O capítulo termina com a cauda decepada da Majuu explodindo e atingindo todo mundo desprevenido, matando beatrice e echidna.
+
+# CAP 54
+
+O capítulo descreve um momento de grande sofrimento para Subaru, que está à beira de ser consumido por uma entidade sombria. Ele expressa um desejo intenso de morrer e desaparecer, sentindo-se culpado e inútil. A entidade parece entender seus sentimentos, mas a repetição incessante de "Eu te amo" o irrita profundamente.
+
+Subaru se sente sobrecarregado pelo peso de suas ações passadas e pela percepção de que sua existência traz desgraça àqueles que o amam. Ele se culpa pela morte de Beatrice e Echidna, e se sente indigno do amor de Emilia.
+
+Emilia o salva e tenta lembrá-lo de momentos felizes que compartilharam, mas Subaru se recusa a aceitar, expressando raiva e descrença. Ele se declara indigno de ser lembrado e rejeita a ideia de ser o "Natsuki Subaru" que Emilia descreve, afirmando que ele é apenas uma "pestilência". O capítulo termina Emília se apresetando novamente para Subaru e perguntando seu nome. Nesse momento, enquanto Subaru parece finalmente se reconciliar com o outro "Subaru" e os demais, eles são atacados e caem em direção à escuridão. Nesse momento, Subaru promete que lembrará de todos eles e que irá protegê-los. 
