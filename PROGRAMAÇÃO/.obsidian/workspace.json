@@ -11,12 +11,15 @@
             "id": "846e7a60602ca719",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "01 Pessoal/ReZero/ReZero - Livro 24.pdf"
+                "file": "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/A Dor Necessária - Quando a Crueldade é Compaixão.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "ReZero - Livro 24"
+              "icon": "lucide-file",
+              "title": "A Dor Necessária - Quando a Crueldade é Compaixão"
             }
           }
         ]
@@ -175,6 +178,12 @@
   },
   "active": "846e7a60602ca719",
   "lastOpenFiles": [
+    "OVERVIEW.canvas",
+    "Entre Inimigos.md",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/Sacrificando Cavalo Lesionado.md",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/O Carrasco Compassivo - A Dor de Punir.md",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/Antagonista Protetor.md",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/A Dor Necessária - Quando a Crueldade é Compaixão.md",
     "01 Pessoal/ReZero/ReZero - Livro 23.pdf",
     "01 Pessoal/ReZero/ReZero - Livro 24.pdf",
     "01 Pessoal/ReZero/Não confirmado 536928.crdownload",
@@ -186,7 +195,6 @@
     "02 Estudo/JavaScript/Notes - JavaScript.pdf",
     "02 Estudo/JavaScript/Notes - TypeScript.pdf",
     "02 Estudo/JavaScript/Não confirmado 907412.crdownload",
-    "02 Estudo/JavaScript/Notes - Node.pdf",
     "01 - GIT E GITHUB/01 - COMANDOS BÁSICO.md",
     "09 - NEXTJS/00 - ESTRUTURA DE PASTAS.md",
     "Excalidraw/Drawing 2025-08-29 20.01.14.excalidraw.md",
@@ -208,11 +216,6 @@
     "04 - JAVASCRIPT/16 - EVERY E SOME METHOD.md",
     "04 - JAVASCRIPT/14 - REDUCE METHOD.md",
     "04 - JAVASCRIPT/14 - FILTER METHOD.md",
-    "04 - JAVASCRIPT/08 - ARRAYS.md",
-    "04 - JAVASCRIPT/09 - OBJETOS.md",
-    "03 - CSS/14 - FLEXBOX.md",
-    "04 - JAVASCRIPT/08 DATES/01 - OBJETO DATE.md",
-    "08 - TYPESCRIPT/00 - TYPE ANNOTATIONS.md",
     "05 - NODE/MVC.canvas",
     "Pasted image 20250714170029.png",
     "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
@@ -222,7 +225,6 @@
     "00 - ASSETS/regex/Pasted image 20250610001813.png",
     "00 - ASSETS/regex/Pasted image 20250610002205.png",
     "00 - ASSETS/regex/Pasted image 20250610002103.png",
-    "OVERVIEW.canvas",
     "01 Anotacoes/ReZero/CANVAS.canvas",
     "01 - Anotações/ReZero/CANVAS.canvas",
     "NODE/MVC-Salete.canvas"
