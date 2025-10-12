@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "A Dor Necessária - Quando a Crueldade é Compaixão"
             }
+          },
+          {
+            "id": "eeb9a3e6a346ecf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/Antagonista Protetor.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Antagonista Protetor"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,14 +192,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "846e7a60602ca719",
+  "active": "eeb9a3e6a346ecf9",
   "lastOpenFiles": [
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/A Dor Necessária - Quando a Crueldade é Compaixão.md",
     "OVERVIEW.canvas",
-    "Entre Inimigos.md",
     "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/Sacrificando Cavalo Lesionado.md",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/Sem título.md",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo também sofre/Empatia Inesperada com o Inimigo.md",
+    "FACULDADE.7z",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo também sofre/O Peso das Decisões do Comandante.md",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo também sofre/Vulnerabilidade Disfarçada do Inimigo.md",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Identificando-se com o Inimigo.md",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo é humano/Percebendo que o inimigo é humano.md",
+    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo é humano/O Toque Revelador.md",
     "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/O Carrasco Compassivo - A Dor de Punir.md",
     "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/Antagonista Protetor.md",
-    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/A Dor Necessária - Quando a Crueldade é Compaixão.md",
+    "Entre Inimigos.md",
     "01 Pessoal/ReZero/ReZero - Livro 23.pdf",
     "01 Pessoal/ReZero/ReZero - Livro 24.pdf",
     "01 Pessoal/ReZero/Não confirmado 536928.crdownload",
@@ -194,7 +218,6 @@
     "02 Estudo/JavaScript/Notes - React.pdf",
     "02 Estudo/JavaScript/Notes - JavaScript.pdf",
     "02 Estudo/JavaScript/Notes - TypeScript.pdf",
-    "02 Estudo/JavaScript/Não confirmado 907412.crdownload",
     "01 - GIT E GITHUB/01 - COMANDOS BÁSICO.md",
     "09 - NEXTJS/00 - ESTRUTURA DE PASTAS.md",
     "Excalidraw/Drawing 2025-08-29 20.01.14.excalidraw.md",
@@ -208,14 +231,7 @@
     "04 - JAVASCRIPT/06 REGEX/01 - EXPRESSÕES REGULARES.md",
     "04 - JAVASCRIPT/09 - STRINGS.md",
     "04 - JAVASCRIPT/07 - ESTRUTURAS DE REPETIÇÃO.md",
-    "04 - JAVASCRIPT/13 - HIGHER-ORDER FUNCTIONS.md",
-    "04 - JAVASCRIPT/13 - FUNÇÃO CALLBACK.md",
-    "04 - JAVASCRIPT/15 - SORT METHOD.md",
     "04 - JAVASCRIPT/06 REGEX/regex.png",
-    "04 - JAVASCRIPT/13 - MAP METHOD.md",
-    "04 - JAVASCRIPT/16 - EVERY E SOME METHOD.md",
-    "04 - JAVASCRIPT/14 - REDUCE METHOD.md",
-    "04 - JAVASCRIPT/14 - FILTER METHOD.md",
     "05 - NODE/MVC.canvas",
     "Pasted image 20250714170029.png",
     "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",

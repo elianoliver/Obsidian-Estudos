@@ -23,13 +23,13 @@ O rosto do soldado assume um vermelho profundo e raivoso.
 
 Eu abaixo a faca, lágrimas ardendo nos olhos, e começo a recuar. Idiota, tão idiota. Um momento impulsivo e joguei fora qualquer chance de chegar a Everless.
 
-~={magenta}Mas então...=~
+Mas então...
 
-~={magenta}—Espere um pouco, Bosley. — Ivan, com a capa de veludo agitando atrás de si, vem até nós. Sua boca está se contraindo e me preparo para o pior. Será que ele me reconheceu?=~
+—Espere um pouco, Bosley. — Ivan, com a capa de veludo agitando atrás de si, vem até nós. Sua boca está se contraindo e me preparo para o pior. Será que ele me reconheceu?
 
-~={magenta}Mas o som que sai de sua garganta é uma risada, não palavras raivosas. Seu sorriso é maldoso, mas ele não faz ideia de quem sou.=~
+Mas o som que sai de sua garganta é uma risada, não palavras raivosas. Seu sorriso é maldoso, mas ele não faz ideia de quem sou.
 
-~={magenta}—Gosto desta aqui — ele gargalha. — Pensa rápido e sabe se cuidar. E impressionante que não tenha te espetado como um porco. — Alguns dos outros riem. O homem que tentou me apalpar me encara cheio de ódio, mas não discute.=~
+—Gosto desta aqui — ele gargalha. — Pensa rápido e sabe se cuidar. E impressionante que não tenha te espetado como um porco. — Alguns dos outros riem. O homem que tentou me apalpar me encara cheio de ódio, mas não discute
 
 Em vez disso, vira sua atenção para Amma.
 — Não com essa cicatriz — ele fala maldosamente.
@@ -41,6 +41,6 @@ Lágrimas transbordam dos olhos de Amma.
 
 Mas a súplica é ignorada e o homem já passou para Alia, que está tremendo ao lado da irmã mais velha.
 
-~={magenta}Tarde demais, percebo que Ivan continua me encarando. Seu sorriso morreu e tensiono as pernas, preparada para correr.=~
+Tarde demais, percebo que Ivan continua me encarando. Seu sorriso morreu e tensiono as pernas, preparada para correr.
 
-~={magenta}—E então? Vá para a carroça.=~
+—E então? Vá para a carroça.

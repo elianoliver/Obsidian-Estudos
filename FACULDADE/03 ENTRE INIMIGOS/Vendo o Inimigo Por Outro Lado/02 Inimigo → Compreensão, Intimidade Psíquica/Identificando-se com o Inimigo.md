@@ -21,7 +21,7 @@ Antes que ela pudesse desviar o olhar, ele a encarou. Sob a luz do sol, ela viu 
 Ela sentiu um calor na pele e virou as costas, precisando se movimentar.  
 — Não sou uma mercadoria.  
 Ele bufou.  
-~={blue}— Não foi o que eu quis dizer. A ponte é… Para Ithicana, ela é tudo. E Ithicana é tudo para mim.  =~
-~={blue}Assim como Maridrina era tudo para ela.=~
+— Não foi o que eu quis dizer. A ponte é… Para Ithicana, ela é tudo. E Ithicana é tudo para mim.
+Assim como Maridrina era tudo para ela.
 
 Lara _[espiã, enviada em casamento para casar-se com o rei Aren, seu maior inimigo, descobrir suas fraquezas e matá-lo]_ toca a mão do rei Aren e percebe que ele parece humano, não um deus maligno.
