@@ -16,7 +16,7 @@ title: SKY In the Deep - Adrienne Young
 
 Eelyn - que foi capturada pelo bando do irmão mais velho, Iri, após levar um tiro de Fisk, um dos homens do irmão - escuta Iri ordenar que Fisk tire a flecha que atingiu o ombro dela. Fisk tenta se aproximar, mas ela o ataca. Iri diz à Eelyn que Fisk vai tirar a flecha dela - ajudá-la -, e ela replica que Fisk atirou nela. Eelyn vê o olhar de preocupação no rosto de Iri e lembra de quando ele a ensinou a lutar, de quando eram amigos. Enfim, ela aceita que tirem a flecha dela.
 
-—Ela está com os feridos de Aurvanger. Apenas tire isso dela.=~ ~={magenta}— A voz profunda do meu irmão estava muito alta na minha cabeça.=~ Sua mão agarrou meu braço e eu o puxei de volta, praguejando. ~={magenta}Eu precisava que ele pegasse a flecha, mas a ideia dele tentando me confortar me deixou doente.=~
+—Ela está com os feridos de Aurvanger. Apenas tire isso dela. ~={magenta}— A voz profunda do meu irmão estava muito alta na minha cabeça.=~ Sua mão agarrou meu braço e eu o puxei de volta, praguejando. ~={magenta}Eu precisava que ele pegasse a flecha, mas a ideia dele tentando me confortar me deixou doente.=~
 
 ~={rosa}A figura na minha frente mudou e a luz do fogo atingiu seu rosto.=~
 ~={rosa}Fiske. Eu me afastei.=~
