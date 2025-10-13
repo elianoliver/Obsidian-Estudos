@@ -11,29 +11,15 @@
             "id": "846e7a60602ca719",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/A Dor Necessária - Quando a Crueldade é Compaixão.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "01 Pessoal/Charles Bukowski - Mulheres.pdf"
               },
-              "icon": "lucide-file",
-              "title": "A Dor Necessária - Quando a Crueldade é Compaixão"
-            }
-          },
-          {
-            "id": "eeb9a3e6a346ecf9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "icon": "lucide-file-text",
+              "title": "Charles Bukowski - Mulheres"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,8 +173,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "eeb9a3e6a346ecf9",
+  "active": "846e7a60602ca719",
   "lastOpenFiles": [
+    "01 Pessoal/ReZero/ReZero - Livro 23.pdf",
+    "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
+    "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/04.jpg",
+    "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/03.jpg",
+    "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/02.jpg",
+    "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/01.jpg",
     "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/A Dor Necessária - Quando a Crueldade é Compaixão.md",
     "OVERVIEW.canvas",
     "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/Sacrificando Cavalo Lesionado.md",
@@ -203,7 +195,6 @@
     "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/O Carrasco Compassivo - A Dor de Punir.md",
     "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/Antagonista Protetor.md",
     "Entre Inimigos.md",
-    "01 Pessoal/ReZero/ReZero - Livro 23.pdf",
     "01 Pessoal/ReZero/ReZero - Livro 24.pdf",
     "01 Pessoal/ReZero/Não confirmado 536928.crdownload",
     "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-49.md",
@@ -229,13 +220,8 @@
     "04 - JAVASCRIPT/06 REGEX/regex.png",
     "05 - NODE/MVC.canvas",
     "Pasted image 20250714170029.png",
-    "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
     "00 - ASSETS/images/Pasted image 20240224154121.png",
     "00 - ASSETS/regex/Pasted image 20250610002421.png",
-    "00 - ASSETS/regex/Pasted image 20250610002555.png",
-    "00 - ASSETS/regex/Pasted image 20250610001813.png",
-    "00 - ASSETS/regex/Pasted image 20250610002205.png",
-    "00 - ASSETS/regex/Pasted image 20250610002103.png",
     "01 Anotacoes/ReZero/CANVAS.canvas",
     "01 - Anotações/ReZero/CANVAS.canvas",
     "NODE/MVC-Salete.canvas"
