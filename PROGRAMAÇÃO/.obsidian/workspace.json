@@ -11,12 +11,12 @@
             "id": "846e7a60602ca719",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "epub",
               "state": {
-                "file": "01 Pessoal/Charles Bukowski - Mulheres.pdf"
+                "file": "01 Pessoal/Dostoiévski - Noites brancas.epub"
               },
-              "icon": "lucide-file-text",
-              "title": "Charles Bukowski - Mulheres"
+              "icon": "lucide-file",
+              "title": "Dostoiévski - Noites brancas"
             }
           }
         ]
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 267.5
   },
   "right": {
     "id": "9cbc89da39f34f0a",
@@ -173,8 +173,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "846e7a60602ca719",
+  "active": "271a702203f418c9",
   "lastOpenFiles": [
+    "01 Pessoal/Dostoiévski - Memórias do subsolo.epub",
+    "01 Pessoal/Dostoiévski - Noites brancas.epub",
+    "01 Pessoal/ReZero/ReZero - 19/CAP 2 - Canção da Cidade em Chamas.md",
+    "01 Pessoal/ReZero/ReZero - 19/CAP 0 - Cidade de Combates Desorganizados.md",
+    "01 Pessoal/ReZero/ReZero - 19/CAP 1 - Início do Ataque ao Avareza.md",
+    "01 Pessoal/ReZero/ReZero - Livro 24.pdf",
+    "01 Pessoal/Charles Bukowski - Mulheres.pdf",
     "01 Pessoal/ReZero/ReZero - Livro 23.pdf",
     "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
     "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/04.jpg",
@@ -195,15 +202,12 @@
     "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/O Carrasco Compassivo - A Dor de Punir.md",
     "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/Antagonista Protetor.md",
     "Entre Inimigos.md",
-    "01 Pessoal/ReZero/ReZero - Livro 24.pdf",
     "01 Pessoal/ReZero/Não confirmado 536928.crdownload",
     "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-49.md",
     "01 Pessoal/ReZero/Não confirmado 353085.crdownload",
     "02 Estudo/JavaScript/OReilly - Primeiros Passos com React Construindo Aplicações web.pdf",
     "02 Estudo/JavaScript/OReilly - JavaScript O guia definitivo.pdf",
     "02 Estudo/JavaScript/Notes - React.pdf",
-    "02 Estudo/JavaScript/Notes - JavaScript.pdf",
-    "02 Estudo/JavaScript/Notes - TypeScript.pdf",
     "01 - GIT E GITHUB/01 - COMANDOS BÁSICO.md",
     "09 - NEXTJS/00 - ESTRUTURA DE PASTAS.md",
     "Excalidraw/Drawing 2025-08-29 20.01.14.excalidraw.md",
@@ -214,9 +218,6 @@
     "04 - JAVASCRIPT/06 REGEX/01 - SUBSTITUIR EM MASSA.md",
     "04 - JAVASCRIPT/06 REGEX/02 - CLASSES DE CARACTERES.md",
     "04 - JAVASCRIPT/06 REGEX/02 - LOOKAHEAD E LOOKBEHIND.md",
-    "04 - JAVASCRIPT/06 REGEX/01 - EXPRESSÕES REGULARES.md",
-    "04 - JAVASCRIPT/09 - STRINGS.md",
-    "04 - JAVASCRIPT/07 - ESTRUTURAS DE REPETIÇÃO.md",
     "04 - JAVASCRIPT/06 REGEX/regex.png",
     "05 - NODE/MVC.canvas",
     "Pasted image 20250714170029.png",
