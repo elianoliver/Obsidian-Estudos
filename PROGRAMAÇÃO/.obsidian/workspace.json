@@ -11,11 +11,11 @@
             "id": "846e7a60602ca719",
             "type": "leaf",
             "state": {
-              "type": "epub",
+              "type": "pdf",
               "state": {
-                "file": "01 Pessoal/Dostoiévski - Noites brancas.epub"
+                "file": "01 Pessoal/Dostoiévski - Noites brancas.pdf"
               },
-              "icon": "lucide-file",
+              "icon": "lucide-file-text",
               "title": "Dostoiévski - Noites brancas"
             }
           }
@@ -92,13 +92,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Pessoal/ReZero/ReZero - Livro 24.pdf",
+                "file": "01 Pessoal/Dostoiévski - Noites brancas.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de ReZero - Livro 24"
+              "title": "Sumário de Dostoiévski - Noites brancas"
             }
           },
           {
@@ -117,12 +117,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - JAVASCRIPT/08 - ARRAYS.md",
+                "file": "01 Pessoal/Dostoiévski - Noites brancas.pdf",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Links de saída para 08 - ARRAYS"
+              "title": "Links de saída para Dostoiévski - Noites brancas"
             }
           },
           {
@@ -173,10 +173,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "271a702203f418c9",
+  "active": "846e7a60602ca719",
   "lastOpenFiles": [
-    "01 Pessoal/Dostoiévski - Memórias do subsolo.epub",
+    "01 Pessoal/Dostoiévski - Noites brancas.pdf",
     "01 Pessoal/Dostoiévski - Noites brancas.epub",
+    "01 Pessoal/Dostoiévski - Memórias do subsolo.epub",
     "01 Pessoal/ReZero/ReZero - 19/CAP 2 - Canção da Cidade em Chamas.md",
     "01 Pessoal/ReZero/ReZero - 19/CAP 0 - Cidade de Combates Desorganizados.md",
     "01 Pessoal/ReZero/ReZero - 19/CAP 1 - Início do Ataque ao Avareza.md",
@@ -207,7 +208,6 @@
     "01 Pessoal/ReZero/Não confirmado 353085.crdownload",
     "02 Estudo/JavaScript/OReilly - Primeiros Passos com React Construindo Aplicações web.pdf",
     "02 Estudo/JavaScript/OReilly - JavaScript O guia definitivo.pdf",
-    "02 Estudo/JavaScript/Notes - React.pdf",
     "01 - GIT E GITHUB/01 - COMANDOS BÁSICO.md",
     "09 - NEXTJS/00 - ESTRUTURA DE PASTAS.md",
     "Excalidraw/Drawing 2025-08-29 20.01.14.excalidraw.md",
