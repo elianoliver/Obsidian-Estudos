@@ -18,8 +18,21 @@
               "icon": "lucide-file-text",
               "title": "Dostoiévski - Noites brancas"
             }
+          },
+          {
+            "id": "a71d41fd8eafd612",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +186,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "846e7a60602ca719",
+  "active": "a71d41fd8eafd612",
   "lastOpenFiles": [
     "01 Pessoal/Dostoiévski - Noites brancas.pdf",
     "01 Pessoal/Dostoiévski - Noites brancas.epub",
