@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "01 Pessoal/Dostoiévski - Noites brancas.pdf"
+                "file": "01 Pessoal/0 - Lidos/Dostoiévski - Noites brancas.pdf"
               },
               "icon": "lucide-file-text",
               "title": "Dostoiévski - Noites brancas"
@@ -23,12 +23,12 @@
             "id": "a71d41fd8eafd612",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "pdf",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "01 Pessoal/0 - Lidos/Dostoiévski - Noites brancas.pdf"
               },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.10.3"
+              "icon": "lucide-file-text",
+              "title": "Dostoiévski - Noites brancas"
             }
           }
         ],
@@ -188,14 +188,14 @@
   },
   "active": "a71d41fd8eafd612",
   "lastOpenFiles": [
-    "01 Pessoal/Dostoiévski - Noites brancas.pdf",
-    "01 Pessoal/Dostoiévski - Noites brancas.epub",
     "01 Pessoal/Dostoiévski - Memórias do subsolo.epub",
+    "01 Pessoal/0 - Lidos/Dostoiévski - Noites brancas.pdf",
+    "01 Pessoal/Dostoiévski - Noites brancas.epub",
     "01 Pessoal/ReZero/ReZero - 19/CAP 2 - Canção da Cidade em Chamas.md",
     "01 Pessoal/ReZero/ReZero - 19/CAP 0 - Cidade de Combates Desorganizados.md",
     "01 Pessoal/ReZero/ReZero - 19/CAP 1 - Início do Ataque ao Avareza.md",
     "01 Pessoal/ReZero/ReZero - Livro 24.pdf",
-    "01 Pessoal/Charles Bukowski - Mulheres.pdf",
+    "01 Pessoal/0 - Lidos/Charles Bukowski - Mulheres.pdf",
     "01 Pessoal/ReZero/ReZero - Livro 23.pdf",
     "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
     "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/04.jpg",
