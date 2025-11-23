@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "01 Pessoal/0 - Lidos/Dostoiévski - Noites brancas.pdf"
+                "file": "01 Pessoal/Zygmunt Bauman - Amor Liquido Sobre a Fragilidade dos Laços Humanos - Zahar.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Dostoiévski - Noites brancas"
+              "title": "Zygmunt Bauman - Amor Liquido Sobre a Fragilidade dos Laços Humanos - Zahar"
             }
           }
         ],
@@ -188,8 +188,10 @@
   },
   "active": "a71d41fd8eafd612",
   "lastOpenFiles": [
-    "01 Pessoal/Dostoiévski - Memórias do subsolo.epub",
+    "01 Pessoal/Zygmunt Bauman - Amor Liquido Sobre a Fragilidade dos Laços Humanos.pdf",
+    "01 Pessoal/Zygmunt Bauman - Amor Liquido Sobre a Fragilidade dos Laços Humanos - Zahar.pdf",
     "01 Pessoal/0 - Lidos/Dostoiévski - Noites brancas.pdf",
+    "01 Pessoal/Dostoiévski - Memórias do subsolo.epub",
     "01 Pessoal/Dostoiévski - Noites brancas.epub",
     "01 Pessoal/ReZero/ReZero - 19/CAP 2 - Canção da Cidade em Chamas.md",
     "01 Pessoal/ReZero/ReZero - 19/CAP 0 - Cidade de Combates Desorganizados.md",
@@ -219,8 +221,6 @@
     "01 Pessoal/ReZero/Não confirmado 536928.crdownload",
     "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-49.md",
     "01 Pessoal/ReZero/Não confirmado 353085.crdownload",
-    "02 Estudo/JavaScript/OReilly - Primeiros Passos com React Construindo Aplicações web.pdf",
-    "02 Estudo/JavaScript/OReilly - JavaScript O guia definitivo.pdf",
     "01 - GIT E GITHUB/01 - COMANDOS BÁSICO.md",
     "09 - NEXTJS/00 - ESTRUTURA DE PASTAS.md",
     "Excalidraw/Drawing 2025-08-29 20.01.14.excalidraw.md",
