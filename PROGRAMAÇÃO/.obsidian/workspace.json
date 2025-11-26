@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "86dfa881d161c524",
+        "id": "5e1db6f6b87e7a23",
         "type": "tabs",
         "children": [
           {
-            "id": "846e7a60602ca719",
+            "id": "5af1f24d53b09d2d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "01 Pessoal/0 - Lidos/Dostoiévski - Noites brancas.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Dostoiévski - Noites brancas"
-            }
-          },
-          {
-            "id": "a71d41fd8eafd612",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "01 Pessoal/Zygmunt Bauman - Amor Liquido Sobre a Fragilidade dos Laços Humanos - Zahar.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Zygmunt Bauman - Amor Liquido Sobre a Fragilidade dos Laços Humanos - Zahar"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,10 +171,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a71d41fd8eafd612",
+  "active": "5af1f24d53b09d2d",
   "lastOpenFiles": [
-    "01 Pessoal/Zygmunt Bauman - Amor Liquido Sobre a Fragilidade dos Laços Humanos.pdf",
+    "01 Pessoal/John Flanagan - Rangers Ordem dos Arqueiros - Terra do Gelo 3.pdf",
     "01 Pessoal/Zygmunt Bauman - Amor Liquido Sobre a Fragilidade dos Laços Humanos - Zahar.pdf",
+    "01 Pessoal/Zygmunt Bauman - Amor Liquido Sobre a Fragilidade dos Laços Humanos.pdf",
     "01 Pessoal/0 - Lidos/Dostoiévski - Noites brancas.pdf",
     "01 Pessoal/Dostoiévski - Memórias do subsolo.epub",
     "01 Pessoal/Dostoiévski - Noites brancas.epub",
@@ -220,7 +206,6 @@
     "Entre Inimigos.md",
     "01 Pessoal/ReZero/Não confirmado 536928.crdownload",
     "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-49.md",
-    "01 Pessoal/ReZero/Não confirmado 353085.crdownload",
     "01 - GIT E GITHUB/01 - COMANDOS BÁSICO.md",
     "09 - NEXTJS/00 - ESTRUTURA DE PASTAS.md",
     "Excalidraw/Drawing 2025-08-29 20.01.14.excalidraw.md",
