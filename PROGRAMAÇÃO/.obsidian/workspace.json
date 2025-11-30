@@ -11,12 +11,15 @@
             "id": "5af1f24d53b09d2d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "01 Pessoal/Amor Líquido/CAP 1 - Apaixonar-se e desapaixonar-se.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.10.6"
+              "icon": "lucide-file",
+              "title": "CAP 1 - Apaixonar-se e desapaixonar-se"
             }
           }
         ]
@@ -175,6 +178,8 @@
   },
   "active": "5af1f24d53b09d2d",
   "lastOpenFiles": [
+    "01 Pessoal/Byung-Chul Han - Sociedade do Cansaço.pdf",
+    "01 Pessoal/Não confirmado 207096.crdownload",
     "01 Pessoal/John Flanagan - Rangers Ordem dos Arqueiros - Terra do Gelo 3.pdf",
     "01 Pessoal/Zygmunt Bauman - Amor Liquido Sobre a Fragilidade dos Laços Humanos - Zahar.pdf",
     "01 Pessoal/Zygmunt Bauman - Amor Liquido Sobre a Fragilidade dos Laços Humanos.pdf",
@@ -197,7 +202,6 @@
     "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/Sacrificando Cavalo Lesionado.md",
     "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/Sem título.md",
     "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo também sofre/Empatia Inesperada com o Inimigo.md",
-    "FACULDADE.7z",
     "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo também sofre/O Peso das Decisões do Comandante.md",
     "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo também sofre/Vulnerabilidade Disfarçada do Inimigo.md",
     "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Identificando-se com o Inimigo.md",
@@ -206,7 +210,6 @@
     "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/O Carrasco Compassivo - A Dor de Punir.md",
     "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/Antagonista Protetor.md",
     "Entre Inimigos.md",
-    "01 Pessoal/ReZero/Não confirmado 536928.crdownload",
     "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-49.md",
     "01 - GIT E GITHUB/01 - COMANDOS BÁSICO.md",
     "09 - NEXTJS/00 - ESTRUTURA DE PASTAS.md",
