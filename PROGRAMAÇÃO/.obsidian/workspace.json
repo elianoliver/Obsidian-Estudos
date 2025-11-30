@@ -11,10 +11,12 @@
             "id": "5af1f24d53b09d2d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.10.6"
             }
           }
         ]
