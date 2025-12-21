@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "01 Pessoal/0 - Lidos/Zygmunt Bauman - Amor Liquido Sobre a Fragilidade dos Laços Humanos - Zahar.pdf"
+                "file": "02 Estudo/Nilo Ney - Introdução à Programação com Python.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Zygmunt Bauman - Amor Liquido Sobre a Fragilidade dos Laços Humanos - Zahar"
+              "title": "Nilo Ney - Introdução à Programação com Python"
             }
           }
         ]
@@ -173,23 +173,32 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "271a702203f418c9",
+  "active": "5af1f24d53b09d2d",
   "lastOpenFiles": [
-    "01 Pessoal/Zygmunt Bauman - Amor Liquido Sobre a Fragilidade dos Laços Humanos.pdf",
     "01 Pessoal/CAP 1 - Violencia Neuronal.m4a",
+    "01 Pessoal/Amor Líquido/CAP 1 - Apaixonar-se e desapaixonar-se.md",
+    "02 Estudo/00 Lidos/Entendendo Algoritmos/CAP 11 - Próximos Passos.md",
+    "02 Estudo/00 Lidos/Entendendo Algoritmos/CAP 10 - K-vizinhos mais próximos.md",
+    "02 Estudo/00 Lidos/Entendendo Algoritmos/CAP 9 - Programação Dinâmica.md",
+    "02 Estudo/00 Lidos/Entendendo Algoritmos/CAP 8 - Algoritmos Gulosos.md",
+    "02 Estudo/00 Lidos/Entendendo Algoritmos/CAP 7 - Praticando.md",
+    "02 Estudo/00 Lidos/Entendendo Algoritmos/CAP 7 - Algoritmo de Dijkstra.md",
+    "02 Estudo/00 Lidos/Entendendo Algoritmos/CAP 6 - Praticando.md",
+    "02 Estudo/00 Lidos/Entendendo Algoritmos/CAP 3 - Recursão.md",
+    "02 Estudo/00 Lidos/Entendendo Algoritmos/CAP 2 - Ordenação por seleção.md",
+    "02 Estudo/00 Lidos/Entendendo Algoritmos/CAP 1 - Introdução a algortimos.md",
+    "02 Estudo/00 Lidos/CDC - Web Design Responsivo.pdf",
+    "02 Estudo/00 Lidos/Bhargava - Entendendo Algoritmos.pdf",
+    "01 Pessoal/0 - Lidos/Zygmunt Bauman - Amor Liquido Sobre a Fragilidade dos Laços Humanos - Zahar.pdf",
+    "01 Pessoal/Zygmunt Bauman - Amor Liquido Sobre a Fragilidade dos Laços Humanos.pdf",
     "01 Pessoal/0 - Lidos/Byung-Chul Han - Sociedade do Cansaço.pdf",
     "01 Pessoal/Não confirmado 460336.crdownload",
-    "01 Pessoal/Amor Líquido/CAP 1 - Apaixonar-se e desapaixonar-se.md",
     "01 Pessoal/Não confirmado 207096.crdownload",
     "01 Pessoal/John Flanagan - Rangers Ordem dos Arqueiros - Terra do Gelo 3.pdf",
-    "01 Pessoal/0 - Lidos/Zygmunt Bauman - Amor Liquido Sobre a Fragilidade dos Laços Humanos - Zahar.pdf",
     "01 Pessoal/0 - Lidos/Dostoiévski - Noites brancas.pdf",
-    "01 Pessoal/Dostoiévski - Memórias do subsolo.epub",
-    "01 Pessoal/Dostoiévski - Noites brancas.epub",
     "01 Pessoal/ReZero/ReZero - 19/CAP 2 - Canção da Cidade em Chamas.md",
     "01 Pessoal/ReZero/ReZero - 19/CAP 0 - Cidade de Combates Desorganizados.md",
     "01 Pessoal/ReZero/ReZero - 19/CAP 1 - Início do Ataque ao Avareza.md",
-    "01 Pessoal/ReZero/ReZero - Livro 24.pdf",
     "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
     "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/04.jpg",
     "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/03.jpg",
@@ -207,17 +216,7 @@
     "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo é humano/O Toque Revelador.md",
     "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/O Carrasco Compassivo - A Dor de Punir.md",
     "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/Antagonista Protetor.md",
-    "Entre Inimigos.md",
-    "01 Pessoal/ReZero/ReZero - 21/Arco 6 - Cap 17-49.md",
-    "01 - GIT E GITHUB/01 - COMANDOS BÁSICO.md",
-    "09 - NEXTJS/00 - ESTRUTURA DE PASTAS.md",
-    "Excalidraw/Drawing 2025-08-29 20.01.14.excalidraw.md",
     "jair.png",
-    "09 - NEXTJS/00 - INTRODUÇÃO.md",
-    "04 - JAVASCRIPT/04 - OPERAÇÕES ARITMÉTICAS.md",
-    "04 - JAVASCRIPT/06 REGEX/01 - FLAGS REGEX.md",
-    "04 - JAVASCRIPT/06 REGEX/01 - SUBSTITUIR EM MASSA.md",
-    "04 - JAVASCRIPT/06 REGEX/02 - CLASSES DE CARACTERES.md",
     "04 - JAVASCRIPT/06 REGEX/regex.png",
     "05 - NODE/MVC.canvas",
     "Pasted image 20250714170029.png",
