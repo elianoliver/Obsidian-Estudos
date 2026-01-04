@@ -11,12 +11,12 @@
             "id": "5af1f24d53b09d2d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "epub",
               "state": {
-                "file": "02 Estudo/CDC - Crie aplicacoes com Angular.pdf"
+                "file": "01 Pessoal/Maquiavel - O Príncipe.epub"
               },
-              "icon": "lucide-file-text",
-              "title": "CDC - Crie aplicacoes com Angular"
+              "icon": "lucide-file",
+              "title": "Maquiavel - O Príncipe"
             }
           }
         ]
@@ -175,8 +175,8 @@
   },
   "active": "5af1f24d53b09d2d",
   "lastOpenFiles": [
-    "02 Estudo/JavaScript/CDC - Guia Prático de TypeScript.pdf",
     "02 Estudo/CDC - Crie aplicacoes com Angular.pdf",
+    "02 Estudo/JavaScript/CDC - Guia Prático de TypeScript.pdf",
     "02 Estudo/Angular2NotesForProfessionals.pdf",
     "02 Estudo/Não confirmado 342357.crdownload",
     "02 Estudo/AngularJSNotesForProfessionals.pdf",
