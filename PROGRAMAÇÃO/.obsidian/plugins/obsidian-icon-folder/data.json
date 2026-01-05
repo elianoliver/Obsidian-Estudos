@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasCircleCheck",
       "FasBookOpen",
       "FasCircleNotch",
       "FasCircleDot",
-      "FarCircle",
-      "FasHourglassEnd"
+      "FarCircle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,19 +50,18 @@
   "01 Pessoal": "FasWineGlass",
   "02 Estudo": "FasBook",
   "04 Concurso": "FasFaceAngry",
-  "01 Pessoal/John Flanagan - Rangers Ordem dos Arqueiros - Terra do Gelo 3.pdf": "FasCircleNotch",
   "02 Estudo/00 Lidos/Bhargava - Entendendo Algoritmos.pdf": "FasCircleCheck",
   "02 Estudo/00 Lidos/CDC - Web Design Responsivo.pdf": "FasCircleCheck",
   "01 Pessoal/ReZero": "FarCircleXmark",
-  "01 Pessoal/0 - Lidos": "FasCircleCheck",
-  "01 Pessoal/0 - Lidos/J. Sheridan Le Fanu - Carmilla.epub": "FasCircleCheck",
-  "01 Pessoal/0 - Lidos/John Flanagan - Rangers Ordem Dos Arqueiros - Ponte Em Chamas 2.epub": "FasCircleCheck",
-  "01 Pessoal/0 - Lidos/John Flanagan - Rangers Ordem dos Arqueiros - Ruinas de Gorlan 1.epub": "FasCircleCheck",
-  "01 Pessoal/ReZero/ReZero - Livro 23.pdf": "FasCircleCheck",
-  "01 Pessoal/0 - Lidos/Charles Bukowski - Mulheres.pdf": "FasCircleCheck",
-  "01 Pessoal/0 - Lidos/Dostoiévski - Noites brancas.pdf": "FasCircleCheck",
-  "01 Pessoal/0 - Lidos/Byung-Chul Han - Sociedade do Cansaço.pdf": "FasCircleCheck",
-  "01 Pessoal/0 - Lidos/Zygmunt Bauman - Amor Liquido Sobre a Fragilidade dos Laços Humanos - Zahar.pdf": "FasCircleCheck",
   "02 Estudo/00 Lidos/Entendendo Algoritmos": "FasCircleCheck",
-  "Personal Books.base": "FasBookOpen"
+  "Personal Books.base": "FasBookOpen",
+  "01 Pessoal/Books/John Flanagan - Rangers Ordem dos Arqueiros - Terra do Gelo 3.pdf": "FasCircleNotch",
+  "01 Pessoal/Books/Zygmunt Bauman - Amor Liquido Sobre a Fragilidade dos Laços Humanos - Zahar.pdf": "FasCircleCheck",
+  "01 Pessoal/Books/Byung-Chul Han - Sociedade do Cansaço.pdf": "FasCircleCheck",
+  "01 Pessoal/Books/Charles Bukowski - Mulheres.pdf": "FasCircleCheck",
+  "01 Pessoal/Books/Dostoiévski - Noites brancas.pdf": "FasCircleCheck",
+  "01 Pessoal/Books/J. Sheridan Le Fanu - Carmilla.epub": "FasCircleCheck",
+  "01 Pessoal/Books/John Flanagan - Rangers Ordem Dos Arqueiros - Ponte Em Chamas 2.epub": "FasCircleCheck",
+  "01 Pessoal/Books/John Flanagan - Rangers Ordem dos Arqueiros - Ruinas de Gorlan 1.epub": "FasCircleCheck",
+  "01 Pessoal/Read": "FasCircleCheck"
 }

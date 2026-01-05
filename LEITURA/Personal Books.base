@@ -1,4 +1,20 @@
 views:
+  - type: cards
+    name: Visualizaçao padrão
+    filters:
+      or:
+        - file.folder == "01 Pessoal"
+        - file.folder == "01 Pessoal/Read"
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - author
+      - file.embeds
+    image: note.coverUrl
+    cardSize: 160
+    imageAspectRatio: 1.5
   - type: table
     name: Tabela
     order:
@@ -8,16 +24,3 @@ views:
         direction: DESC
     columnSize:
       file.name: 361
-  - type: cards
-    name: Visualizaçao padrão
-    filters:
-      and:
-        - file.inFolder("01 Pessoal")
-    groupBy:
-      property: file.folder
-      direction: ASC
-    order:
-      - file.name
-    image: file.file
-    cardSize: 200
-    imageAspectRatio: 1.4
