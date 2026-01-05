@@ -11,12 +11,13 @@
             "id": "5af1f24d53b09d2d",
             "type": "leaf",
             "state": {
-              "type": "epub",
+              "type": "bases",
               "state": {
-                "file": "01 Pessoal/Maquiavel - O Príncipe.epub"
+                "file": "Personal Books.base",
+                "viewName": "Visualizaçao padrão"
               },
-              "icon": "lucide-file",
-              "title": "Maquiavel - O Príncipe"
+              "icon": "lucide-layout-grid",
+              "title": "Personal Books"
             }
           }
         ]
@@ -39,7 +40,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -51,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "date",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,13 +93,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Pessoal/Dostoiévski - Noites brancas.pdf",
+                "file": "Personal Books.base",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Dostoiévski - Noites brancas"
+              "title": "Sumário de Personal Books"
             }
           },
           {
@@ -154,12 +155,12 @@
               "title": "Todas as propriedades"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 338.5,
-    "collapsed": true
+    "width": 338.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,14 +176,21 @@
   },
   "active": "5af1f24d53b09d2d",
   "lastOpenFiles": [
+    "01 Pessoal/Maquiavel - O Príncipe.epub",
+    "Personal Books.base",
+    "01 Pessoal/Marco Aurelio - Meditações - Edipro.pdf",
+    "01 Pessoal/John Flanagan - Rangers Ordem dos Arqueiros - Terra do Gelo 3.pdf",
+    "01 Pessoal/img.md",
+    "01 Pessoal/Sem título.md",
+    "Sem título.md",
+    "04 Concurso/DIREITO CONSTITUCIONAL/02 DIREITOS SOCIAIS/01 Noção Geral.md",
+    "01 Pessoal/Natália Sulman - A poética de Platão.pdf",
+    "04 Concurso/DIREITO CONSTITUCIONAL/00 Constituição.pdf",
+    "01 Pessoal/CAP 1 - Violencia Neuronal.m4a",
     "02 Estudo/CDC - Crie aplicacoes com Angular.pdf",
     "02 Estudo/JavaScript/CDC - Guia Prático de TypeScript.pdf",
     "02 Estudo/Angular2NotesForProfessionals.pdf",
     "02 Estudo/Não confirmado 342357.crdownload",
-    "02 Estudo/AngularJSNotesForProfessionals.pdf",
-    "02 Estudo/CDC - Angular 8 E Firebase.pdf",
-    "02 Estudo/Nilo Ney - Introdução à Programação com Python.pdf",
-    "01 Pessoal/CAP 1 - Violencia Neuronal.m4a",
     "01 Pessoal/Amor Líquido/CAP 1 - Apaixonar-se e desapaixonar-se.md",
     "02 Estudo/00 Lidos/Entendendo Algoritmos/CAP 11 - Próximos Passos.md",
     "02 Estudo/00 Lidos/Entendendo Algoritmos/CAP 10 - K-vizinhos mais próximos.md",
@@ -194,9 +202,6 @@
     "02 Estudo/00 Lidos/Entendendo Algoritmos/CAP 3 - Recursão.md",
     "02 Estudo/00 Lidos/Entendendo Algoritmos/CAP 2 - Ordenação por seleção.md",
     "02 Estudo/00 Lidos/Entendendo Algoritmos/CAP 1 - Introdução a algortimos.md",
-    "02 Estudo/00 Lidos/CDC - Web Design Responsivo.pdf",
-    "02 Estudo/00 Lidos/Bhargava - Entendendo Algoritmos.pdf",
-    "01 Pessoal/0 - Lidos/Zygmunt Bauman - Amor Liquido Sobre a Fragilidade dos Laços Humanos - Zahar.pdf",
     "01 Pessoal/ReZero/ReZero - 19/CAP 2 - Canção da Cidade em Chamas.md",
     "01 Pessoal/ReZero/ReZero - 19/CAP 0 - Cidade de Combates Desorganizados.md",
     "01 Pessoal/ReZero/ReZero - 19/CAP 1 - Início do Ataque ao Avareza.md",
@@ -213,10 +218,6 @@
     "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo também sofre/O Peso das Decisões do Comandante.md",
     "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo também sofre/Vulnerabilidade Disfarçada do Inimigo.md",
     "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Identificando-se com o Inimigo.md",
-    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo é humano/Percebendo que o inimigo é humano.md",
-    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/02 Inimigo → Compreensão, Intimidade Psíquica/Percebendo que o inimigo é humano/O Toque Revelador.md",
-    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/O Carrasco Compassivo - A Dor de Punir.md",
-    "03 ENTRE INIMIGOS/Vendo o Inimigo Por Outro Lado/01 Bondades que parecem más/Antagonista Protetor.md",
     "jair.png",
     "04 - JAVASCRIPT/06 REGEX/regex.png",
     "05 - NODE/MVC.canvas",

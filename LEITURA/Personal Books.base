@@ -1,0 +1,23 @@
+views:
+  - type: table
+    name: Tabela
+    order:
+      - file.name
+    sort:
+      - property: img
+        direction: DESC
+    columnSize:
+      file.name: 361
+  - type: cards
+    name: Visualizaçao padrão
+    filters:
+      and:
+        - file.inFolder("01 Pessoal")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+    image: file.file
+    cardSize: 200
+    imageAspectRatio: 1.4

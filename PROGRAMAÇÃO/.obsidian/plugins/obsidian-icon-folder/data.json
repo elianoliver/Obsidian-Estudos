@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasBookOpen",
       "FasCircleNotch",
       "FasCircleDot",
       "FarCircle",
-      "FasHourglassEnd",
-      "FasCircleCheck"
+      "FasHourglassEnd"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -63,5 +63,6 @@
   "01 Pessoal/0 - Lidos/Dostoiévski - Noites brancas.pdf": "FasCircleCheck",
   "01 Pessoal/0 - Lidos/Byung-Chul Han - Sociedade do Cansaço.pdf": "FasCircleCheck",
   "01 Pessoal/0 - Lidos/Zygmunt Bauman - Amor Liquido Sobre a Fragilidade dos Laços Humanos - Zahar.pdf": "FasCircleCheck",
-  "02 Estudo/00 Lidos/Entendendo Algoritmos": "FasCircleCheck"
+  "02 Estudo/00 Lidos/Entendendo Algoritmos": "FasCircleCheck",
+  "Personal Books.base": "FasBookOpen"
 }
