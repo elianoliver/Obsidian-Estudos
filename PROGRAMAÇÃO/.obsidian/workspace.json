@@ -118,12 +118,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Pessoal/Dostoiévski - Noites brancas.pdf",
+                "file": "Personal Books.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Dostoiévski - Noites brancas"
+              "title": "Links de saída para Personal Books"
             }
           },
           {
@@ -156,12 +156,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 338.5,
-    "collapsed": true
+    "width": 338.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +175,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "271a702203f418c9",
+  "active": "fa512d1e85198c81",
   "lastOpenFiles": [
     "01 Pessoal/Books/ReZero - Livro 23.pdf",
     "Personal Books.base",

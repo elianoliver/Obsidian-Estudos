@@ -13,7 +13,7 @@ views:
       - author
       - file.embeds
     image: note.coverUrl
-    cardSize: 160
+    cardSize: 240
     imageAspectRatio: 1.5
   - type: table
     name: Tabela
