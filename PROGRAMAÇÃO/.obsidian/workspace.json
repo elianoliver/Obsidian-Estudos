@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd3a273e9a89c986",
+        "id": "1bf2a66fa63e38f7",
         "type": "tabs",
         "children": [
           {
-            "id": "78c9310aa54f3237",
+            "id": "2d5fb01dea262958",
             "type": "leaf",
             "state": {
               "type": "bases",
@@ -175,10 +175,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "fa512d1e85198c81",
+  "active": "271a702203f418c9",
   "lastOpenFiles": [
-    "01 Pessoal/Books/ReZero - Livro 23.pdf",
+    "01 Pessoal/Books/ReZero - Livro 24.pdf",
     "Personal Books.base",
+    "01 Pessoal/ReZERO -Starting Life in Another World- Vol 24 (light novel) - Tappei Nagatsuki.md",
+    "01 Pessoal/Books/ReZero - Livro 23.pdf",
     "01 Pessoal/Read/ReZero - Começando uma Vida em Outro Mundo - Livro 23 - Tappei Nagatsuki.md",
     "01 Pessoal/Read/Sociedade do cansaço - Byung-Chul Han.md",
     "01 Pessoal/Read/Amor líquido - Zygmunt Bauman.md",
@@ -211,7 +213,6 @@
     "02 Estudo/00 Lidos/Entendendo Algoritmos/CAP 11 - Próximos Passos.md",
     "02 Estudo/00 Lidos/Entendendo Algoritmos/CAP 10 - K-vizinhos mais próximos.md",
     "02 Estudo/00 Lidos/Entendendo Algoritmos/CAP 9 - Programação Dinâmica.md",
-    "02 Estudo/00 Lidos/Entendendo Algoritmos/CAP 8 - Algoritmos Gulosos.md",
     "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
     "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/04.jpg",
     "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/03.jpg",
