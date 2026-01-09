@@ -17,3 +17,5 @@ isbn13: 9788520928288
 isbn10: 8520928285
 ---
 ![[Maquiavel - O Príncipe.epub]]
+
+Sofrer - manter a calma

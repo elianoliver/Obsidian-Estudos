@@ -11,13 +11,27 @@
             "id": "2d5fb01dea262958",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "epub",
               "state": {
-                "file": "Personal Books.base",
-                "viewName": "Visualizaçao padrão"
+                "file": "01 Pessoal/Books/Maquiavel - O Príncipe.epub"
               },
-              "icon": "lucide-layout-grid",
-              "title": "Personal Books"
+              "icon": "lucide-file",
+              "title": "Maquiavel - O Príncipe"
+            }
+          },
+          {
+            "id": "6dc61568d5d877bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Pessoal/O Príncipe - Maquiavel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "O Príncipe - Maquiavel"
             }
           }
         ]
@@ -160,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 338.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,8 +192,11 @@
   },
   "active": "2d5fb01dea262958",
   "lastOpenFiles": [
-    "01 Pessoal/ReZERO -Starting Life in Another World- Vol 24 (light novel) - Tappei Nagatsuki.md",
+    "01 Pessoal/Books/Marco Aurelio - Meditações - Edipro.pdf",
+    "01 Pessoal/Books/Maquiavel - O Príncipe.epub",
+    "01 Pessoal/O Príncipe - Maquiavel.md",
     "Personal Books.base",
+    "01 Pessoal/ReZERO -Starting Life in Another World- Vol 24 (light novel) - Tappei Nagatsuki.md",
     "01 Pessoal/Books/ReZero - Livro 24.pdf",
     "01 Pessoal/Books/ReZero - Livro 23.pdf",
     "01 Pessoal/Read/ReZero - Começando uma Vida em Outro Mundo - Livro 23 - Tappei Nagatsuki.md",
@@ -186,7 +204,6 @@
     "01 Pessoal/Read/Amor líquido - Zygmunt Bauman.md",
     "01 Pessoal/A República - Platão.md",
     "01 Pessoal/A poética de Platão (Digital) - Natália Sulman.md",
-    "01 Pessoal/O Príncipe - Maquiavel.md",
     "01 Pessoal/Terra do Gelo - John Flanagan.md",
     "01 Pessoal/Read/Ponte em Chamas - John Flanagan.md",
     "01 Pessoal/Books/John Flanagan - Rangers Ordem Dos Arqueiros - Ponte Em Chamas 2.epub",
@@ -200,9 +217,7 @@
     "01 Pessoal/Read/Mulheres - Charles Bukowski.md",
     "01 Pessoal/Read",
     "01 Pessoal/Meditações - Marco Aurélio.md",
-    "01 Pessoal/Books/Marco Aurelio - Meditações - Edipro.pdf",
     "01 Pessoal/Books/Natália Sulman - A poética de Platão.pdf",
-    "01 Pessoal/Books/Maquiavel - O Príncipe.epub",
     "01 Pessoal/Sem título.md",
     "01 Pessoal/Meditações De Marco Aurélio - Aurélio Marco.md",
     "Sem título.md",
