@@ -11,10 +11,15 @@
             "id": "2d5fb01dea262958",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03 - CSS/02 - SELETORES CSS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "02 - SELETORES CSS"
             }
           },
           {
@@ -105,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Books.base",
+                "file": "03 - CSS/02 - SELETORES CSS.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Personal Books"
+              "title": "Sumário de 02 - SELETORES CSS"
             }
           },
           {
@@ -167,13 +172,11 @@
               "title": "Todas as propriedades"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 338.5,
-    "collapsed": true
+    "width": 338.5
   },
   "left-ribbon": {
     "hiddenItems": {

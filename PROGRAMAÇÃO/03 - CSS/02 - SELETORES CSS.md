@@ -5,8 +5,8 @@
 - [[#Seletores de Descendentes]]
 - [[#Seletores de Filhos Diretos]]
 - [[#Seletores de Atributo]]
-- [[#Seletores de Pseudo classes]]
-- [[#Seletores de Pseudo elementos]]
+- [[#Seletores de Pseudo-classes ( )]]
+- [[#Seletores de Pseudo-elementos ( )]]
 - [[#Seletores Universais]]
 - [[#Seletores de Grupo]]
 - [[#General Sibling Combinator (~)]]
@@ -85,7 +85,7 @@ a:hover {
 ```
 
 ## Seletores de Pseudo-elementos (::)
-Os seletores de pseudo-elementos selecionam partes específicas de um elemento, como `::before` e `::after`, para adicionar estilos.
+Os seletores de pseudo-elementos selecionam partes específicas de um elemento, como `::before` e `::after`, para adicionar estilos antes ou depois.
 
 Exemplo:
 ```css
