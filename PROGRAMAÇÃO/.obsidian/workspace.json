@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - CSS/03 - BACKGROUND.md",
+                "file": "03 - CSS/14 - FLEXBOX.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "03 - BACKGROUND"
+              "title": "14 - FLEXBOX"
             }
           },
           {
@@ -90,8 +90,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - CSS/03 - BACKGROUND.md",
+                "file": "03 - CSS/14 - FLEXBOX.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 03 - BACKGROUND"
+              "title": "Sumário de 14 - FLEXBOX"
             }
           },
           {
@@ -194,10 +193,12 @@
   },
   "active": "2d5fb01dea262958",
   "lastOpenFiles": [
+    "03 - CSS/16 - MEDIA QUERIES.md",
+    "03 - CSS/02 - SELETORES CSS.md",
+    "03 - CSS/14 - FLEXBOX.md",
+    "03 - CSS/03 - BACKGROUND.md",
     "03 - CSS/11 - FILTROS NO CSS.md",
     "03 - CSS/04 - TEXTO.md",
-    "03 - CSS/14 - FLEXBOX.md",
-    "03 - CSS/02 - SELETORES CSS.md",
     "01 Pessoal/Books/Marco Aurelio - Meditações - Edipro.pdf",
     "01 Pessoal/Books/Maquiavel - O Príncipe.epub",
     "01 Pessoal/O Príncipe - Maquiavel.md",
@@ -228,8 +229,6 @@
     "01 Pessoal/Meditações De Marco Aurélio - Aurélio Marco.md",
     "Sem título.md",
     "01 Pessoal/img.md",
-    "04 Concurso/DIREITO CONSTITUCIONAL/02 DIREITOS SOCIAIS/01 Noção Geral.md",
-    "01 Pessoal/Amor Líquido/CAP 1 - Apaixonar-se e desapaixonar-se.md",
     "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
     "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/04.jpg",
     "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/03.jpg",
