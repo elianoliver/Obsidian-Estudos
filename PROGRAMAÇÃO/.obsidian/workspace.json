@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "88cee4c458fdb066",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.11.4"
+            }
+          },
+          {
             "id": "6dc61568d5d877bd",
             "type": "leaf",
             "state": {
@@ -37,7 +49,8 @@
               "title": "O Príncipe - Maquiavel"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +204,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "2d5fb01dea262958",
+  "active": "88cee4c458fdb066",
   "lastOpenFiles": [
     "03 - CSS/16 - MEDIA QUERIES.md",
     "03 - CSS/02 - SELETORES CSS.md",
