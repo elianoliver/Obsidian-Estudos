@@ -26,15 +26,10 @@
             "id": "88cee4c458fdb066",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - JAVASCRIPT/02 - LOCAIS PARA JS.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "02 - LOCAIS PARA JS"
+              "title": "Nova aba"
             }
           },
           {
@@ -126,13 +121,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/02 - LOCAIS PARA JS.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 02 - LOCAIS PARA JS"
+              "title": "Sumário"
             }
           },
           {
