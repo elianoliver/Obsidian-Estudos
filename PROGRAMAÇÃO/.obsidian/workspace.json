@@ -26,12 +26,15 @@
             "id": "88cee4c458fdb066",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "04 - JAVASCRIPT/02 - LOCAIS PARA JS.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.11.4"
+              "icon": "lucide-file",
+              "title": "02 - LOCAIS PARA JS"
             }
           },
           {
@@ -123,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - CSS/14 - FLEXBOX.md",
+                "file": "04 - JAVASCRIPT/02 - LOCAIS PARA JS.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 14 - FLEXBOX"
+              "title": "Sumário de 02 - LOCAIS PARA JS"
             }
           },
           {
@@ -206,6 +209,7 @@
   },
   "active": "88cee4c458fdb066",
   "lastOpenFiles": [
+    "04 - JAVASCRIPT/02 - COMEÇANDO COM JS.md",
     "03 - CSS/16 - MEDIA QUERIES.md",
     "03 - CSS/02 - SELETORES CSS.md",
     "03 - CSS/14 - FLEXBOX.md",
@@ -241,7 +245,6 @@
     "01 Pessoal/Sem título.md",
     "01 Pessoal/Meditações De Marco Aurélio - Aurélio Marco.md",
     "Sem título.md",
-    "01 Pessoal/img.md",
     "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
     "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/04.jpg",
     "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/03.jpg",
