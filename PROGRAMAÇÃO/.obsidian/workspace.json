@@ -26,12 +26,15 @@
             "id": "6dc61568d5d877bd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "04 Concurso/00 edital/edital - Prefeitura de Florianópolis.pdf"
+                "file": "04 Concurso/00 edital/Resumo.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "edital - Prefeitura de Florianópolis"
+              "icon": "lucide-file",
+              "title": "Resumo"
             }
           }
         ],
@@ -108,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Concurso/00 edital/edital - Prefeitura de Florianópolis.pdf",
+                "file": "04 Concurso/00 edital/Resumo.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de edital - Prefeitura de Florianópolis"
+              "title": "Sumário de Resumo"
             }
           },
           {
@@ -189,8 +192,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "271a702203f418c9",
+  "active": "6dc61568d5d877bd",
   "lastOpenFiles": [
+    "01 Pessoal/A República - Platão.md",
+    "04 Concurso/00 edital/Resumo.md",
     "04 Concurso/00 edital/edital - Prefeitura de Florianópolis.pdf",
     "04 Concurso/00 edital/Não confirmado 425505.crdownload",
     "04 Concurso/00 edital/CONCURSO MPU EDITAL.md",
@@ -211,7 +216,6 @@
     "01 Pessoal/Read/ReZero - Começando uma Vida em Outro Mundo - Livro 23 - Tappei Nagatsuki.md",
     "01 Pessoal/Read/Sociedade do cansaço - Byung-Chul Han.md",
     "01 Pessoal/Read/Amor líquido - Zygmunt Bauman.md",
-    "01 Pessoal/A República - Platão.md",
     "01 Pessoal/A poética de Platão (Digital) - Natália Sulman.md",
     "01 Pessoal/Terra do Gelo - John Flanagan.md",
     "01 Pessoal/Read/Ponte em Chamas - John Flanagan.md",
@@ -224,9 +228,7 @@
     "01 Pessoal/Read/Carmilla - A Vampira de Karnstein - J Sheridan Le Fanu.md",
     "01 Pessoal/Como fazer amigos e influenciar pessoas - Dale Carnegie.md",
     "01 Pessoal/Read/Mulheres - Charles Bukowski.md",
-    "01 Pessoal/Read",
     "01 Pessoal/Meditações - Marco Aurélio.md",
-    "01 Pessoal/Sem título.md",
     "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
     "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/04.jpg",
     "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/03.jpg",
