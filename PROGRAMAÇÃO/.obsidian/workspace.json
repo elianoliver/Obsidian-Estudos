@@ -23,28 +23,15 @@
             }
           },
           {
-            "id": "88cee4c458fdb066",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
             "id": "6dc61568d5d877bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "01 Pessoal/O Príncipe - Maquiavel.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "04 Concurso/00 edital/edital - Prefeitura de Florianópolis.pdf"
               },
-              "icon": "lucide-file",
-              "title": "O Príncipe - Maquiavel"
+              "icon": "lucide-file-text",
+              "title": "edital - Prefeitura de Florianópolis"
             }
           }
         ],
@@ -121,12 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "04 Concurso/00 edital/edital - Prefeitura de Florianópolis.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de edital - Prefeitura de Florianópolis"
             }
           },
           {
@@ -201,8 +189,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "88cee4c458fdb066",
+  "active": "271a702203f418c9",
   "lastOpenFiles": [
+    "04 Concurso/00 edital/edital - Prefeitura de Florianópolis.pdf",
+    "04 Concurso/00 edital/Não confirmado 425505.crdownload",
+    "04 Concurso/00 edital/CONCURSO MPU EDITAL.md",
+    "Personal Books.base",
     "04 - JAVASCRIPT/02 - COMEÇANDO COM JS.md",
     "03 - CSS/16 - MEDIA QUERIES.md",
     "03 - CSS/02 - SELETORES CSS.md",
@@ -213,7 +205,6 @@
     "01 Pessoal/Books/Marco Aurelio - Meditações - Edipro.pdf",
     "01 Pessoal/Books/Maquiavel - O Príncipe.epub",
     "01 Pessoal/O Príncipe - Maquiavel.md",
-    "Personal Books.base",
     "01 Pessoal/ReZERO -Starting Life in Another World- Vol 24 (light novel) - Tappei Nagatsuki.md",
     "01 Pessoal/Books/ReZero - Livro 24.pdf",
     "01 Pessoal/Books/ReZero - Livro 23.pdf",
@@ -235,10 +226,7 @@
     "01 Pessoal/Read/Mulheres - Charles Bukowski.md",
     "01 Pessoal/Read",
     "01 Pessoal/Meditações - Marco Aurélio.md",
-    "01 Pessoal/Books/Natália Sulman - A poética de Platão.pdf",
     "01 Pessoal/Sem título.md",
-    "01 Pessoal/Meditações De Marco Aurélio - Aurélio Marco.md",
-    "Sem título.md",
     "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
     "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/04.jpg",
     "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/03.jpg",
