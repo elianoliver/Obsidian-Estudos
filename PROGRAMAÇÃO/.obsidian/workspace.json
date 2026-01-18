@@ -26,15 +26,13 @@
             "id": "6dc61568d5d877bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "04 Concurso/00 edital/Resumo.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "file": "Personal Books.base",
+                "viewName": "Visualizaçao padrão"
               },
-              "icon": "lucide-file",
-              "title": "Resumo"
+              "icon": "lucide-layout-grid",
+              "title": "Personal Books"
             }
           }
         ],
@@ -111,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Concurso/00 edital/Resumo.md",
+                "file": "Personal Books.base",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Resumo"
+              "title": "Sumário de Personal Books"
             }
           },
           {
@@ -194,9 +192,9 @@
   },
   "active": "6dc61568d5d877bd",
   "lastOpenFiles": [
-    "01 Pessoal/A República - Platão.md",
-    "04 Concurso/00 edital/Resumo.md",
     "04 Concurso/00 edital/edital - Prefeitura de Florianópolis.pdf",
+    "04 Concurso/00 edital/Resumo.md",
+    "01 Pessoal/A República - Platão.md",
     "04 Concurso/00 edital/Não confirmado 425505.crdownload",
     "04 Concurso/00 edital/CONCURSO MPU EDITAL.md",
     "Personal Books.base",
