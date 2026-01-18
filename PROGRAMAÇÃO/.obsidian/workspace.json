@@ -26,10 +26,15 @@
             "id": "6dc61568d5d877bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 - JAVASCRIPT/10 - FUNÇÕES.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "10 - FUNÇÕES"
             }
           }
         ],
@@ -106,12 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "04 - JAVASCRIPT/10 - FUNÇÕES.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 10 - FUNÇÕES"
             }
           },
           {
@@ -188,6 +194,10 @@
   },
   "active": "6dc61568d5d877bd",
   "lastOpenFiles": [
+    "04 - JAVASCRIPT/12 CLASSES/04 - PROPRIEDADES E MÉTODOS ESTÁTICOS.md",
+    "04 - JAVASCRIPT/12 CLASSES/03 - HERANÇA.md",
+    "04 - JAVASCRIPT/12 CLASSES/02 - THIS.md",
+    "04 - JAVASCRIPT/12 CLASSES/01 - CLASSES.md",
     "04 Concurso/00 edital/edital - Prefeitura de Florianópolis.pdf",
     "04 Concurso/00 edital/Resumo.md",
     "01 Pessoal/A República - Platão.md",
@@ -220,9 +230,6 @@
     "01 Pessoal/Read/Ruínas de Gorlan - John Anthony Flanagan.md",
     "01 Pessoal/Books/J. Sheridan Le Fanu - Carmilla.epub",
     "01 Pessoal/Read/Carmilla - A Vampira de Karnstein - J Sheridan Le Fanu.md",
-    "01 Pessoal/Como fazer amigos e influenciar pessoas - Dale Carnegie.md",
-    "01 Pessoal/Read/Mulheres - Charles Bukowski.md",
-    "01 Pessoal/Meditações - Marco Aurélio.md",
     "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
     "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/04.jpg",
     "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/03.jpg",

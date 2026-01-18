@@ -41,9 +41,7 @@ Neste exemplo, a função `somarNumeros` é declarada com um nome específico e 
 
 ## Funções Anônimas
 
-Funções anônimas são aquelas que não são declaradas com um nome específico no momento da criação. Em vez disso, elas são atribuídas a uma variável ou passadas como argumentos para outras funções. Essa capacidade de tratar funções como valores de primeira classe é uma característica fundamental do JavaScript.
-
-A sintaxe básica de uma função anônima é a seguinte:
+Funções anônimas são aquelas que não são declaradas com um nome específico no momento da criação. Em vez disso, elas são atribuídas a uma variável ou passadas como argumentos para outras funções.
 
 ```javascript
 const nomeDaVariavel = function(parametro1, parametro2) {
