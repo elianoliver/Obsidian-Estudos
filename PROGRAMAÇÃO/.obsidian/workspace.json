@@ -28,17 +28,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - JAVASCRIPT/10 - FUNÇÕES.md",
+                "file": "04 - JAVASCRIPT/09 - OBJETOS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "10 - FUNÇÕES"
+              "title": "09 - OBJETOS"
+            }
+          },
+          {
+            "id": "52ed2e64c64a7d87",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.11.5"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/10 - FUNÇÕES.md",
+                "file": "04 - JAVASCRIPT/09 - OBJETOS.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 10 - FUNÇÕES"
+              "title": "Sumário de 09 - OBJETOS"
             }
           },
           {
@@ -192,8 +204,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "6dc61568d5d877bd",
+  "active": "52ed2e64c64a7d87",
   "lastOpenFiles": [
+    "04 - JAVASCRIPT/10 - FUNÇÕES.md",
+    "02 - HTML/03 - TAGS TABELAS.md",
+    "04 - JAVASCRIPT/02 - LOCAIS PARA JS.md",
     "04 - JAVASCRIPT/12 CLASSES/04 - PROPRIEDADES E MÉTODOS ESTÁTICOS.md",
     "04 - JAVASCRIPT/12 CLASSES/03 - HERANÇA.md",
     "04 - JAVASCRIPT/12 CLASSES/02 - THIS.md",
@@ -226,10 +241,7 @@
     "01 Pessoal/Books/John Flanagan - Rangers Ordem Dos Arqueiros - Ponte Em Chamas 2.epub",
     "01 Pessoal/Books/John Flanagan - Rangers Ordem dos Arqueiros - Ruinas de Gorlan 1.epub",
     "01 Pessoal/O morro dos ventos uivantes edição comentada - Emily Brontë.md",
-    "01 Pessoal/Read/Noites brancas - Fiódor Dostoiévski.md",
-    "01 Pessoal/Read/Ruínas de Gorlan - John Anthony Flanagan.md",
     "01 Pessoal/Books/J. Sheridan Le Fanu - Carmilla.epub",
-    "01 Pessoal/Read/Carmilla - A Vampira de Karnstein - J Sheridan Le Fanu.md",
     "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
     "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/04.jpg",
     "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/03.jpg",
