@@ -26,31 +26,14 @@
             "id": "6dc61568d5d877bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - JAVASCRIPT/09 - OBJETOS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "09 - OBJETOS"
-            }
-          },
-          {
-            "id": "52ed2e64c64a7d87",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.11.5"
+              "title": "Nova aba"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,13 +106,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - JAVASCRIPT/09 - OBJETOS.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 09 - OBJETOS"
+              "title": "Sumário"
             }
           },
           {
@@ -204,7 +186,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "52ed2e64c64a7d87",
+  "active": "6dc61568d5d877bd",
   "lastOpenFiles": [
     "04 - JAVASCRIPT/10 - FUNÇÕES.md",
     "02 - HTML/03 - TAGS TABELAS.md",
