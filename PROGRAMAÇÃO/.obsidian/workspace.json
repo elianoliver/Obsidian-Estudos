@@ -26,10 +26,12 @@
             "id": "6dc61568d5d877bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "pdf",
+              "state": {
+                "file": "04 Concurso/00 edital/fepese-2023-coren-sc-analista-de-sistemas-as2-prova.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "fepese-2023-coren-sc-analista-de-sistemas-as2-prova"
             }
           }
         ],
@@ -106,12 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "04 Concurso/00 edital/fepese-2023-coren-sc-analista-de-sistemas-as2-prova.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de fepese-2023-coren-sc-analista-de-sistemas-as2-prova"
             }
           },
           {
