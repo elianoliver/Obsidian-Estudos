@@ -28,10 +28,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "04 Concurso/00 edital/fepese-2023-coren-sc-analista-de-sistemas-as2-prova.pdf"
+                "file": "01 Pessoal/Books/Platão - A República.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "fepese-2023-coren-sc-analista-de-sistemas-as2-prova"
+              "title": "Platão - A República"
             }
           }
         ],
@@ -108,13 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Concurso/00 edital/fepese-2023-coren-sc-analista-de-sistemas-as2-prova.pdf",
+                "file": "01 Pessoal/Books/Platão - A República.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de fepese-2023-coren-sc-analista-de-sistemas-as2-prova"
+              "title": "Sumário de Platão - A República"
             }
           },
           {
@@ -191,6 +191,7 @@
   },
   "active": "6dc61568d5d877bd",
   "lastOpenFiles": [
+    "04 Concurso/00 edital/fepese-2023-coren-sc-analista-de-sistemas-as2-prova.pdf",
     "04 - JAVASCRIPT/10 - FUNÇÕES.md",
     "02 - HTML/03 - TAGS TABELAS.md",
     "04 - JAVASCRIPT/02 - LOCAIS PARA JS.md",
@@ -225,7 +226,6 @@
     "01 Pessoal/Read/Ponte em Chamas - John Flanagan.md",
     "01 Pessoal/Books/John Flanagan - Rangers Ordem Dos Arqueiros - Ponte Em Chamas 2.epub",
     "01 Pessoal/Books/John Flanagan - Rangers Ordem dos Arqueiros - Ruinas de Gorlan 1.epub",
-    "01 Pessoal/O morro dos ventos uivantes edição comentada - Emily Brontë.md",
     "01 Pessoal/Books/J. Sheridan Le Fanu - Carmilla.epub",
     "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
     "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/04.jpg",
