@@ -11,15 +11,13 @@
             "id": "cee70ee55111efdc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "04 Concurso/Portugues/Sem título.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "file": "Personal Books.base",
+                "viewName": "Visualizaçao padrão"
               },
-              "icon": "lucide-file",
-              "title": "Sem título"
+              "icon": "lucide-layout-grid",
+              "title": "Personal Books"
             }
           }
         ]
@@ -95,13 +93,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Concurso/Portugues/Sem título.md",
+                "file": "Personal Books.base",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sem título"
+              "title": "Sumário de Personal Books"
             }
           },
           {
@@ -176,10 +174,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "cee70ee55111efdc",
+  "active": "271a702203f418c9",
   "lastOpenFiles": [
-    "Personal Books.base",
+    "01 Pessoal/Books/A República Platão.pdf",
+    "01 Pessoal/A República - Platão.md",
     "04 Concurso/Portugues/Sem título.md",
+    "Personal Books.base",
     "01 Pessoal/Books/Platão - A República.pdf",
     "04 Concurso/Portugues",
     "04 Concurso/00 edital/fepese-2023-coren-sc-analista-de-sistemas-as2-prova.pdf",
@@ -192,7 +192,6 @@
     "04 - JAVASCRIPT/12 CLASSES/01 - CLASSES.md",
     "04 Concurso/00 edital/edital - Prefeitura de Florianópolis.pdf",
     "04 Concurso/00 edital/Resumo.md",
-    "01 Pessoal/A República - Platão.md",
     "04 Concurso/00 edital/Não confirmado 425505.crdownload",
     "04 Concurso/00 edital/CONCURSO MPU EDITAL.md",
     "04 - JAVASCRIPT/02 - COMEÇANDO COM JS.md",
@@ -207,7 +206,6 @@
     "01 Pessoal/O Príncipe - Maquiavel.md",
     "01 Pessoal/ReZERO -Starting Life in Another World- Vol 24 (light novel) - Tappei Nagatsuki.md",
     "01 Pessoal/Books/ReZero - Livro 24.pdf",
-    "01 Pessoal/Books/ReZero - Livro 23.pdf",
     "01 Pessoal/Read/ReZero - Começando uma Vida em Outro Mundo - Livro 23 - Tappei Nagatsuki.md",
     "01 Pessoal/Read/Sociedade do cansaço - Byung-Chul Han.md",
     "01 Pessoal/Read/Amor líquido - Zygmunt Bauman.md",
