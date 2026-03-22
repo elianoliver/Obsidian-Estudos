@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasCircleCheck",
-      "FasBookOpen",
-      "FasCircleNotch",
-      "FasCircleDot",
-      "FarCircle"
+      "FasFaceSadCry",
+      "FarFaceSadCry",
+      "FasFaceTired",
+      "😫",
+      "FasCircleCheck"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -49,7 +49,7 @@
   "GERNÊNCIA DE REDES/Entregues": "FasCircleCheck",
   "01 Pessoal": "FasWineGlass",
   "02 Estudo": "FasBook",
-  "04 Concurso": "FasFaceAngry",
+  "04 Concurso": "FasFaceSadCry",
   "01 Pessoal/ReZero": "FarCircleXmark",
   "01 Pessoal/John Flanagan - Rangers Ordem dos Arqueiros - Terra do Gelo 3.pdf": "FasCircleNotch",
   "01 Pessoal/00 Read": "FasCircleCheck",

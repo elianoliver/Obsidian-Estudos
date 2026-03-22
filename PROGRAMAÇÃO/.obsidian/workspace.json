@@ -25,14 +25,26 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "02 Estudo/Angular2NotesForProfessionals.pdf"
+                "file": "02 Estudo/AngularJSNotesForProfessionals.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Angular2NotesForProfessionals"
+              "title": "AngularJSNotesForProfessionals"
+            }
+          },
+          {
+            "id": "f64158766193aab6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.12.4"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,13 +117,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Estudo/Angular2NotesForProfessionals.pdf",
+                "file": "02 Estudo/AngularJSNotesForProfessionals.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Angular2NotesForProfessionals"
+              "title": "Sumário de AngularJSNotesForProfessionals"
             }
           },
           {
@@ -182,12 +194,12 @@
       "daily-notes:Abrir a nota de hoje": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0c10dd972b7ccfcf",
+  "active": "f64158766193aab6",
   "lastOpenFiles": [
+    "02 Estudo/Angular2NotesForProfessionals.pdf",
     "02 Estudo/Brasport - Implantando a Governança de TI.pdf",
     "02 Estudo/Tanenbaum - Sistemas Distribuídos Princípios e Paradigmas.pdf",
     "02 Estudo/Forouzan - Comunicação de Dados e Redes de Computadores.pdf",
@@ -215,7 +227,6 @@
     "Personal Books.base",
     "01 Pessoal/Platão - A República.pdf",
     "04 Concurso/Portugues",
-    "04 Concurso/00 edital/fepese-2023-coren-sc-analista-de-sistemas-as2-prova.pdf",
     "04 - JAVASCRIPT/10 - FUNÇÕES.md",
     "02 - HTML/03 - TAGS TABELAS.md",
     "04 - JAVASCRIPT/02 - LOCAIS PARA JS.md",
