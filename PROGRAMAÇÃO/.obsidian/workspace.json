@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cdc4a001555e3095",
+        "id": "74d6ef945eb6d6da",
         "type": "tabs",
         "children": [
           {
-            "id": "cee70ee55111efdc",
+            "id": "475bffc2d0316e8a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "01 Pessoal/00 Read/Byung-Chul Han - Sociedade do Cansaço.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Byung-Chul Han - Sociedade do Cansaço"
-            }
-          },
-          {
-            "id": "0c10dd972b7ccfcf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "02 Estudo/AngularJSNotesForProfessionals.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "AngularJSNotesForProfessionals"
-            }
-          },
-          {
-            "id": "f64158766193aab6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.12.4"
-            }
-          },
-          {
-            "id": "f2d572af7daad9f5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.12.7"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,8 +104,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -208,17 +169,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f2d572af7daad9f5",
+  "active": "271a702203f418c9",
   "lastOpenFiles": [
+    "01 Concurso/02 CONTEUDO",
+    "01 Concurso/00 EDITAIS/BLUMENAU FURB EDITAL.pdf",
+    "01 Concurso/163a2b58-1863-4e35-8618-1ad177a19c0d.pdf",
+    "01 Concurso/01 PROVAS/BLUMENAU FURB PROVA.pdf",
+    "01 Concurso/00 EDITAIS/Não confirmado 538629.crdownload",
+    "01 Concurso/01 PROVAS",
+    "01 Concurso/00 edital/Resumo.md",
+    "01 Concurso/01 PROVAS/SC COREN PROVA.pdf",
+    "01 Concurso/00 EDITAIS/FLORIPA FEPESE EDITAL.pdf",
+    "01 Concurso/00 edital/analista_de_sistemas.pdf",
+    "OVERVIEW.canvas",
     "02 Estudo/Angular2NotesForProfessionals.pdf",
     "02 Estudo/Brasport - Implantando a Governança de TI.pdf",
-    "02 Estudo/Tanenbaum - Sistemas Distribuídos Princípios e Paradigmas.pdf",
-    "02 Estudo/Forouzan - Comunicação de Dados e Redes de Computadores.pdf",
-    "01 Pessoal/A República Platão.pdf",
     "04 Concurso/Portugues/Sem título.md",
-    "01 Pessoal/RPG - Gusta.pdf",
-    "01 Pessoal/00 Read/Charles Bukowski - Mulheres.pdf",
-    "01 Pessoal/00 Read/Byung-Chul Han - Sociedade do Cansaço.pdf",
     "01 Pessoal/Read/Sociedade do cansaço - Byung-Chul Han.md",
     "01 Pessoal/Read/Ruínas de Gorlan - John Anthony Flanagan.md",
     "01 Pessoal/Read/ReZero - Começando uma Vida em Outro Mundo - Livro 23 - Tappei Nagatsuki.md",
@@ -235,9 +201,6 @@
     "01 Pessoal/Meditações - Marco Aurélio.md",
     "01 Pessoal/Como fazer amigos e influenciar pessoas - Dale Carnegie.md",
     "01 Pessoal/A República - Platão.md",
-    "Personal Books.base",
-    "01 Pessoal/Platão - A República.pdf",
-    "04 Concurso/Portugues",
     "04 - JAVASCRIPT/10 - FUNÇÕES.md",
     "02 - HTML/03 - TAGS TABELAS.md",
     "04 - JAVASCRIPT/02 - LOCAIS PARA JS.md",
@@ -245,13 +208,11 @@
     "04 - JAVASCRIPT/12 CLASSES/03 - HERANÇA.md",
     "04 - JAVASCRIPT/12 CLASSES/02 - THIS.md",
     "04 - JAVASCRIPT/12 CLASSES/01 - CLASSES.md",
-    "04 Concurso/00 edital/Resumo.md",
     "01 Pessoal/Manga/Pokemon Especial/Pokémon Dungeon/cover.jpg",
     "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/04.jpg",
     "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/03.jpg",
     "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/02.jpg",
     "01 Pessoal/Manga/Pokemon Especial/Hokuto No Ken _ Pokemon/Capítulo 0/01.jpg",
-    "OVERVIEW.canvas",
     "jair.png",
     "04 - JAVASCRIPT/06 REGEX/regex.png",
     "05 - NODE/MVC.canvas",
