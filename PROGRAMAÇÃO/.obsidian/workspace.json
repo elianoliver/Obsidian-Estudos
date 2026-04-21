@@ -42,9 +42,21 @@
               "icon": "lucide-book-up",
               "title": "Notas de Lançamento 1.12.4"
             }
+          },
+          {
+            "id": "f2d572af7daad9f5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.12.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,7 +209,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f64158766193aab6",
+  "active": "f2d572af7daad9f5",
   "lastOpenFiles": [
     "02 Estudo/Angular2NotesForProfessionals.pdf",
     "02 Estudo/Brasport - Implantando a Governança de TI.pdf",
