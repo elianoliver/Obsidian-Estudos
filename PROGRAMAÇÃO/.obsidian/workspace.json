@@ -129,13 +129,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Estudo/AngularJSNotesForProfessionals.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de AngularJSNotesForProfessionals"
+              "title": "Sumário"
             }
           },
           {
