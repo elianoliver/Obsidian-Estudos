@@ -11,10 +11,15 @@
             "id": "475bffc2d0316e8a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02 Faculdade/INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB/Sem título.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Sem título"
             }
           }
         ]
@@ -90,12 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02 Faculdade/INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB/Sem título.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Sem título"
             }
           },
           {
@@ -169,8 +175,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "475bffc2d0316e8a",
+  "active": "271a702203f418c9",
   "lastOpenFiles": [
+    "02 Faculdade/INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB/Sem título.md",
+    "02 Faculdade/INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB",
+    "02 Faculdade",
     "01 Concurso/02 CONTEUDO",
     "01 Concurso/00 EDITAIS/BLUMENAU FURB EDITAL.pdf",
     "01 Concurso/163a2b58-1863-4e35-8618-1ad177a19c0d.pdf",
@@ -180,10 +189,7 @@
     "01 Concurso/00 edital/Resumo.md",
     "01 Concurso/01 PROVAS/SC COREN PROVA.pdf",
     "01 Concurso/00 EDITAIS/FLORIPA FEPESE EDITAL.pdf",
-    "01 Concurso/00 edital/analista_de_sistemas.pdf",
     "OVERVIEW.canvas",
-    "02 Estudo/Angular2NotesForProfessionals.pdf",
-    "02 Estudo/Brasport - Implantando a Governança de TI.pdf",
     "04 Concurso/Portugues/Sem título.md",
     "01 Pessoal/Read/Sociedade do cansaço - Byung-Chul Han.md",
     "01 Pessoal/Read/Ruínas de Gorlan - John Anthony Flanagan.md",
