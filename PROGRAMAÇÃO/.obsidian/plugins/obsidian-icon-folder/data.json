@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFilePdf",
+      "FasFileWord",
       "FasFaceSadCry",
       "FarFaceSadCry",
-      "FasFaceTired",
-      "😫",
-      "FasCircleCheck"
+      "FasFaceTired"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -62,5 +62,9 @@
   "01 Pessoal/00 Read/Zygmunt Bauman - Amor Liquido Sobre a Fragilidade dos Laços Humanos - Zahar.pdf": "FasCircleCheck",
   "02 Estudo/00 Read/Bhargava - Entendendo Algoritmos.pdf": "FasCircleCheck",
   "02 Estudo/00 Read/CDC - Web Design Responsivo.pdf": "FasCircleCheck",
-  "02 Estudo/00 Read/Entendendo Algoritmos": "FasCircleCheck"
+  "02 Estudo/00 Read/Entendendo Algoritmos": "FasCircleCheck",
+  "02 Faculdade/ESTRUTURA DE DADOS/Desafios/III - DESAFIO PROFISSIONAL DE ESTRUTURAS DE DADOS.pdf": "FasFilePdf",
+  "02 Faculdade/ESTRUTURA DE DADOS/Desafios/III - DESAFIO PROFISSIONAL DE ESTRUTURAS DE DADOS.docx": "FasFileWord",
+  "02 Faculdade/INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB/Desafios/III - DESAFIO PROFISSIONAL DE INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB.pdf": "FasFilePdf",
+  "02 Faculdade/INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB/Desafios/III - DESAFIO PROFISSIONAL DE INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB.docx": "FasFileWord"
 }
