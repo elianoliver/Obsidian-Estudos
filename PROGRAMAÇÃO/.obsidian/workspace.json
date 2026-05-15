@@ -11,12 +11,15 @@
             "id": "ac0c462be5c61f95",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "02 Faculdade/INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB/Desafios/III - DESAFIO PROFISSIONAL DE INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB.pdf"
+                "file": "02 Faculdade/INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB/Sem título.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "III - DESAFIO PROFISSIONAL DE INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB"
+              "icon": "lucide-file",
+              "title": "Sem título"
             }
           }
         ]
@@ -92,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Faculdade/INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB/Desafios/III - DESAFIO PROFISSIONAL DE INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB.pdf",
+                "file": "02 Faculdade/INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB/Sem título.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de III - DESAFIO PROFISSIONAL DE INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB"
+              "title": "Sumário de Sem título"
             }
           },
           {
@@ -173,8 +176,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fa512d1e85198c81",
+  "active": "ac0c462be5c61f95",
   "lastOpenFiles": [
+    "02 Faculdade/INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB/Desafios/III - DESAFIO PROFISSIONAL DE INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB.pdf",
     "02 Faculdade/ESTRUTURA DE DADOS/Desafios/III - DESAFIO PROFISSIONAL DE ESTRUTURAS DE DADOS.docx",
     "02 Faculdade/ESTRUTURA DE DADOS/Desafios",
     "02 Faculdade/ESTRUTURA DE DADOS",
@@ -183,7 +187,6 @@
     "02 Faculdade/mso3945.tmp",
     "02 Faculdade/INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB/Desafios/~$I - DESAFIO PROFISSIONAL DE INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB.docx",
     "02 Faculdade/INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB/Sem título.md",
-    "02 Faculdade/INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB/Desafios/III - DESAFIO PROFISSIONAL DE INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB.pdf",
     "02 Faculdade/INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB/Desafios",
     "02 Faculdade/INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB/Desafios/III - DESAFIO PROFISSIONAL DE INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB.docx",
     "02 Faculdade/INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB/~$SAFIO PROFISSIONAL DE INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB.docx",
