@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasX",
       "FasFilePdf",
       "FasFileWord",
       "FasFaceSadCry",
-      "FarFaceSadCry",
-      "FasFaceTired"
+      "FarFaceSadCry"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -66,5 +66,7 @@
   "02 Faculdade/ESTRUTURA DE DADOS/Desafios/III - DESAFIO PROFISSIONAL DE ESTRUTURAS DE DADOS.pdf": "FasFilePdf",
   "02 Faculdade/ESTRUTURA DE DADOS/Desafios/III - DESAFIO PROFISSIONAL DE ESTRUTURAS DE DADOS.docx": "FasFileWord",
   "02 Faculdade/INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB/Desafios/III - DESAFIO PROFISSIONAL DE INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB.pdf": "FasFilePdf",
-  "02 Faculdade/INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB/Desafios/III - DESAFIO PROFISSIONAL DE INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB.docx": "FasFileWord"
+  "02 Faculdade/INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB/Desafios/III - DESAFIO PROFISSIONAL DE INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB.docx": "FasFileWord",
+  "02 Faculdade/ESTRUTURA DE DADOS": "FasX",
+  "02 Faculdade/INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB": "FasX"
 }

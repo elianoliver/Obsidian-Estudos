@@ -21,26 +21,24 @@
               "icon": "lucide-file",
               "title": "PONTEIROS"
             }
-          }
-        ]
-      },
-      {
-        "id": "a0f4942e95162d28",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "19644ddbd223a720",
+            "id": "7ddd32b69b9b0211",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "02 Faculdade/ESTRUTURA DE DADOS/estrutura de dados.pdf"
+                "file": "03 EDICAO DE VIDEO/CRONOGRAMA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "estrutura de dados"
+              "icon": "lucide-file",
+              "title": "CRONOGRAMA"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5,
-    "collapsed": true
+    "width": 362.5
   },
   "right": {
     "id": "9cbc89da39f34f0a",
@@ -196,10 +193,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ac0c462be5c61f95",
+  "active": "7ddd32b69b9b0211",
   "lastOpenFiles": [
-    "02 Faculdade/ESTRUTURA DE DADOS/estrutura de dados.pdf",
     "02 Faculdade/ESTRUTURA DE DADOS/PONTEIROS.md",
+    "03 EDICAO DE VIDEO/CRONOGRAMA.md",
+    "03 EDICAO DE VIDEO",
+    "02 Faculdade/ESTRUTURA DE DADOS/estrutura de dados.pdf",
     "02 Faculdade/ESTRUTURA DE DADOS/Desafios/III - DESAFIO PROFISSIONAL DE ESTRUTURAS DE DADOS.pdf",
     "02 Faculdade/ESTRUTURA DE DADOS/Desafios/~$I - DESAFIO PROFISSIONAL DE ESTRUTURAS DE DADOS.docx",
     "02 Faculdade/INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB/Sem título.md",
@@ -209,7 +208,6 @@
     "02 Faculdade/ESTRUTURA DE DADOS",
     "02 Faculdade/mso3AEC.tmp",
     "02 Faculdade/mso3945.tmp",
-    "02 Faculdade/INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB/Desafios/~$I - DESAFIO PROFISSIONAL DE INTRODUÇÃO AO DESENVOLVIMENTO DE SISTEMAS WEB.docx",
     "01 Concurso/00 edital/Resumo.md",
     "OVERVIEW.canvas",
     "04 Concurso/Portugues/Sem título.md",
