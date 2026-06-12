@@ -1,5 +1,5 @@
 {
-  "lastVersion": "4.0.6",
+  "lastVersion": "4.0.8",
   "aestheticStyle": "default",
   "positionStyle": "top",
   "menuCommands": [
@@ -451,9 +451,10 @@
   "ai": {
     "enabled": false,
     "consentAccepted": false,
-    "onboardingShown": false,
+    "onboardingShown": true,
     "providerMode": "pkmer-first",
     "enableInlineCompletion": true,
+    "inlineCompletionHintLearned": false,
     "completionTrigger": "manual",
     "completionDelay": 500,
     "enableRewrite": true,
