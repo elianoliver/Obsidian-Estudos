@@ -1,5 +1,24 @@
+# Arquivos grandes / livros
 *.pdf
 *.epub
 *.mobi
 *.exe
 Calibre Portable/
+
+# Pastas privadas (o repositório no GitHub é PÚBLICO)
+98 Documentos/
+01 Diário/
+05 Claude/Contextos/
+
+# Lixo do macOS
+._*
+.DS_Store
+
+# Estado local do Obsidian e do Claude
+.obsidian/workspace*.json
+.obsidian/plugins/*/main.js.map
+.trash/
+.claude/settings.local.json
+
+# Atalho local para o contexto privado (aponta para 05 Claude/Contextos)
+.claude/contexto/

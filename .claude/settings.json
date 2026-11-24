@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(./98 Documentos/**)",
+      "Edit(./98 Documentos/**)",
+      "Write(./98 Documentos/**)",
+      "Bash(ls*98 Documentos*)",
+      "Bash(cat*98 Documentos*)",
+      "Bash(git add -f*)",
+      "Bash(git add --force*)"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "accentColor": "#29008a",
+  "theme": "obsidian",
+  "cssTheme": "AnuPpuccin",
+  "translucency": false,
+  "nativeMenus": true,
+  "showViewHeader": false,
+  "enabledCssSnippets": [
+    "teste",
+    "image-rounded",
+    "custom-style",
+    "image-center",
+    "extended-colorschemes",
+    "rounded-images",
+    "custom-rainbow-colors"
+  ],
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "showRibbon": true,
+  "baseFontSize": 15,
+  "baseFontSizeAction": true
+}

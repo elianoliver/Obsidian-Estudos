@@ -1,0 +1,25 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "attachmentFolderPath": "99 Anexos",
+  "showLineNumber": false,
+  "showIndentGuide": false,
+  "showUnsupportedFiles": true,
+  "showInlineTitle": true,
+  "newFileLocation": "folder",
+  "foldHeading": true,
+  "readableLineLength": true,
+  "propertiesInDocument": "visible",
+  "strictLineBreaks": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheck": false,
+  "newFileFolderPath": "00 Inbox"
+}
