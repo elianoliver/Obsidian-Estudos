@@ -2,7 +2,7 @@
   "accentColor": "#29008a",
   "theme": "obsidian",
   "cssTheme": "AnuPpuccin",
-  "translucency": false,
+  "translucency": true,
   "nativeMenus": true,
   "showViewHeader": false,
   "enabledCssSnippets": [
@@ -14,9 +14,10 @@
     "rounded-images",
     "custom-rainbow-colors"
   ],
-  "interfaceFontFamily": "JetBrainsMono Nerd Font",
-  "textFontFamily": "JetBrainsMono Nerd Font",
+  "interfaceFontFamily": "FiraCode Nerd Font",
+  "textFontFamily": "FiraCode Nerd Font",
   "showRibbon": true,
   "baseFontSize": 15,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "FiraCode Nerd Font Mono"
 }

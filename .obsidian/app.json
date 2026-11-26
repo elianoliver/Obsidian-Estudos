@@ -10,7 +10,7 @@
   "showInlineTitle": true,
   "newFileLocation": "folder",
   "foldHeading": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "propertiesInDocument": "visible",
   "strictLineBreaks": false,
   "pdfExportSettings": {
@@ -21,5 +21,6 @@
     "downscalePercent": 100
   },
   "spellcheck": false,
-  "newFileFolderPath": "00 Inbox"
+  "newFileFolderPath": "00 Inbox",
+  "rightToLeft": true
 }
